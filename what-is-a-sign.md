@@ -2,6 +2,7 @@
 # What is a Sign?
 
 Written: 1894;
+
 Source: https://peirce.sitehost.iu.edu/ep/ep2/ep2book/ch02/ch02.htm
 
 *MS 404. [Published in part in CP 2.281, 285, and 297-302. This work, probably composed early in 1894, was originally the first chapter of a book entitled "The Art of Reasoning," but was then turned into the second chapter of Peirce's multi-volume "How to Reason: A Critick of Arguments" (also known as "Grand Logic").] In this selection Peirce gives an account of signs based on an analysis of conscious experience from the standpoint of his three universal categories. He discusses the three principal kinds of signs—icons, indices, and symbols—and provides many examples. He maintains, as he had earlier, that reasoning must involve all three kinds of signs, and he claims that the art of reasoning is the art of marshalling signs, thus emphasizing the relationship between logic and semiotics.*
