@@ -3,7 +3,11 @@ title: arisbe, a guess at the riddle
 author:
   name: Peter Woloszyn
   email: a-guess-at-the-riddle@protonmail.com
-description: "Blog on GH-Pages."
+description: "Blog and link directory for academic articles, books, and course lectures on GH-Pages."
+
+social_links:
+  twitter: arisbe__
+  github:  a-guess-at-the-riddle
 
 # Build settings
-remote_theme: jekyll/minima
+theme: jekyll/minima
