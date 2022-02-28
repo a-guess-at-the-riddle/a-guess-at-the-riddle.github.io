@@ -1,1 +1,9 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: arisbe, a guess at the riddle
+author:
+  name: Peter Woloszyn
+  email: a-guess-at-the-riddle@protonmail.com
+description: "Blog on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
