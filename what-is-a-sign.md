@@ -1,7 +1,7 @@
 # What is a Sign?
 ## by Charles Sanders Peirce
 
-*Written: 1894;*
+**Written: 1894;**
 
 Source: [https://peirce.sitehost.iu.edu/ep/ep2/ep2book/ch02/ch02.htm](https://peirce.sitehost.iu.edu/ep/ep2/ep2book/ch02/ch02.htm)
 
