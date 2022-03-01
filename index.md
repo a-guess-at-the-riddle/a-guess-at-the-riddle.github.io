@@ -2,4 +2,4 @@
 layout: home 
 ---
 
-Welcome to my new blog!
+![sphinx](/assets/sphinx_whitebg1.jpg)
