@@ -3,8 +3,7 @@ layout: page
 title: About
 ---
 
-A speculative philosophical blog primarily influenced by the work of the American philosopher Charles Sanders Peirce. Also including a link directory of academic articles, books, talks and lecture courses.
-Other big influences include: John Dewey, Terrence Deacon, Jordan Peterson, Wai H Tsang, & Kenneth Stanley
+An collection of essays in synthetic philosophy primarily influenced by the work of the American philosopher Charles Sanders Peirce (1839–1914). Also includes a link directory of academic articles, books, talks and lecture courses.
 
 ## About About Pages
 
