@@ -127,31 +127,19 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 ### Online Journals & Magazines:
 
 - FreeBSD Foundation | FreeBSD Journal - https://freebsdfoundation.org/our-work/journal/
-- 
 - OpenBSD | OpenBSD Journal (undeadly) - https://undeadly.org/cgi?action=front
-- 
 - Red Hat | Red Hat Research Quarterly (RHRQ) - https://research.redhat.com/quarterly/
-- 
 - Free Software Foundation | FSF Bulletins - https://www.fsf.org/bulletin
-- 
 - USENIX | ;login: - https://www.usenix.org/publications/loginonline
-- 
 - ACCU | Overload journal - https://accu.org/journals/nonmembers/overload_issue_members/
-- 
 - JSoftware | index of articles - https://www.jsoftware.com/papers/
-- 
 - AMS | Notices of the American Mathematial Society - https://www.ams.org/notices
-- 
 - SIAM | DSWeb - https://dsweb.siam.org/
-- 
 - Quanta Magazine - https://www.quantamagazine.org/
-- 
 - Nautilus Magazine - https://nautil.us/
-- 
+- Cambridge University | Plus Magazine - https://plus.maths.org/content/
 - American Scientist - https://www.americanscientist.org/
-- 
 - Rutherford Journal Vol 1-5 (2005-2018) - http://www.rutherfordjournal.org/
-- 
 - Cryptoeconomic Systems - https://cryptoeconomicsystems.pubpub.org/
 
 ### unorganised
