@@ -1,3 +1,29 @@
+**Top 5 Blogs:**
+1. Privatedozent (Jørgen Veisdal, Substack) - https://www.privatdozent.co/
+2. Gwern (Gwern Branwen, personal site) - https://www.gwern.net/
+3. Cantor's Paradise (Medium) - https://www.cantorsparadise.com/
+4. The Intrinsic Perspective (Eric Hoel, Substack) - https://erikhoel.substack.com/
+5. The Gradient (Substack) - https://thegradientpub.substack.com/
+
+**Top 5 Podcasts:**
+1. The Dissenter (Ricardo Lopez) - https://www.youtube.com/c/TheDissenterRL
+2. Privatedozent Podcast (Jørgen Veisdal) - https://www.privatdozent.co/s/privatdozent
+3. Machine Learning Street Talk (Tim Scarfe, Keith Duggar & Yannic Kilcher) - https://www.youtube.com/c/MachineLearningStreetTalk
+4. Brain Inspired (Paul Middlebrooks) - https://braininspired.co/
+5. Engineered Mind (Jousef Murad) - https://www.youtube.com/playlist?list=PL-K7XxqaUNyfG3VzPuupvJyseCAIEn8-L
+
+### Blogs
+
+### Podcasts
+
+### Articles
+
+### Books
+
+### Talks
+
+### Course Lectures
+
 Roger Moore (University of Alberta) | PHYS 130: Waves and Optics - https://www.youtube.com/playlist?list=PLSrKSt8xhLVrRO5MF6hksLfu2UeZrIiYu
 
 
