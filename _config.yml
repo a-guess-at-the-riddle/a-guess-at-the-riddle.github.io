@@ -6,8 +6,8 @@ author:
 description: "Blog and link directory for academic articles, books, and course lectures on GH-Pages."
 
 social_links:
-  twitter: arisbe__
-  github:  a-guess-at-the-riddle
+  twitter_username: arisbe__
+   github_username: a-guess-at-the-riddle
 
 # Build settings
 theme: minima
