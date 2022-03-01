@@ -197,8 +197,7 @@ Charles S. Peirce's Phenomenology: Analysis and Consciousness by Richard Kenneth
 
 On a New List of Categories (1867) by Charles Sanders Peirce - https://en.wikisource.org/wiki/On_a_New_List_of_Categories
 
-A Philosophical Commentary On C. S. Peirce’s “On A New List Of Categories”: Exhibiting Logical Structure And Abiding Relevance
-A Dissertation in Philosophy by Masato Ishida (2009) - https://etda.libraries.psu.edu/files/final_submissions/4550
+A Philosophical Commentary On C. S. Peirce’s “On A New List Of Categories”: Exhibiting Logical Structure And Abiding Relevance A Dissertation in Philosophy by Masato Ishida (2009) - https://etda.libraries.psu.edu/files/final_submissions/4550
 
 Peirce-Arg Philosophers (Arguments of the Philosophers) by Christopher Hookway
 
@@ -206,10 +205,20 @@ Peirce and Triadomania: A Walk in the Semiotic by C. W. Spinks
 
 Semiotics and Significants The Correspondence between Charles S. Peirce and Victorial Lady Welby (Edited by Charles S. Hardwick)
 
+Francesco Bellucci | *Peirce’s Speculative Grammar: Logic as Semiotics* (Routledge Studies in American Philosophy) 
+
+Francesco Bellucci (TIDD PUC-SP, YouTube)| Peirce on Symbols - https://www.youtube.com/watch?v=YhB6pFhXOto
+
 ???T. L Short (Peirce's Theory of Signs)???
 ???Menno Hulswit (From Cause to Causation: A Peircean Perspective (Philosophical Studies Series, 90))???
 
 Commens Digital Companion to C. S. Peirce - http://www.commens.org/
+
+Terrence Deacon, *The Symbolic Species: The Co-evolution of Language and the Brain*. New York: W.W. Norton & Company. 1997. ISBN 978-0-393-31754-1
+
+Terrence Deacon, *Incomplete Nature: How Mind Emerged from Matter*. New York: W.W. Norton & Company. 2011. ISBN 978-0-393-04991-6
+
+Wikipedia summary of Incomplete Nature: https://en.wikipedia.org/wiki/Incomplete_Nature
 
 The Great Chain of Being: A Study of the History of an Idea by Arthur O. Lovejoy
 
