@@ -5,9 +5,9 @@ title: Quality, Quantity, Measure[^1]
 
 **INCOMPLETE ROUGH DRAFT**
 
-**associated topic tags:** quality, semantic dimensions, semantic spaces, conceptual spaces, Peter Gärdenfors, *The Ascent of Man*, Jacob Bronowski, development of complexity, phenomenology, perception, developmental psychology, Jean Piaget, measurement theory, level of measurement, nominal, ordinal, order, interval, ratio, Stanley Smith Stevens, Benjamin Drake Wright, Georg Wilhelm Friedrich Hegel, Charles Sanders Peirce, semiotics, icon, index, symbol, Terrence Deacon, *The Symbolic Species*, necessity, history of mathematics, number, quantity, discrete, continuous, measure, 
+**associated topic tags:** quality, semantic dimensions, semantic spaces, conceptual spaces, Peter Gärdenfors, *The Ascent of Man*, Jacob Bronowski, development of complexity, phenomenology, perception, developmental psychology, Jean Piaget, measurement theory, level of measurement, nominal, ordinal, order, interval, ratio, Stanley Smith Stevens, Benjamin Drake Wright, Georg Wilhelm Friedrich Hegel, Herbert Spencer, Charles Sanders Peirce, semiotics, icon, index, symbol, Terrence Deacon, *The Symbolic Species*, necessity, history of mathematics, number, quantity, discrete, continuous, measure, 
 
-**currently researching:** data structures, data structure design space, combinatorial design, incidence structures, formal concept analysis
+**currently researching:** data structures, data structure design space, combinatorial design, incidence structures, formal concept analysis, extension, intension, comprehension, formal concept analysis, order theory, lattice, degeneracy
 
 I recently watched a lecture on conceptual spaces where the cognitive scientist Peter Gärdenfors was talking about meaning with concepts like "qualitative dimension" and "semantic space". I was left with the feeling that I didn't really understand in any rigorous way what was meant by terms like "quality", "qualitative" and "qualitiative dimension". The first question that comes to mind is how can we relate this concept to the more familar notion of a quantitative dimension that we encounter in mathematics and the natural sciences?
 
@@ -59,95 +59,39 @@ Here is an apt quote from C.S. Peirce's father about how the network of symbols 
 
 “The strongest use of the symbol is to be found in its magical power of doubling the actual universe, and placing by its side an ideal universe, its exact counterpart, with which it can be compared and contrasted, and, by means of curiously connecting fibres, form with it an organic whole, from which modern analysis has developed her surpassing geometry.” —Benjamin Peirce
 
-A more related triad is that of tone, token, and type. A tone is a
-continuous signal. A token is a discretization of that signal, and a
-type is a collection of tokens. The progression from tone to token to
-type is related to perception and learning. I'm think that Peirce's
-broader categories of 1stness, 2ndness, and 3rdness fit in with this
-narrative as well, but I won't go into that.
+A more related triad is that of tone, token, and type. A tone is a continuous signal. A token is a discretization of that signal, and a type is a collection of tokens. The progression from tone to token to type is related to perception and learning. I'm think that Peirce's broader categories of 1stness, 2ndness, and 3rdness fit in with this narrative as well, but I won't go into that.
 
-Psychological Measurement
-Also in psychological measurement there is a tradition of
-categorization of levels of measurement. The categories allow them to
-constrain what statistical operations can be done so as to only allow
-meaningful operations on a data type (they predate the notion of date
-type, but are essentially similar). The original levels were Nominal
-(classification), Ordinal (comparison, level), Interval (difference,
-affinity), Ratio (magnitude, amount). There are quite a few other
-classifications of varying degrees of detail, but you should be able
-to see the similarities (after all these are also analogizing from
-physiological perception to "scientific perception".
+**Psychological Measurement**
+Also in psychological measurement there is a tradition of categorization of levels of measurement. The categories allow them to constrain what statistical operations can be done so as to only allow meaningful operations on a data type (they predate the notion of date type, but are essentially similar). The original levels were Nominal (classification), Ordinal (comparison, level), Interval (difference, affinity), Ratio (magnitude, amount). There are quite a few other classifications of varying degrees of detail, but you should be able to see the similarities (after all these are also analogizing from physiological perception to "scientific perception".
 
-Further Mathematics (Complex Mathematical Objects)
-It is interesting to think once we have many types of quantitative
-numbers (e.g., integers, fractions, reals) we start to build
-abstractions on top of those quantities and those superstructures can
-be discrete with some continuous parts or discrete parts or just
-continuous with continuous values. So we can have many levels of
-inversion or we can have consecutive levels that are the same. For
-example a weighted graph (think neural network) is a essentially
-discrete data structure with continuous values at each vertex. Is
-seems to be true that continuous "structures" (so to say) require
-continuous parts while discrete structures do not. I would like to
+**Further Mathematics (Complex Mathematical Objects)**
+It is interesting to think once we have many types of quantitative numbers (e.g., integers, fractions, reals) we start to build abstractions on top of those quantities and those superstructures can be discrete with some continuous parts or discrete parts or just continuous with continuous values. So we can have many levels of inversion or we can have consecutive levels that are the same. For example a weighted graph (think neural network) is a essentially discrete data structure with continuous values at each vertex. Is seems to be true that continuous "structures" (so to say) require continuous parts while discrete structures do not. I would like to
 think more about this.
 
-Here is a quote from the book I just read about Peirce where the
-author is talking about Herbert Spencer:
+Here is a quote from the book I just read about Peirce where the author is talking about Herbert Spencer:
 
-Spencer also gave an alternative definition of evolution as “an
-integration of matter and concomitant dissipation of motion; during
-which the matter passes from a relatively indefinite, incoherent
-homogeneity to a relatively definite, coherent heterogeneity.” (First
-Principles, 367). This was subsequently lampooned by the mathematician
-Kirkman, who gave the following “translation” into English: “Evolution
-is a change from a nohowish, untalkaboutable, all-alikeness, to a
-somehowish and in-generaltalkabaoutable not-all-alikeness, by
-continuous somethingelseifications and sticktogetherations”
+Spencer also gave an alternative definition of evolution as “an integration of matter and concomitant dissipation of motion; during which the matter passes from a relatively indefinite, incoherent homogeneity to a relatively definite, coherent heterogeneity.” (First Principles, 367). This was subsequently lampooned by the mathematician
+Kirkman, who gave the following “translation” into English: “Evolution is a change from a nohowish, untalkaboutable, all-alikeness, to a
+somehowish and in-generaltalkabaoutable not-all-alikeness, by continuous somethingelseifications and sticktogetherations”
 
-Also from Peirce's first paper on the purpose of concepts relating to
-perception and learning:
+Also from Peirce's first paper on the purpose of concepts relating to perception and learning:
 
-This paper is based upon the theory already established, that the
-function of conceptions is to reduce the manifold of sensuous
-impressions to unity, and that the validity of a conception consists
-in the impossibility of reducing the content of consciousness to unity
-without the introduction of it.
+This paper is based upon the theory already established, that the function of conceptions is to reduce the manifold of sensuous impressions to unity, and that the validity of a conception consists in the impossibility of reducing the content of consciousness to unity without the introduction of it.
 
-Apparently Peirce disagreed with Spencer quite largely on their respective
- evolutionary cosmologies.
+Apparently Peirce disagreed with Spencer quite largely on their respective evolutionary cosmologies.
 
-It would be interesting to investigate whether the asymmetry of
-Peirce's hierarchy of genuine vs degenerate versions of 1stness,
-2ndness, and 3rdness is related to the asymmetry of this discrete and
-continuous hierarchy. He essential says that when your recursive
-higher ordered descriptions of the categories (e.g, 1stness of
-2ndness) are semiotically constrained (e.g., there is no 3rdness of
-1stness). This is similar to how a continuous structure (i.e.
-Euclidian space) must be constructed from continuous parts (i.e., real
-numbers), but a discrete space can have discrete or continuous values
-in it "slots".
+It would be interesting to investigate whether the asymmetry of Peirce's hierarchy of genuine vs degenerate versions of 1stness, 2ndness, and 3rdness is related to the asymmetry of this discrete and continuous hierarchy. He essential says that when your recursive higher ordered descriptions of the categories (e.g, 1stness of 2ndness) are semiotically constrained (e.g., there is no 3rdness of 1stness). This is similar to how a continuous structure (i.e. Euclidian space) must be constructed from continuous parts (i.e., real
+numbers), but a discrete space can have discrete or continuous values in it "slots".
 
-Another way to summarize it is that there seems to be universal
-progression both in our minds and in the "social mind" from an
-undifferentiated implied continuum to a small number of differentiated
-parts to a growing number of quantities so as to bring back a notion
-of continuity but now in an explicit representation.
-
-(was that a run-on?)
+Another way to summarize it is that there seems to be universal progression both in our minds and in the "social mind" from an undifferentiated implied continuum to a small number of differentiated parts to a growing number of quantities so as to bring back a notion of continuity but now in an explicit representation.
 
 Spencer would argue that it occurs at many more levels as well.
 
-it is basically a description of the dynamic pattern of the growth of
-knowledge at least when applied to minds. Perhaps it would be more
-accurate to say the growth of complexity itself.
+it is basically a description of the dynamic pattern of the growth of knowledge at least when applied to minds. Perhaps it would be more accurate to say the growth of complexity itself.
 
-Like I said before, the question is what happens when you try to
-extrapolate to higher order data structures/mathematical objects.
+Like I said before, the question is what happens when you try to extrapolate to higher order data structures/mathematical objects.
 
-Of course throughout this I have been sometimes haphazardly equating
-discrete with quantity and continuous with quality. Here is a
-four-part categorization (as opposed to the triad earlier) of the same
-idea:
+Of course throughout this I have been sometimes haphazardly equating discrete with quantity and continuous with quality. Here is a four-part categorization (as opposed to the triad earlier) of the same idea:
 
 qualitative
 continuous
@@ -167,8 +111,7 @@ continuity
 neighbors)
 
 
-An very simple example of a higher order structure would be a complex
-number. It can be put in this scheme by describing it as a discrete
+An very simple example of a higher order structure would be a complex number. It can be put in this scheme by describing it as a discrete
 "compound" of a quantitative continuities.
 But I'm not sure if it would be a
 - qualitative/discrete compound of quantitative/continuities; or
@@ -179,20 +122,11 @@ using the four-fold scheme
 The two slots of a real pair are singularities of continuous numbers
 not intervals.
 
-Peirce even analogizes such mental processes to the process of an
-organism's metabolic breakdown of nutrients and then constructing them
-up again. This is similar to the breakdown of the continuous manifold
-of sensuous impressions (tones) and then the building back up of
-tokens, types and higher-order structures.
+Peirce even analogizes such mental processes to the process of an organism's metabolic breakdown of nutrients and then constructing them up again. This is similar to the breakdown of the continuous manifold of sensuous impressions (tones) and then the building back up of tokens, types and higher-order structures.
 
-I often wonder if the idea of fungibility/interchangeable parts fits
-somewhere in this story. Because in order to have measurement you need
-a unit of measurement that is a standard. This presupposes that the
-standard is fungible.  You really can't progress from quality to
-quantity until you have such a comparison to a standard.
+I often wonder if the idea of fungibility/interchangeable parts fits somewhere in this story. Because in order to have measurement you need a unit of measurement that is a standard. This presupposes that the standard is fungible.  You really can't progress from quality to quantity until you have such a comparison to a standard.
 
-Also interchangeable parts seem to emerge alongside the development of
-complexity as well.
+Also interchangeable parts seem to emerge alongside the development of complexity as well.
 
 
 [^1]: Note that although this title corresponds with the outline of the Doctrine of Being from Hegel's *Science of Logic*, I do not cover Hegel's ideas except superficially as I was unaware them at the time of writing this essay.
@@ -213,17 +147,18 @@ complexity as well.
 
 things to add:
 
+- list the properties (intensional specification) of the different number sets
+
 - Hegel and The Science of Logic seems to have covered very similar material...
 
-- money
+- money??? is this applicable?
 
 - more about the development of larger and larger sets in mathematics?
 
-- virtual reality
-
-- order in the emergence of data structures
+- history of the invention and emergence of data structures in computer science
 
 ## Glossary:
+...
 
 ## References:
 
@@ -244,21 +179,38 @@ Wright B.D. (1999) Fundamental measurement for psychology. In S.E. Embretson & S
 
 The Logical Structure of Kinds by Eric Funkhouser
 
-Peirce bibliography: https://en.wikipedia.org/wiki/Charles_Sanders_Peirce_bibliography
+Peirce bibliography from Wikipedia: https://en.wikipedia.org/wiki/Charles_Sanders_Peirce_bibliography
 
-On a New List of Categories (1867) by Charles Sanders Peirce - https://en.wikisource.org/wiki/On_a_New_List_of_Categories
+What is a Sign? by C S Peirce
+
+The Continuity of Peirce's Thought (Vanderbilt Library of American Philosophy) by Kelly A. Parker
+
+Peirce's Scientific Metaphysics: The Philosophy of Chance, Law, and Evolution (Vanderbilt Library of American Philosophy) by Andrew Reynolds
 
 Charles S. Peirce's Phenomenology: Analysis and Consciousness by Richard Kenneth Atkins
 
-A PHILOSOPHICAL COMMENTARY ON C. S. PEIRCE’S “ON A NEW LIST OF CATEGORIES”: EXHIBITING LOGICAL STRUCTURE AND ABIDING RELEVANCE
+On a New List of Categories (1867) by Charles Sanders Peirce - https://en.wikisource.org/wiki/On_a_New_List_of_Categories
+
+A Philosophical Commentary On C. S. Peirce’s “On A New List Of Categories”: Exhibiting Logical Structure And Abiding Relevance
 A Dissertation in Philosophy by Masato Ishida (2009) - https://etda.libraries.psu.edu/files/final_submissions/4550
 
-???T. L Short, Menno Hulswit???
+Peirce-Arg Philosophers (Arguments of the Philosophers) by Christopher Hookway
+
+Peirce and Triadomania: A Walk in the Semiotic by C. W. Spinks
+
+Semiotics and Significants The Correspondence between Charles S. Peirce and Victorial Lady Welby (Edited by Charles S. Hardwick)
+
+???T. L Short (Peirce's Theory of Signs)???
+???Menno Hulswit (From Cause to Causation: A Peircean Perspective (Philosophical Studies Series, 90))???
 
 Commens Digital Companion to C. S. Peirce - http://www.commens.org/
 
-The Great Chain of Being: A Study of the History of an Idea by Arthur O. LOVEJOY
+The Great Chain of Being: A Study of the History of an Idea by Arthur O. Lovejoy
 
 https://stratos.seas.harvard.edu/files/stratos/files/periodictabledatastructures.pdf
 
 Oxford University Department for Continuing Education | Cezar Ionescu - What is a Mathematical Property (2018 Open Event) - https://www.youtube.com/watch?v=8IhuPi5SbcI
+
+Stanford Encyclopedia of Philosophy
+
+Internet Encylopedia of Philosophy
