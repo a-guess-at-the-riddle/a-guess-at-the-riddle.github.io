@@ -1,25 +1,26 @@
 ---
 layout: post
-title: Quality, Quantity, Measure
+title: Quality, Quantity, Measure[^1]
 ---
 
+**INCOMPLETE ROUGH DRAFT**
 
-# Quality, Quantity, Measure[^1]
+**associated topic tags:** quality, semantic dimensions, semantic spaces, conceptual spaces, Peter Gärdenfors, *The Ascent of Man*, Jacob Bronowski, development of complexity, phenomenology, perception, developmental psychology, Jean Piaget, measurement theory, level of measurement, nominal, ordinal, order, interval, ratio, Stanley Smith Stevens, Benjamin Drake Wright, Georg Wilhelm Friedrich Hegel, Charles Sanders Peirce, semiotics, icon, index, symbol, Terrence Deacon, *The Symbolic Species*, necessity, history of mathematics, number, quantity, discrete, continuous, measure, 
 
-**associated topic tags:** quality, semantic dimensions, semantic spaces, conceptual spaces, Peter Gärdenfors, *The Ascent of Man*, Jacob Bronowski, development of complexity, phenomenology, perception, developmental psychology, Jean Piaget, measurement theory, level of measurement, nominal, ordinal, order, interval, ratio, Stanley Smith Stevens, Benjamin Drake Wright, Georg Wilhelm Friedrich Hegel, Charles Sanders Peirce, semiotics, icon, index, symbol, Terrence Deacon, *The Symbolic Species*, necessity, history of mathematics, number, quantity, discrete, continuous, measure, data structures
+**currently researching:** data structures, data structure design space, combinatorial design, incidence structures, formal concept analysis
 
 I recently watched a lecture on conceptual spaces where the cognitive scientist Peter Gärdenfors was talking about meaning with concepts like "qualitative dimension" and "semantic space". I was left with the feeling that I didn't really understand in any rigorous way what was meant by terms like "quality", "qualitative" and "qualitiative dimension". The first question that comes to mind is how can we relate this concept to the more familar notion of a quantitative dimension that we encounter in mathematics and the natural sciences?
 
 One fact of the world that any thinker will eventually come to realize is that complexity develops in a stratified manner (what mathematician and author of *The Ascent of Man*, Jacob Bronowksi, called **statified stability**). That is to say obviously our present day environment (including ourselves) is full of things that that at one time did not exist and that were heavily constrained to emerge in a limited number of possible orders.
 
-## Some Questions
+## Questions
 We can ask in the developement of concepts generally speaking do qualitative concepts develop first or quantitative concepts? And do they develop in this stratified manner that presupposes some necessity of the order? If there are constraints on the order of the development of our statified representations what can we learn from that fact? Does this imply anything significant about meaning itself or is it entirely due to our biological constraints?
 
 The plan is to examine some different contexts in which this developmental process is recapitulated:
 - the development of language in both the evolution of humans as a species and in the language aquisition process of an individual human child borrowing in large part from Terrence Deacon's *The Symbolic Species* (1997). This also relates to the Charles Sanders Peirce's theory of signs (semiotics) and the process he terms semiosis. This theory of meaning and its developement might be a good overarching lens in which to view all of the examples described in this essay.
 - the maturation of a child's perception and categorization faculties over time followed by their education in elementary mathematics
 - in psychology, concepts that fall under the category "levels of measurement" (similar to what we now call datatypes in CS) developed originally in the field known as measurement theory popularized by the work of psychologist S. S. Stevens)
-- the development in the history of the differnt types of number and other mathematical objects
+- the development in the history of mathematics of the differnt types of number and other related mathematical objects
 - in the history of trade and money ??WTF??? (what does fungability and interchangable parts have to do with any of this??)
 
 ## Terminology
@@ -51,14 +52,8 @@ In college a STEM major might learn about a subject called topology. Topology is
 What is interesting is how it seems that we have moved from implicit continuous to explicit discrete to explicit continuous (or vague quality to definite quantity to definite quantity).
 
 Signs/Meaning
-This actually seems to align with Peirce's most popular triad of icon, index, symbol. Icon's have a nature closer to the qualitative than quantitative. They are vague
-Indexes have a singular nature (haecceity).
-Symbols are to be thought of as a virtual (somewhat disconnected from
-indexical grounding) network of indexes that point to each other more
-than they point to their grounding indexicals. In the limit the network
-mesh of symbols becomes something like a continuous space. Of course
-humans can't have am infinite number of symbols, but that is what
-it would ideally approach.
+This actually seems to align with Peirce's most popular triad of icon, index, symbol. Icon's have a nature closer to the qualitative than quantitative. They are vague 
+Indexes have a singular nature (haecceity). Symbols are to be thought of as a virtual (somewhat disconnected from indexical grounding) network of indexes that point to each other more than they point to their grounding indexicals. In the limit the network mesh of symbols becomes something like a continuous space. Of course humans can't have am infinite number of symbols, but that is what it would ideally approach.
 
 Here is an apt quote from C.S. Peirce's father about how the network of symbols grows to model the whole universe:
 
@@ -240,7 +235,30 @@ Vol. 21, No. 2 (Jun., 1970), pp. 228-246 (19 pages)
 Published By: Springer
 https://www.jstor.org/stable/20114723?seq=1#page_scan_tab_contents
 
+Quite Right: The Story of Mathematics, Measurement, and Money by Norman Biggs
+
 Stevens, Stanley Smith (June 7, 1946). "On the Theory of Scales of Measurement" (PDF). Science. 103 (2684): 677–680. Bibcode:1946Sci...103..677S. doi:10.1126/science.103.2684.677. PMID 17750512.
 
 Wright B.D. (1999) Fundamental measurement for psychology. In S.E. Embretson & S.L. Hershberger (Eds.), The new rules of measurement: What every educator and psychologist should know. Hillsdale, NJ: Lawrence Erlbaum Associates.
 (https://www.rasch.org/memo64.htm)
+
+The Logical Structure of Kinds by Eric Funkhouser
+
+Peirce bibliography: https://en.wikipedia.org/wiki/Charles_Sanders_Peirce_bibliography
+
+On a New List of Categories (1867) by Charles Sanders Peirce - https://en.wikisource.org/wiki/On_a_New_List_of_Categories
+
+Charles S. Peirce's Phenomenology: Analysis and Consciousness by Richard Kenneth Atkins
+
+A PHILOSOPHICAL COMMENTARY ON C. S. PEIRCE’S “ON A NEW LIST OF CATEGORIES”: EXHIBITING LOGICAL STRUCTURE AND ABIDING RELEVANCE
+A Dissertation in Philosophy by Masato Ishida (2009) - https://etda.libraries.psu.edu/files/final_submissions/4550
+
+???T. L Short, Menno Hulswit???
+
+Commens Digital Companion to C. S. Peirce - http://www.commens.org/
+
+The Great Chain of Being: A Study of the History of an Idea by Arthur O. LOVEJOY
+
+https://stratos.seas.harvard.edu/files/stratos/files/periodictabledatastructures.pdf
+
+Oxford University Department for Continuing Education | Cezar Ionescu - What is a Mathematical Property (2018 Open Event) - https://www.youtube.com/watch?v=8IhuPi5SbcI
