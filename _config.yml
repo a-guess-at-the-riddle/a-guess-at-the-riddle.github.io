@@ -7,7 +7,7 @@ description: "Blog and link directory for academic articles, books, and course l
 
 social_links:
   twitter_username: arisbe__
-   github_username: a-guess-at-the-riddle
+  github_username: a-guess-at-the-riddle
 
 # Build settings
 theme: minima
