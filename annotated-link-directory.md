@@ -14,7 +14,7 @@
 4. Brain Inspired (Paul Middlebrooks) - https://braininspired.co/
 5. Engineered Mind (Jousef Murad) - https://www.youtube.com/playlist?list=PL-K7XxqaUNyfG3VzPuupvJyseCAIEn8-L
 
-### Recommneded YouTube channels
+### Recommended YouTube channels
 
 **Synthetic thinkers**
 - Wai H. Tsang
