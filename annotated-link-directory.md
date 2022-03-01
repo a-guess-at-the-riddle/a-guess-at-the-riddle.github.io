@@ -41,6 +41,8 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 - Michael Penn
 - Artem Kirsanov
 - Zach Star
+- The Efficient Engineer
+- Jousef Murad
 
 **Full Lecture Courses**
 - Bill Shillito
