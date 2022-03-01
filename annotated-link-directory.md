@@ -124,17 +124,37 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 - sentdex
 
 
-### Blogs
+### Online Journals & Magazines:
 
-### Podcasts
+- FreeBSD Foundation | FreeBSD Journal - https://freebsdfoundation.org/our-work/journal/
+- 
+- OpenBSD | OpenBSD Journal (undeadly) - https://undeadly.org/cgi?action=front
+- 
+- Red Hat | Red Hat Research Quarterly (RHRQ) - https://research.redhat.com/quarterly/
+- 
+- Free Software Foundation | FSF Bulletins - https://www.fsf.org/bulletin
+- 
+- USENIX | ;login: - https://www.usenix.org/publications/loginonline
+- 
+- ACCU | Overload journal - https://accu.org/journals/nonmembers/overload_issue_members/
+- 
+- JSoftware | index of articles - https://www.jsoftware.com/papers/
+- 
+- AMS | Notices of the American Mathematial Society - https://www.ams.org/notices
+- 
+- SIAM | DSWeb - https://dsweb.siam.org/
+- 
+- Quanta Magazine - https://www.quantamagazine.org/
+- 
+- Nautilus Magazine - https://nautil.us/
+- 
+- American Scientist - https://www.americanscientist.org/
+- 
+- Rutherford Journal Vol 1-5 (2005-2018) - http://www.rutherfordjournal.org/
+- 
+- Cryptoeconomic Systems - https://cryptoeconomicsystems.pubpub.org/
 
-### Articles
-
-### Books
-
-### Talks
-
-### Course Lectures
+### unorganised
 
 Roger Moore (University of Alberta) | PHYS 130: Waves and Optics - https://www.youtube.com/playlist?list=PLSrKSt8xhLVrRO5MF6hksLfu2UeZrIiYu
 
