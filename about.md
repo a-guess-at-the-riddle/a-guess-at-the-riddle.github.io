@@ -11,11 +11,11 @@ Other big influences include: John Dewey, Terrence Deacon, Jordan Peterson, Wai 
 Interests: Math, Unix, Lisp, AI, History of Tech., Systematic Philosophy, Taxonomy, Pragmatism, Darwinism, Teleology, Psychometrics, Poetry, Classics, Intellectual History
 
 Social media:
- - Twitter: https://twitter.com/arisbe__ 
- - Reddit: https://reddit.com/user/arisbe__
- - Hacker News: https://news.ycombinator.com/user?id=arisbe__
+ - Twitter: https://twitter.com/arisbe\_\_ 
+ - Reddit: https://reddit.com/user/arisbe\_\_
+ - Hacker News: https://news.ycombinator.com/user?id=arisbe\_\_
  - YouTube: https://www.youtube.com/channel/UCjgQ2pJDjZlhdI4Ym7NQdUw
  - GitHub: https://github.com/a-guess-at-the-riddle
  - GH-pages: https://a-guess-at-the-riddle.github.io/
- - Zotero: https://www.zotero.org/arisbe__
+ - Zotero: https://www.zotero.org/arisbe\_\_
  - Discord: ...
