@@ -179,6 +179,10 @@ Stevens, Stanley Smith (June 7, 1946). "On the Theory of Scales of Measurement" 
 Wright B.D. (1999) Fundamental measurement for psychology. In S.E. Embretson & S.L. Hershberger (Eds.), The new rules of measurement: What every educator and psychologist should know. Hillsdale, NJ: Lawrence Erlbaum Associates.
 (https://www.rasch.org/memo64.htm)
 
+John Michael Linacre (YouTube channel) | Introduction to the Rasch Model. Benjamin D. Wright, 1994. All - Parts 1+2+3 - https://www.youtube.com/watch?v=K8fdBLGfhxc
+
+Making Measures (Phaneron Press) by Benjamin D. Wright, Mark H. Stone
+
 The Logical Structure of Kinds by Eric Funkhouser
 
 Peirce bibliography from Wikipedia: https://en.wikipedia.org/wiki/Charles_Sanders_Peirce_bibliography
