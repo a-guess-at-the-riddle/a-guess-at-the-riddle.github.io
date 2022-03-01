@@ -5,9 +5,12 @@ author:
   email: a-guess-at-the-riddle@protonmail.com
 description: "Blog and link directory for academic articles, books, and course lectures on GH-Pages."
 
-social_links:
-  twitter_username: arisbe__
-  github_username: a-guess-at-the-riddle
+minima:
+  social_links:
+    twitter: arisbe__
+    github: a-guess-at-the-riddle
+    youtube: "arisbe, a guess at the riddle"
+    youtube_channel: UCjgQ2pJDjZlhdI4Ym7NQdUw
 
 # Build settings
 theme: minima
