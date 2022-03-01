@@ -1,3 +1,5 @@
+- The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/showcase/6114853 | Five documentaries with and about the great American physicist Richard Feynman (1918-88), all made for the BBC TV 'Horizon' science series.
+
 **Top 5 Blogs:**
 1. Privatedozent (Jørgen Veisdal, Substack) - https://www.privatdozent.co/
 2. Gwern (Gwern Branwen, personal site) - https://www.gwern.net/
@@ -11,6 +13,106 @@
 3. Machine Learning Street Talk (Tim Scarfe, Keith Duggar & Yannic Kilcher) - https://www.youtube.com/c/MachineLearningStreetTalk
 4. Brain Inspired (Paul Middlebrooks) - https://braininspired.co/
 5. Engineered Mind (Jousef Murad) - https://www.youtube.com/playlist?list=PL-K7XxqaUNyfG3VzPuupvJyseCAIEn8-L
+
+### Recommneded YouTube channels
+
+**Synthetic thinkers**
+- Wai H. Tsang
+- Bob Brandom
+- Jordan B Peterson
+- Andrés Gómez Emilsson
+- Theories of Everything with Curt Jaimungal
+
+**Short STEM videos**
+- 3Blue1Brown
+- Mathemaniac
+- Aleph 0
+- Reducible
+- Mutual Information
+- Numberphile
+- Computerphile
+- Mathologer
+- Primer
+- Michael Penn
+- Artem Kirsanov
+- Zach Star
+
+**Full Lecture Courses**
+- Bill Shillito
+- Professor Macauley
+- Richard E. BORCHERDS
+- Bilkent Üniversitesi
+- Technion
+- nptelhrd
+- Instituto de Matemática Pura e Aplicada
+- ICTP Mathematics
+- A9 Videos
+- NeuroLogos
+- Complexity Explorer (relatively shorter courses)
+
+**BBC STEM Television**
+- kenneth (Open University/BBC)
+- Christopher Sykes
+
+**Techincal blogs and related channels**
+- Machine Learning Street Talk
+- Machine Learning Dojo with Tim Scarfe
+- Yannic Kilcher
+- The Dissenter
+- Jousef Murad
+- Brain Inspired
+
+**Math/CS Theory Academic Talks**
+- ФКН ВШЭ (Faculty of Computer Science, HSE University)
+- The Archimedeans
+- The Alan Turing Institute
+- Institute for Advanced Study
+- Society for Multidisciplinary and Fundamental Resarch (SEMF)
+- The Center for Minds, Brains and Machines (MITCBMM)
+
+**Developer blogs/live coding**
+- Xah Lee
+- devaslife (Takuya Matsuyama)
+- Flux Harmonic (David Wilson)
+
+**IT/Programming Conferences**
+- thoughtbot
+- InfoQ
+- NixCon
+- EmacsConf and Emacs hangouts
+- linux.conf.au
+- USENIX
+- USENIX Enigma Conference
+- ACCU Conference
+- CppCon
+- LispNYC
+- FOSDEM
+
+**CS Theory Conferences**
+- PapersWeLove
+- ACM SIGPLAN
+- Simons Institute
+
+**Organization's/Research Groups**
+- DeepMind
+- OpenAI
+- FreeBSD
+- Wolfram
+- Numenta
+- Society for Neuroscience
+- Active Inference Lab
+
+**History**
+- Computer History Museum
+- Web of Stories - Life Stories of Remarkable People
+
+**Computing Tutorials**
+- System Crafters
+- edureka!
+- freeCodeCamp.org
+- Derek Banas
+- sentdex
+
 
 ### Blogs
 
