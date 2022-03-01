@@ -46,6 +46,7 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 - PBS Infinite Series
 - PBS Space Time
 - Veritasium
+- Welch Labs
 
 **Full Lecture Courses**
 - Bill Shillito
