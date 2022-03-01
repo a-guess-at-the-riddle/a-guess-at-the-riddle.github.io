@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Quality, Quantity, Measure[^1]
+title: Quality, Quantity, Measure
 ---
+
+\*[^1]
 
 **INCOMPLETE ROUGH DRAFT**
 
@@ -14,7 +16,7 @@ I recently watched a lecture on conceptual spaces where the cognitive scientist 
 One fact of the world that any thinker will eventually come to realize is that complexity develops in a stratified manner (what mathematician and author of *The Ascent of Man*, Jacob Bronowksi, called **statified stability**). That is to say obviously our present day environment (including ourselves) is full of things that that at one time did not exist and that were heavily constrained to emerge in a limited number of possible orders.
 
 ## Questions
-We can ask in the developement of concepts generally speaking do qualitative concepts develop first or quantitative concepts? And do they develop in this stratified manner that presupposes some necessity of the order? If there are constraints on the order of the development of our statified representations what can we learn from that fact? Does this imply anything significant about meaning itself or is it entirely due to our biological constraints?
+We can ask in the developement of concepts generally speaking do qualitative concepts develop first or quantitative concepts? And do they develop in this stratified manner that presupposes some necessity of the order? If there are constraints on the order of the development of our statified representations what can we learn from that fact? Does this imply anything about abstract constraints on communication or representation that exist by definition or is it entirely due to our biological constraints?
 
 The plan is to examine some different contexts in which this developmental process is recapitulated:
 - the development of language in both the evolution of humans as a species and in the language aquisition process of an individual human child borrowing in large part from Terrence Deacon's *The Symbolic Species* (1997). This also relates to the Charles Sanders Peirce's theory of signs (semiotics) and the process he terms semiosis. This theory of meaning and its developement might be a good overarching lens in which to view all of the examples described in this essay.
@@ -147,7 +149,7 @@ Also interchangeable parts seem to emerge alongside the development of complexit
 
 things to add:
 
-- list the properties (intensional specification) of the different number sets
+- list the properties (intensional specification) of the different number sets naturals, integers, rational, real, complex
 
 - Hegel and The Science of Logic seems to have covered very similar material...
 
