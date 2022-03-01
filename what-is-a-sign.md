@@ -1,4 +1,7 @@
-# What is a Sign?
+---
+title: "What is a Sign?"
+---
+
 ## by Charles Sanders Peirce
 
 **Written: 1894;**
