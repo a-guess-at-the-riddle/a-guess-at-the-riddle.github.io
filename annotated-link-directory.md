@@ -43,6 +43,9 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 - Zach Star
 - The Efficient Engineer
 - Jousef Murad
+- PBS Infinite Series
+- PBS Space Time
+- Veritasium
 
 **Full Lecture Courses**
 - Bill Shillito
