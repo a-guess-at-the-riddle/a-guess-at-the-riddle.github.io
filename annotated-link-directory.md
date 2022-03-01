@@ -62,7 +62,7 @@
 - Jousef Murad
 - Brain Inspired
 
-**Math/CS Theory Academic Talks**
+**Math/CS/Neuro Theory Academic Talks**
 - ФКН ВШЭ (Faculty of Computer Science, HSE University)
 - The Archimedeans
 - The Alan Turing Institute
