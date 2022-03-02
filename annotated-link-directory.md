@@ -139,6 +139,7 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 - USENIX - ;login: - https://www.usenix.org/publications/loginonline
 - ACCU - Overload journal - https://accu.org/journals/nonmembers/overload_issue_members/
 - JSoftware - index of articles - https://www.jsoftware.com/papers/
+- TeX Users Group - TUGboat - The Communications of the TeX Users Group - https://tug.org/tugboat/
 - AMS - Notices of the American Mathematial Society - https://www.ams.org/notices
 - SIAM - DSWeb - https://dsweb.siam.org/
 - Quanta Magazine - https://www.quantamagazine.org/
