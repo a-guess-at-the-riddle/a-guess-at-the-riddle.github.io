@@ -9,7 +9,7 @@ title: Quality, Quantity, Measure
 
 **associated topic tags:** quality, semantic dimensions, semantic spaces, conceptual spaces, Peter Gärdenfors, *The Ascent of Man*, Jacob Bronowski, development of complexity, phenomenology, perception, developmental psychology, Jean Piaget, measurement theory, level of measurement, nominal, ordinal, order, interval, ratio, Stanley Smith Stevens, Benjamin Drake Wright, Georg Wilhelm Friedrich Hegel, Herbert Spencer, Charles Sanders Peirce, semiotics, icon, index, symbol, Terrence Deacon, *The Symbolic Species*, necessity, history of mathematics, number, quantity, discrete, continuous, measure, 
 
-**currently researching:** data structures, data structure design space, combinatorial design, incidence structures, formal concept analysis, extension, intension, comprehension, formal concept analysis, order theory, lattice, degeneracy
+**currently researching:** data structures, data structure design space, combinatorial design, incidence structures, formal concept analysis, extension, intension, comprehension, formal concept analysis, order theory, lattice, mathematical property, degeneracy
 
 I recently watched a lecture on conceptual spaces where the cognitive scientist Peter Gärdenfors was talking about meaning with concepts like "qualitative dimension" and "semantic space". I was left with the feeling that I didn't really understand in any rigorous way what was meant by terms like "quality", "qualitative" and "qualitiative dimension". The first question that comes to mind is how can we relate this concept to the more familar notion of a quantitative dimension that we encounter in mathematics and the natural sciences?
 
@@ -35,6 +35,8 @@ Speculative philosophers like Charles Sanders Peirce, Hegel, and Herbert Spencer
 When we are children we perceive continuous qualitative dimensions such as color, space, and time, ...etc. Although it makes sense to call these dimensions continuous, it is important realize that they have no notion of distance or metric. Also a vague qualitative-version of number (qualitative-amount) and a qualitative-version of size as well (qualitative-magnitude). As we learn language we being to assign names (mostly antonymous pairs) to the infinite poles of these dimensions/categories. Since these categories labeled with words they are under one interpretation discrete and under another interpretation they can be considered continuous qualitative dimensions along with a subjective and vague feeling of where one category becomes the next along that dimension (intervals?). So we have either moved from qualitative to quantitative or from qualitative to somewhat-closer-to quantitative.
 
 In fact the words qualitative and quantitative can be misleading since different people will choose different locations along the dimension of more and more differentiated units to be the place where the labels are switched.
+
+### Jean Piaget
 
 ### measure
 But it is helpful to add a third word "measure" that describes an even more complex data structure. Why a triad here?
