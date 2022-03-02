@@ -7,9 +7,9 @@ title: Quality, Quantity, Measure
 
 **INCOMPLETE ROUGH DRAFT**
 
-**associated topic tags:** quality, semantic dimensions, semantic spaces, conceptual spaces, Peter Gärdenfors, *The Ascent of Man*, Jacob Bronowski, development of complexity, phenomenology, perception, developmental psychology, Jean Piaget, measurement theory, level of measurement, nominal, ordinal, order, interval, ratio, Stanley Smith Stevens, Benjamin Drake Wright, Georg Wilhelm Friedrich Hegel, Herbert Spencer, Charles Sanders Peirce, semiotics, icon, index, symbol, Terrence Deacon, *The Symbolic Species*, necessity, history of mathematics, number, quantity, discrete, continuous, measure, 
+**associated topic tags:** quality, semantic dimensions, semantic spaces, conceptual spaces, Peter Gärdenfors, *The Ascent of Man*, Jacob Bronowski, development of complexity, phenomenology, perception, developmental psychology, measurement theory, level of measurement, nominal, ordinal, order, interval, ratio, Stanley Smith Stevens, Benjamin Drake Wright, Georg Wilhelm Friedrich Hegel, Charles Sanders Peirce, semiotics, icon, index, symbol, Terrence Deacon, *The Symbolic Species*, necessity, history of mathematics, number, quantity, discrete, continuous, measure, 
 
-**currently researching:** data structures, data structure design space, combinatorial design, incidence structures, formal concept analysis, extension, intension, comprehension, formal concept analysis, order theory, lattice, mathematical property, degeneracy
+**currently researching:** Jean Piaget, Herbert Spencer, data structures, data structure design space, combinatorial design, incidence structures, formal concept analysis, extension, intension, comprehension, formal concept analysis, order theory, lattice, mathematical property, degeneracy
 
 I recently watched a lecture on conceptual spaces where the cognitive scientist Peter Gärdenfors was talking about meaning with concepts like "qualitative dimension" and "semantic space". I was left with the feeling that I didn't really understand in any rigorous way what was meant by terms like "quality", "qualitative" and "qualitiative dimension". The first question that comes to mind is how can we relate this concept to the more familar notion of a quantitative dimension that we encounter in mathematics and the natural sciences?
 
@@ -51,13 +51,12 @@ As an individual learns about Euclidian synthetic geometry (thus continuity), fr
 
 Topology -> Projective -> Affine -> Similarity -> Euclidian Synthetic Geometry -> Euclidian Analytic Geometry -> Discrete Geometry (???is this correct???)
 
-In college a STEM major might learn about a subject called topology. Topology is the similar to geometry but notions such as a measure of distance are abstracted away while the concept of neighbourhood is retained. This allows one to return to the prenumeric domain and study objects of higher generality than geometric objects.
+In college a STEM student might learn about a subject called topology. Topology is the similar to geometry but notions such as a measure of distance are abstracted away while the concept of neighbourhood (formally definined) is retained. This allows one to return to the prenumeric domain and study objects of higher generality than geometric objects with a specified notion of metric/distance.
 
 What is interesting is how it seems that we have moved from implicit continuous to explicit discrete to explicit continuous (or vague quality to definite quantity to definite quantity).
 
-Signs/Meaning
-This actually seems to align with Peirce's most popular triad of icon, index, symbol. Icon's have a nature closer to the qualitative than quantitative. They are vague 
-Indexes have a singular nature (haecceity). Symbols are to be thought of as a virtual (somewhat disconnected from indexical grounding) network of indexes that point to each other more than they point to their grounding indexicals. In the limit the network mesh of symbols becomes something like a continuous space. Of course humans can't have am infinite number of symbols, but that is what it would ideally approach.
+**Signs & Meaning**
+This actually seems to align with Peirce's most popular triad of icon, index, symbol. Icon's have a nature closer to the qualitative than quantitative. Icons are necessarily vague. Indexes have a singular nature (haecceity). When we use a indexical word like "this" a single object is designated in the immediate environment. Symbols are to be thought of as a virtual (somewhat disconnected from indexical grounding) network of indexes that point to each other more than they point to their grounding indexicals and icons. In the ideal limit the network mesh of symbols becomes something like a continuous real space. Of course humans can't have am infinite number of symbols in the memory, but that is what it would ideally approach in the limit.
 
 Here is an apt quote from C.S. Peirce's father about how the network of symbols grows to model the whole universe:
 
@@ -74,7 +73,7 @@ think more about this.
 
 Here is a quote from the book I just read about Peirce where the author is talking about Herbert Spencer:
 
-Spencer also gave an alternative definition of evolution as “an integration of matter and concomitant dissipation of motion; during which the matter passes from a relatively indefinite, incoherent homogeneity to a relatively definite, coherent heterogeneity.” (First Principles, 367). This was subsequently lampooned by the mathematician
+Spencer also gave an alternative definition of evolution as “an integration of matter and concomitant dissipation of motion; during which the matter passes from a relatively indefinite, incoherent homogeneity to a relatively definite, coherent heterogeneity.” (*First Principles*, 367). This was subsequently lampooned by the mathematician
 Kirkman, who gave the following “translation” into English: “Evolution is a change from a nohowish, untalkaboutable, all-alikeness, to a
 somehowish and in-generaltalkabaoutable not-all-alikeness, by continuous somethingelseifications and sticktogetherations”
 
@@ -84,16 +83,14 @@ This paper is based upon the theory already established, that the function of co
 
 Apparently Peirce disagreed with Spencer quite largely on their respective evolutionary cosmologies.
 
-It would be interesting to investigate whether the asymmetry of Peirce's hierarchy of genuine vs degenerate versions of 1stness, 2ndness, and 3rdness is related to the asymmetry of this discrete and continuous hierarchy. He essential says that when your recursive higher ordered descriptions of the categories (e.g, 1stness of 2ndness) are semiotically constrained (e.g., there is no 3rdness of 1stness). This is similar to how a continuous structure (i.e. Euclidian space) must be constructed from continuous parts (i.e., real
-numbers), but a discrete space can have discrete or continuous values in it "slots".
+It would be interesting to investigate whether the asymmetry of Peirce's hierarchy of genuine vs degenerate versions of 1stness, 2ndness, and 3rdness is related to the asymmetry of this discrete and continuous hierarchy. He essential says that when your recursive higher ordered descriptions of the categories (e.g, 1stness of 2ndness) are semiotically constrained (e.g., there is no 3rdness *of* 1stness). This is similar to how a continuous structure (i.e. Euclidian space) must be constructed from continuous parts (i.e., real
+numbers), but a discrete space can have discrete or continuous values in its "slots".
 
-Another way to summarize it is that there seems to be universal progression both in our minds and in the "social mind" from an undifferentiated implied continuum to a small number of differentiated parts to a growing number of quantities so as to bring back a notion of continuity but now in an explicit representation.
-
-Spencer would argue that it occurs at many more levels as well.
+Another way to summarize it is that there seems to be universal progression both in our minds and in the "social mind" from an undifferentiated implied continuum that differentiates into a small number of differentiated parts and then into a growing number of quantities so as to bring back in the limit a notion of continuity but now in an explicitly specified representation.
 
 it is basically a description of the dynamic pattern of the growth of knowledge at least when applied to minds. Perhaps it would be more accurate to say the growth of complexity itself.
 
-Like I said before, the question is what happens when you try to extrapolate to higher order data structures/mathematical objects.
+The question is what happens when you try to recursively build up stratified representations to higher-order representations like how is done with data structures and mathematical objects.
 
 Of course throughout this I have been sometimes haphazardly equating discrete with quantity and continuous with quality. Here is a four-part categorization (as opposed to the triad earlier) of the same idea:
 
@@ -113,10 +110,11 @@ quantitative
 continuity
 (uncountable infinity of values; the singularities have become
 neighbors)
+NOTE: elaborate here more on properties of the continuum 
 
+Information Theory and real numbers. Does a real number contain an infinite quantity of information?
 
-An very simple example of a higher order structure would be a complex number. It can be put in this scheme by describing it as a discrete
-"compound" of a quantitative continuities.
+In the context of mathematics, a very simple example of a higher-ordered structure beyond the continuum would be a complex number. It can be put in this scheme by describing it as a discrete "compound" of a quantitative ??continuities??.
 But I'm not sure if it would be a
 - qualitative/discrete compound of quantitative/continuities; or
 - quantitative/discrete compound of quantitative/continuities
@@ -126,12 +124,13 @@ using the four-fold scheme
 The two slots of a real pair are singularities of continuous numbers
 not intervals.
 
-Peirce even analogizes such mental processes to the process of an organism's metabolic breakdown of nutrients and then constructing them up again. This is similar to the breakdown of the continuous manifold of sensuous impressions (tones) and then the building back up of tokens, types and higher-order structures.
+Peirce even analogizes such mental processes to the process of an organism's metabolic breakdown of nutrients and then constructing them up again. This is similar to the breakdown of the continuous manifold of sensuous impressions (tones) and then the building back up of tokens, types and higher-order structures (type hierarchies).
 
-I often wonder if the idea of fungibility/interchangeable parts fits somewhere in this story. Because in order to have measurement you need a unit of measurement that is a standard. This presupposes that the standard is fungible.  You really can't progress from quality to quantity until you have such a comparison to a standard.
+I often wonder if the idea of fungibility/interchangeable parts fits somewhere in this story? Because in order to have measurement you need a *unit of measurement*, that is a standard. This presupposes that the standard can be replicated and the replicas are fungible.  You really can't progress from quality to quantity until you have such a comparison to a standard. (see Measurement Theory)
 
-Also interchangeable parts seem to emerge alongside the development of complexity as well.
+Also in the context of the the history of technology the invention of precise interchangeable parts (i.e. fungability) seem to have been an important contributing factor in the rapid growth of social and technological complexity as well.
 
+...
 
 [^1]: Note that although this title corresponds with the outline of the Doctrine of Being from Hegel's *Science of Logic*, I do not cover Hegel's ideas except superficially as I was unaware them at the time of writing this essay.
 
