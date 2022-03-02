@@ -1,16 +1,7 @@
 # Site settings
 title: arisbe, a guess at the riddle
-author:
-  name: Peter Woloszyn
-  email: a-guess-at-the-riddle@protonmail.com
-description: "Blog and link directory for academic articles, books, and course lectures on GH-Pages."
 
-minima:
-  social_links:
-    twitter: arisbe__
-    github: a-guess-at-the-riddle
-    youtube: "arisbe, a guess at the riddle"
-    youtube_channel: UCjgQ2pJDjZlhdI4Ym7NQdUw
+description: "Blog and link directory for academic articles, books, and course lectures on GH-Pages."
 
 # Build settings
 theme: minima
