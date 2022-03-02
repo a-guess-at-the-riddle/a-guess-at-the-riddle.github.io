@@ -1,4 +1,5 @@
  ---
+ layout: page
  title: On a New List of Categories
  ---
  
