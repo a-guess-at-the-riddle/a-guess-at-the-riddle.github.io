@@ -233,6 +233,10 @@ Wikipedia summary of Incomplete Nature: https://en.wikipedia.org/wiki/Incomplete
 
 The Great Chain of Being: A Study of the History of an Idea by Arthur O. Lovejoy
 
+Peirce, C. S. - Upon Logical Comprehension and Extension (https://peirce.sitehost.iu.edu/writings/v2/w2/w2_06/v2_06.htm)
+
+Rudolf Wille - Concept Lattices and Conceptual Knowledge Systems (pdf) - https://bit.ly/3ncbfXo
+
 https://stratos.seas.harvard.edu/files/stratos/files/periodictabledatastructures.pdf
 
 Oxford University Department for Continuing Education - Cezar Ionescu - What is a Mathematical Property (2018 Open Event) - https://www.youtube.com/watch?v=8IhuPi5SbcI
