@@ -60,6 +60,7 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 - A9 Videos
 - NeuroLogos
 - Complexity Explorer (relatively shorter courses)
+- Stanford Online
 
 **BBC STEM Television**
 - kenneth (Open University/BBC)
@@ -116,8 +117,11 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 **Organization's/Research Groups**
 - DeepMind
 - OpenAI
+- The Linux Foundation
 - FreeBSD
+- Fedora Project
 - Erlang Solutions
+- Enthought
 - LLVM
 - The Julia Programming
 - Julia Computing
@@ -126,6 +130,7 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 - Numenta
 - Society for Neuroscience
 - Active Inference Lab
+- Santa Fe Institute
 
 **History**
 - Computer History Museum
