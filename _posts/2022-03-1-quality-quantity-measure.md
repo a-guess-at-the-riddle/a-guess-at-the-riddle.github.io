@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quality, Quantity, Measure
-publish: false
+published: false
 ---
 
 \*[^1]
