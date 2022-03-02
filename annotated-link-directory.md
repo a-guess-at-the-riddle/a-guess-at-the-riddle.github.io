@@ -1,5 +1,5 @@
 ---
-title: "Link Directory"
+title: "Directory"
 ---
 
 
