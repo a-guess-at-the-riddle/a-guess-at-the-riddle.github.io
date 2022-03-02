@@ -1,3 +1,9 @@
+---
+layout: post
+title: Abstraction and Generalization
+published: false
+---
+
 What is the difference in meaning (more specifically in connotation) between the terms generalization and abstraction?
 
 First recall the classical distinction in philosophy between objects and attributes. This is also recaptitulated in the distinction between logical extension and comprehension.
