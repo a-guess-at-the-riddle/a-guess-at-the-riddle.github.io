@@ -1,6 +1,6 @@
  ---
  layout: page
- title: On a New List of Categories
+ title: "On a New List of Categories"
  ---
  
  ### by Charles Sanders Peirce
