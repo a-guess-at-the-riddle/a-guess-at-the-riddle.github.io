@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "On A New List Of Categories"
+title: ""
 ---
 
-
+## On A New List Of Categories
 ### by Charles Sanders Peirce
  
 written: 1867
