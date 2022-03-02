@@ -60,7 +60,7 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 - A9 Videos
 - NeuroLogos
 - Complexity Explorer (relatively shorter courses)
-- Stanford Online
+- stanfordonline
 
 **BBC STEM Television**
 - kenneth (Open University/BBC)
@@ -108,6 +108,7 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 - media.ccc.de
 - GOTO Conferences
 - Strange Loop Conference
+- NDC Conferences
 
 **CS Theory Conferences**
 - PapersWeLove
@@ -119,6 +120,7 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 - OpenAI
 - The Linux Foundation
 - FreeBSD
+- Red Hat (Series and Livestreaming) - https://www.youtube.com/c/redhat/playlists?view=50&sort=dd&shelf_id=2
 - Fedora Project
 - Erlang Solutions
 - Enthought
