@@ -7,7 +7,7 @@ title: Quality, Quantity, Measure
 
 **INCOMPLETE ROUGH DRAFT**
 
-**associated topic tags:** quality, semantic dimensions, semantic spaces, conceptual spaces, Peter Gärdenfors, *The Ascent of Man*, Jacob Bronowski, development of complexity, phenomenology, perception, developmental psychology, measurement theory, level of measurement, nominal, ordinal, order, interval, ratio, Stanley Smith Stevens, Benjamin Drake Wright, Georg Wilhelm Friedrich Hegel, Charles Sanders Peirce, semiotics, icon, index, symbol, Terrence Deacon, *The Symbolic Species*, necessity, history of mathematics, number, quantity, discrete, continuous, measure, 
+**associated topic tags:** quality, semantic dimensions, semantic spaces, conceptual spaces, Peter Gärdenfors, *The Ascent of Man*, Jacob Bronowski, development of complexity, phenomenology, perception, developmental psychology, measurement theory, *Foundations of Measurement*, level of measurement, nominal, ordinal, order, interval, ratio, Stanley Smith Stevens, Benjamin Drake Wright, Georg Wilhelm Friedrich Hegel, Charles Sanders Peirce, semiotics, icon, index, symbol, Terrence Deacon, *The Symbolic Species*, necessity, history of mathematics, number, quantity, discrete, continuous, measure, 
 
 **currently researching:** Jean Piaget, Herbert Spencer, data structures, data structure design space, combinatorial design, incidence structures, formal concept analysis, extension, intension, comprehension, formal concept analysis, order theory, lattice, mathematical property, degeneracy
 
@@ -165,7 +165,7 @@ things to add:
 
 ## References:
 
-Peter Gärdenfors | The Geometry of Meaning (2nd ESSENCE Summer School) - https://www.youtube.com/watch?v=L0X9mEe9aY0 | Professor Peter Gärdenfors is Head of Cognitive Science at Lund University, Sweden. This video shows his tutorial "The Geometry of Meaning: Semantics Based on Conceptual Spaces" from the Second ESSENCE Summer School in Edinburgh in August 2015. 
+Peter Gärdenfors - The Geometry of Meaning (2nd ESSENCE Summer School) - https://www.youtube.com/watch?v=L0X9mEe9aY0 - Professor Peter Gärdenfors is Head of Cognitive Science at Lund University, Sweden. This video shows his tutorial "The Geometry of Meaning: Semantics Based on Conceptual Spaces" from the Second ESSENCE Summer School in Edinburgh in August 2015. 
 
 Jacob Bronowski New Concepts in the Evolution of Complexity: Stratified Stability and Unbounded Plans
 Synthese
@@ -180,9 +180,17 @@ Stevens, Stanley Smith (June 7, 1946). "On the Theory of Scales of Measurement" 
 Wright B.D. (1999) Fundamental measurement for psychology. In S.E. Embretson & S.L. Hershberger (Eds.), The new rules of measurement: What every educator and psychologist should know. Hillsdale, NJ: Lawrence Erlbaum Associates.
 (https://www.rasch.org/memo64.htm)
 
-John Michael Linacre (YouTube channel) | Introduction to the Rasch Model. Benjamin D. Wright, 1994. All - Parts 1+2+3 - https://www.youtube.com/watch?v=K8fdBLGfhxc
+John Michael Linacre (YouTube channel) - Introduction to the Rasch Model. Benjamin D. Wright, 1994. All - Parts 1+2+3 - https://www.youtube.com/watch?v=K8fdBLGfhxc
 
 Making Measures (Phaneron Press) by Benjamin D. Wright, Mark H. Stone
+
+Patrick Suppes, R. Duncan Luce, & Amos Tversky - Foundations of Measurement (lecture course) - https://www.youtube.com/playlist?list=PLrKlhVqlZwK6UcJ7K-XpaLmWoGehnXLAX
+
+Foundations of Measurement (Vol 1-3) - http://www.lps.uci.edu/~johnsonk/CLASSES/FoundationsOfMeasurement/FoMHome.html
+
+A Hundred Years of Numbers. An
+Historical Introduction to Measurement
+Theory 1887-1990 - http://www.lps.uci.edu/~johnsonk/CLASSES/FoundationsOfMeasurement/Diez.AnHistoricalIntroductionToMeasurementTheoryPartOne.pdf
 
 The Logical Structure of Kinds by Eric Funkhouser
 
@@ -206,9 +214,9 @@ Peirce and Triadomania: A Walk in the Semiotic by C. W. Spinks
 
 Semiotics and Significants The Correspondence between Charles S. Peirce and Victorial Lady Welby (Edited by Charles S. Hardwick)
 
-Francesco Bellucci | *Peirce’s Speculative Grammar: Logic as Semiotics* (Routledge Studies in American Philosophy) 
+Francesco Bellucci - *Peirce’s Speculative Grammar: Logic as Semiotics* (Routledge Studies in American Philosophy) 
 
-Francesco Bellucci (TIDD PUC-SP, YouTube)| Peirce on Symbols - https://www.youtube.com/watch?v=YhB6pFhXOto
+Francesco Bellucci (TIDD PUC-SP, YouTube) - Peirce on Symbols - https://www.youtube.com/watch?v=YhB6pFhXOto
 
 ???T. L Short (Peirce's Theory of Signs)???
 ???Menno Hulswit (From Cause to Causation: A Peircean Perspective (Philosophical Studies Series, 90))???
@@ -225,7 +233,7 @@ The Great Chain of Being: A Study of the History of an Idea by Arthur O. Lovejoy
 
 https://stratos.seas.harvard.edu/files/stratos/files/periodictabledatastructures.pdf
 
-Oxford University Department for Continuing Education | Cezar Ionescu - What is a Mathematical Property (2018 Open Event) - https://www.youtube.com/watch?v=8IhuPi5SbcI
+Oxford University Department for Continuing Education - Cezar Ionescu - What is a Mathematical Property (2018 Open Event) - https://www.youtube.com/watch?v=8IhuPi5SbcI
 
 Stanford Encyclopedia of Philosophy
 
