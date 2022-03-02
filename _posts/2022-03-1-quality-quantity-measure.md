@@ -163,7 +163,7 @@ things to add:
 ## Glossary:
 ...
 
-## References:
+## References/Reading List:
 
 Peter Gärdenfors - The Geometry of Meaning (2nd ESSENCE Summer School) - https://www.youtube.com/watch?v=L0X9mEe9aY0 - Professor Peter Gärdenfors is Head of Cognitive Science at Lund University, Sweden. This video shows his tutorial "The Geometry of Meaning: Semantics Based on Conceptual Spaces" from the Second ESSENCE Summer School in Edinburgh in August 2015. 
 
@@ -218,6 +218,8 @@ Francesco Bellucci - *Peirce’s Speculative Grammar: Logic as Semiotics* (Routl
 
 Francesco Bellucci (TIDD PUC-SP, YouTube) - Peirce on Symbols - https://www.youtube.com/watch?v=YhB6pFhXOto
 
+Gloyd Merrell - https://www.youtube.com/watch?v=CpbqzzYU_Ks
+
 ???T. L Short (Peirce's Theory of Signs)???
 ???Menno Hulswit (From Cause to Causation: A Peircean Perspective (Philosophical Studies Series, 90))???
 
@@ -238,3 +240,13 @@ Oxford University Department for Continuing Education - Cezar Ionescu - What is 
 Stanford Encyclopedia of Philosophy
 
 Internet Encylopedia of Philosophy
+
+https://en.wikipedia.org/wiki/Unit_of_measurement
+
+https://en.wikipedia.org/wiki/Polynomial_conjoint_measurement
+
+https://en.wikipedia.org/wiki/Louis_Narens
+
+How real are real numbers? - https://www.scielo.br/j/man/a/rML75qWWzpSTbkC7SfbFpPp/?lang=en
+
+Hegel Society of Great Britian HSGB - Science of Logic lectures by Stephen Houlgate - https://www.youtube.com/playlist?list=PLBAqLRlJe9p4sSXYnSVZUyVFeRFDFB4RR
