@@ -73,13 +73,19 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 - Jousef Murad
 - Brain Inspired
 
-**Math/CS/Neuro Theory Academic Talks**
+**Math/CS/Neuro/Philo Theory Academic Talks**
 - ФКН ВШЭ (Faculty of Computer Science, HSE University)
 - The Archimedeans
 - The Alan Turing Institute
 - Institute for Advanced Study
 - Society for Multidisciplinary and Fundamental Resarch (SEMF)
 - The Center for Minds, Brains and Machines (MITCBMM)
+- RoyIntPhilosophy
+- Rotman Institute of Philosophy
+- Society for Industrial and Applied
+- Institute of Mathematical Statistics
+- Insitute for Mathematical Science
+- London Mathematical Society
 
 **Developer blogs/live coding**
 - Xah Lee
@@ -98,6 +104,9 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 - CppCon
 - LispNYC
 - FOSDEM
+- media.ccc.de
+- GOTO Conferences
+- Strange Loop Conference
 
 **CS Theory Conferences**
 - PapersWeLove
@@ -108,6 +117,11 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 - DeepMind
 - OpenAI
 - FreeBSD
+- Erlang Solutions
+- LLVM
+- The Julia Programming
+- Julia Computing
+- Allen Institute
 - Wolfram
 - Numenta
 - Society for Neuroscience
@@ -131,7 +145,6 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 
 
 ### Online Journals & Magazines:
-
 - FreeBSD Foundation - FreeBSD Journal - https://freebsdfoundation.org/our-work/journal/
 - OpenBSD - OpenBSD Journal (undeadly) - https://undeadly.org/cgi?action=front
 - Red Hat - Red Hat Research Quarterly (RHRQ) - https://research.redhat.com/quarterly/
@@ -146,7 +159,7 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 - Nautilus Magazine - https://nautil.us/
 - Cambridge University - Plus Magazine - https://plus.maths.org/content/
 - American Scientist - https://www.americanscientist.org/
-- Rutherford Journal Vol 1-5 (2005-2018) - http://www.rutherfordjournal.org/
+- The New Zealand Journal for the History and Philosophy of Science and Technology | Rutherford Journal Vol 1-5 (2005-2018) - http://www.rutherfordjournal.org/
 - Cryptoeconomic Systems - https://cryptoeconomicsystems.pubpub.org/
 
 ### unorganised
