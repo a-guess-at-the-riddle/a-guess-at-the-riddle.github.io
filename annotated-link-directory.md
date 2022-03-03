@@ -14,7 +14,7 @@ title: "Directory"
 2. Introduction to Higher Mathematics - https://www.whitman.edu/mathematics/higher_math_online/ - Logic, Proofs, Number Theory, Functions & Relations
 3. Structure & Interpretation of Computer Programs - https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
 4. Quantum Country - https://quantum.country/ - A free introduction to quantum computing and quantum mechanics
-5. StatLect - https://www.statlect.com/ - Digital textbook on probability and statistics
+5. StatLect - https://www.statlect.com/ - Digital textbook on probability and statistics (calculus based)
 
 **Top 5 Blogs:**
 1. Privatedozent (Jørgen Veisdal, Substack) - https://www.privatdozent.co/
@@ -30,15 +30,95 @@ title: "Directory"
 4. Brain Inspired (Paul Middlebrooks) - https://braininspired.co/
 5. Engineered Mind (Jousef Murad) - https://www.youtube.com/playlist?list=PL-K7XxqaUNyfG3VzPuupvJyseCAIEn8-L
 
-**Top 5 YouTube Full Courses**
-1. Missing Semester - https://missing.csail.mit.edu/
-2. Introduction to Higher Mathematics, Bill Shillito - https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX 
-3. MIT Calculus Revisited (3 Courses):
+**5 YouTube Intro to Higher Math Full Courses** (watch in order)
+1. Introduction to Higher Mathematics, Bill Shillito - https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX 
+2. Fundamentals of Mathematics, Taylor Dupuy - https://www.youtube.com/playlist?list=PLJmfLfPx1OedcIUn5nSCZQEtJrhLusB5Y
+3. Introduction to Abstract and Linear Algebra (NPTEL), Sourav Mukhopadhyay (IIT Kharagput) - https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2PS2t1LNFMHrr1h9Fo2TxT
+4. Set Theory (METUOpenCourseWare) - https://www.youtube.com/playlist?list=PLuiPz6iU5SQ_3Gubdqa1JHBvM0GBFcIV0 Notes: https://ocw.metu.edu.tr/pluginfile.php/99015/mod_resource/content/1/320lecturenotes.pdf
+5. Introduction to Order Theory (Jagiellonian University and Technical University Berlin) - https://www.youtube.com/playlist?list=PL5rqYzyihIQ0nzfnsEKxxedCpbNQoifgg notes: https://piotrmicek.staff.tcs.uj.edu.pl/introduction-to-order-theory-2020/
+
+**5 Continuous Mathematics (Analysis/Topology) Full Courses**
+1. MIT Calculus Revisited (3 Courses):
      - Single Variable - https://www.youtube.com/playlist?list=PL3B08AE665AB9002A
      - Multivariable - https://www.youtube.com/playlist?list=PL1C22D4DED943EF7B
      - Complex, DiffQ & Linear Algebra - https://www.youtube.com/playlist?list=PLD971E94905A70448
- 4. Learning to Learn, Richard Hamming - https://www.youtube.com/playlist?list=PLUeG2W-NLloyr1H2J1wO4MKnvz__B4-u6
- 5. Machine Learning, Andrew Ng (Standford) - https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599 
+2. Geometric Topology (BBC/Open University) - https://www.youtube.com/playlist?list=PLKB3Q5Oyy_RNBrS3V2WbOLjxNRkXoP5oe
+3. Real Analysis (Francis Su) - Lectures: https://www.youtube.com/playlist?list=PL0E754696F72137EC - Notes: https://app.box.com/v/su-math-131-fall2014?sortColumn=name&sortDirection=ASC
+4. Complex Analysis (BBC/Open University) - https://www.youtube.com/playlist?list=PLmrgknFb6E34T9_dOkH0IT4NOFUtMdJcN
+5. 
+
+**5 Probability & Statistics Full Courses**
+1. Understanding Basic Statistics (Dana Mosely) - https://www.youtube.com/playlist?list=PL9Wxhr5qVFN0WY2CXB4tRfkpst3io7zXJ
+2. Mathematical Probability (Harvard) - https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
+3. Mathematical Statistics (UCCS) - https://www.youtube.com/playlist?list=PL9520222F814EE9B6
+4. Applied Multivariate Analysis???
+5. Foundations of Measurement (Mathematical Psychology) - https://www.youtube.com/playlist?list=PLrKlhVqlZwK6UcJ7K-XpaLmWoGehnXLAX
+
+**5 YouTube Theoretical Comp Sci Full Courses**
+1. CS50, David Malen (Harvard) - https://www.youtube.com/c/cs50
+2. Learning to Learn, Richard Hamming - https://www.youtube.com/playlist?list=PLUeG2W-NLloyr1H2J1wO4MKnvz__B4-u6
+3. Discrete Mathematics (NPTEL) - https://www.youtube.com/playlist?list=PLwdnzlV3ogoVxVxCTlI45pDVM1aoYoMHf
+4. Foundations of Computer Science, Fall 2020 (Rensselaer) - https://www.youtube.com/playlist?list=PLeSImI9eZJ99fcLYBjhTGBhPx4FgxFZXv
+5. Introduction to Algorithms and Analysis (NPTEL) - https://www.youtube.com/playlist?list=PLxR_6l4pE6quoVjSj_ShLfIftUpd_e5yo
+
+**5 YouTube AI Full Courses**
+1. Artificial Intelligence (NPTEL, Deepak Khemani) - https://www.youtube.com/playlist?list=PLbMVogVj5nJQu5qwm-HmJgjmeGhsErvXD
+2. Knowledge Representation and Reasoning (NPTEL, Deepak Khemani) - https://www.youtube.com/playlist?list=PLJ5C_6qdAvBG8HP77xIOVxH4Jzq3RQ9dI
+3. Machine Learning, Andrew Ng (Stanford) - https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599
+4. Foundations of Machine Learning (Bloomberg) - https://www.youtube.com/playlist?list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI
+5. Reinforcement Learning Course (DeepMind & UCL) - https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb
+
+**5 Natural Language Processing Full Courses**
+
+**5 YouTube Programming Language Full Courses**
+1. Problem Solving Through C (NPTEL) - https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1
+2. Structure and Interpretation of Computer Programs, 1986 - https://www.youtube.com/playlist?list=PLE18841CABEA24090
+3. Principles of Programming Languages??
+
+**5 YouTube UNIX/Linux Tools, IT & Systems Programming Full Courses**
+1. Missing Semester - https://missing.csail.mit.edu/
+2. Linux Programming & Scripting (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJRa3VKt_eyZdJ_DitCz1cvQ
+3. Operating Systems (NPTEL) - https://www.youtube.com/playlist?list=PLsylUObW5M3CAGT6OdubyH6FztKfJCcFB
+4. Software Tools & Linux Internals -  
+5. CS631 Advanced Programming in the UNIX Environment - https://www.youtube.com/playlist?list=PL0qfF8MrJ-jxMfirAdxDs9zIiBg2Wug0z
+
+**5 YouTube Security/Crypto/Web3 Full Courses**
+1. Cryptography (University of Maryland) - https://www.youtube.com/playlist?list=PL2jykFOD1AWb07OLBdFI2QIHvPo3aTTeu
+2. Information Security (NPTEL):
+  - Part 1: https://www.youtube.com/playlist?list=PLUtfVcb-iqn834VGI9faVXGIGSDXZMGp8
+  - Part 2: https://www.youtube.com/playlist?list=PLUtfVcb-iqn_j95LP8AEwcAPN5kQiHjV_
+  - Part 3: https://www.youtube.com/playlist?list=PLUtfVcb-iqn9LNdjUWBs0wRaMo_xdttcV
+3. Distributed Systems (MIT) - https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
+4. MIT 15.S12 Blockchain and Money, Fall 2018 - https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn
+5. Web3 Blockchain Fundamentals MOOC (Web3 Foundation) - https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J
+
+**5 Optimization/Operations Rsearch**
+
+**Decision Theory, Game Theory, Public Choice Theory Full Courses**
+
+**5 Econ/Finance Full Courses**
+
+**5 Physics Full Course Series**
+Yale, MIT, HC Verma, ...
+
+**5 Chemistry Full Courses**
+
+**5 Bio/Genetics Full Courses**
+
+**5 Engineering Full Courses**
+Fourier, Circuit Theory, Control Theory?
+
+**5 Psychology Full Courses**
+Maps of Meaning 2017
+Developmental Psychology
+
+**5 Neuroscience Full Courses** 
+
+**5 Philosophy/Literature Full Courses**
+Hegel's Science of Logic (Stephen Houlgate) - https://www.youtube.com/playlist?list=PLBAqLRlJe9p4sSXYnSVZUyVFeRFDFB4RR
+Robert Brandom - https://www.youtube.com/playlist?list=PLISEtDmihMo3dkKs7nGZQVoTCfyVBcc_G
+John Searle (3 Courses: Mind, Society & Language) - https://www.youtube.com/playlist?list=PL553DCA4DB88B0408
+Philosophy of Mathematics (Hamkins, Oxford) - https://www.youtube.com/playlist?list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z
 
 
 ### Recommended YouTube channels
@@ -305,7 +385,7 @@ CodeRefinery - Research Software Hour (webpage) - https://t.co/7wmmMklTWy
 
 
 
-LearnLinuxTV - Linux Essentials - https://t.co/Yof51FMq7y
+LearnTV - Linux Essentials - https://t.co/Yof51FMq7y
 
 
 
