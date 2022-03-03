@@ -32,20 +32,46 @@ title: "Directory"
 
 **5 YouTube Intro to Higher Math Full Courses** (watch in order)
 1. Introduction to Higher Mathematics, Bill Shillito - https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX 
-2. Fundamentals of Mathematics, Taylor Dupuy - https://www.youtube.com/playlist?list=PLJmfLfPx1OedcIUn5nSCZQEtJrhLusB5Y
-3. Introduction to Abstract and Linear Algebra (NPTEL), Sourav Mukhopadhyay (IIT Kharagput) - https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2PS2t1LNFMHrr1h9Fo2TxT
+2. Book of Proof (Teitelbaum) - https://www.youtube.com/user/jeremy9959/playlists?view=50&shelf_id=5
+3. Fundamentals of Mathematics, Taylor Dupuy - https://www.youtube.com/playlist?list=PLJmfLfPx1OedcIUn5nSCZQEtJrhLusB5Y
 4. Set Theory (METUOpenCourseWare) - https://www.youtube.com/playlist?list=PLuiPz6iU5SQ_3Gubdqa1JHBvM0GBFcIV0 Notes: https://ocw.metu.edu.tr/pluginfile.php/99015/mod_resource/content/1/320lecturenotes.pdf
 5. Introduction to Order Theory (Jagiellonian University and Technical University Berlin) - https://www.youtube.com/playlist?list=PL5rqYzyihIQ0nzfnsEKxxedCpbNQoifgg notes: https://piotrmicek.staff.tcs.uj.edu.pl/introduction-to-order-theory-2020/
 
-**5 Continuous Mathematics (Analysis/Topology) Full Courses**
+**5 Calculus/Intro Analysis Full Courses**
 1. MIT Calculus Revisited (3 Courses):
      - Single Variable - https://www.youtube.com/playlist?list=PL3B08AE665AB9002A
      - Multivariable - https://www.youtube.com/playlist?list=PL1C22D4DED943EF7B
      - Complex, DiffQ & Linear Algebra - https://www.youtube.com/playlist?list=PLD971E94905A70448
-2. Geometric Topology (BBC/Open University) - https://www.youtube.com/playlist?list=PLKB3Q5Oyy_RNBrS3V2WbOLjxNRkXoP5oe
-3. Real Analysis (Francis Su) - Lectures: https://www.youtube.com/playlist?list=PL0E754696F72137EC - Notes: https://app.box.com/v/su-math-131-fall2014?sortColumn=name&sortDirection=ASC
+2. Real Analysis (Francis Su) - Lectures: https://www.youtube.com/playlist?list=PL0E754696F72137EC - Notes: https://app.box.com/v/su-math-131-fall2014?sortColumn=name&sortDirection=ASC
+3. Metric Spaces (Oxford) - https://www.youtube.com/playlist?list=PL4d5ZtfQonW10k_fkbX-9Jj7HGAqRZbM3
 4. Math 3500 & 3510: Multivariable Calculus and Linear Algebra - https://www.youtube.com/playlist?list=PL5I-Eyk8l9FHdJUd9UujGcvumjCFPHbrd
-5. Complex Analysis (BBC/Open University) - https://www.youtube.com/playlist?list=PLmrgknFb6E34T9_dOkH0IT4NOFUtMdJcN
+5. Multivariable Calculus (Montgomery College) - https://www.youtube.com/playlist?list=PLq-Gm0yRYwTj3rBMp0KRdllyKU22ykh7V
+
+**5 Linear Algebra/Matrix Theory Full Courses**
+1. Introduction to Abstract and Linear Algebra (NPTEL), Sourav Mukhopadhyay (IIT Kharagput) - https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2PS2t1LNFMHrr1h9Fo2TxT
+2. Linear Algebra (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7
+3. Advanced Linear Algebra (Macauley) - https://www.youtube.com/playlist?list=PLwV-9DG53NDwKJIwF5sANj6Za7qZYywAq
+4. Advanced Linear Algebra (Johnston) - https://www.youtube.com/playlist?list=PLOAf1ViVP13jdhvy-wVS7aR02xnDxueuL
+5. Matrix Theory (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJQnzk6Sn9o6RTpu4Evx0LOT
+
+**Abstract Algebra Full Courses**
+1. Visual Group Theory (Macauley) - https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv
+2. Abstract Algebra (Teitelbaum) - https://www.youtube.com/user/jeremy9959/playlists?view=50&sort=dd&shelf_id=2
+3. Algebra (Massey University) - https://www.youtube.com/playlist?list=PLh464gFUoJWMoHFd9SBx0vNJY5TXyzP3U
+4. Algebra I (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M_ax2pAhetbzpZC5YNjOnMX
+5. Algebra II (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M_i0YoJ2NaEdkdpIVsu5EKW
+
+**5 Geometry/Topology Full Courses**
+1. Geometric Topology (BBC/Open University) - https://www.youtube.com/playlist?list=PLKB3Q5Oyy_RNBrS3V2WbOLjxNRkXoP5oe
+2. Geometry I (METUOpenCourseWare) - https://www.youtube.com/playlist?list=PLuiPz6iU5SQ828B8vmWXrjMDGXHGH3ci6
+3. Topology (McCrady) - https://www.youtube.com/playlist?list=PLrvK1zCpb85D96AGKDyszjsAdShtxpd_d
+4. Topology (Anaga Das) - https://www.youtube.com/playlist?list=PLISEtDmihMo0qK_p9AtJytTyQyrPy6H7O
+5. Topology (Tshishiku) - https://www.youtube.com/playlist?list=PLoWHl5YajIf5_abz6Wv8zD3T4RCDZJbB6
+6. Topology (Furter) - https://www.youtube.com/playlist?list=PLd8NbPjkXPliJunBhtDNMuFsnZPeHpm-0
+
+**Differential Geometry & Tensor Calculus**
+
+**Real Analysis/Measure Theory**
 
 **5 Probability & Statistics Full Courses**
 1. Understanding Basic Statistics (Dana Mosely) - https://www.youtube.com/playlist?list=PL9Wxhr5qVFN0WY2CXB4tRfkpst3io7zXJ
@@ -80,7 +106,7 @@ title: "Directory"
 1. Software Engineering (NPTE) - https://www.youtube.com/playlist?list=PLbRMhDVUMngf8oZR3DpKMvYhZKga90JVt
 2. Software Testing (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M-sBjDcT21Gpnj8grR2fDgc
 
-**5 YouTube Theoretical Comp Sci Full Courses**
+**5 YouTube Computer Science Foundations Full Courses**
 1. CS50, David Malen (Harvard) - https://www.youtube.com/c/cs50
 2. Learning to Learn, Richard Hamming - https://www.youtube.com/playlist?list=PLUeG2W-NLloyr1H2J1wO4MKnvz__B4-u6
 3. Discrete Mathematics (NPTEL) - https://www.youtube.com/playlist?list=PLwdnzlV3ogoVxVxCTlI45pDVM1aoYoMHf
@@ -97,6 +123,8 @@ title: "Directory"
 **5 Natural Language Processing Full Courses**
 
 **5 Optimization/Operations Research Full Courses**
+Decision Modeling (NPTEL) - https://www.youtube.com/playlist?list=PLjZ0n5u3Vc5DZ_0Olst6rW5tBTuSr3V8E
+Selected Topics in Decision Modeling (NPTEL) - https://www.youtube.com/playlist?list=PLbRMhDVUMnge0CU8o2gWwKXANADrpTc1q
 
 **5 Mathematics for Engineering & Physics Full Courses**
 Essential Mathematics for Machine Learning (NPTEL) - https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE
@@ -104,19 +132,47 @@ Essential Mathematics for Machine Learning (NPTEL) - https://www.youtube.com/pla
 **5 High Performance, Parallel & Scientific Computing Full Courses**
 Tools in Scientific Computing (NPTEL) - https://www.youtube.com/playlist?list=PLbRMhDVUMngccapOgCr2Tm5sn_cuHeAf6
 
-**Decision Theory, Game Theory, Public Choice Theory Full Courses**
-Decision Modeling (NPTEL) - https://www.youtube.com/playlist?list=PLjZ0n5u3Vc5DZ_0Olst6rW5tBTuSr3V8E
+**Politics, Decision Theory, Game Theory, Choice Theory Full Courses**
 Decision Making Under Uncertainty (NPTEL) -  https://www.youtube.com/playlist?list=PLyqSpQzTE6M-WRnhSccKoW9-spKEiHAm9
 Game Theory (Yale) - https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B
+Politics and Strategy (UCLA) - https://www.youtube.com/playlist?list=PLF420ADB3E328425A
 
+**Marketing Research & Management**
+1. Marketing Research and Analysis I (NPTEL) - https://www.youtube.com/playlist?list=PLPjSqITyvDeWBBaFUbkLDJ0egyEYuNeR1
+2. Marketing Research and Analysis II (NPTEL) - https://www.youtube.com/playlist?list=PLLy_2iUCG87ASo4oyowIOkxya98T-YCI7
+3. Marketing Research (NPTEL) - https://www.youtube.com/playlist?list=PL_VfpYvnlR9MFZk8QOzKjW2Hej0XeHz95
+4. Marketing Analytics (NPTEL) - https://www.youtube.com/playlist?list=PLbRMhDVUMnge625uLkVoqfS-uK-KJTBgp
 
-**5 Econ/Finance Full Courses**
+**Quality Assurance/Control**
+1. Total Quality Management - I (NPTEL) - https://www.youtube.com/playlist?list=PLPjSqITyvDeUUUwunyiwq41yJZofQEzMI
+2. Total Quality Management - II (NPTEL) - https://www.youtube.com/playlist?list=PLPjSqITyvDeUWIcgZkiwhCac851-zoKaM
+3. Quality Design & Control (NPTEL) - https://www.youtube.com/playlist?list=PLPjSqITyvDeUHzPu51_QtKBZhcJd6IPVN
+
+**10 Finance Full Courses**
+1. Foundations of Finance - https://www.youtube.com/playlist?list=PLUkh9m2BorqndWimijiJ-VCAXjJUrzJQU
+2. Financial Accounting (NPTEL) - https://www.youtube.com/playlist?list=PLOzRYVm0a65d4DQntP-1Rl-PAOITrQXLX
+3. Corporate Finance Undergraduate - https://www.youtube.com/playlist?list=PLUkh9m2BorqnapcQ03A0a_jsbele2kKbp
+4. Valuation Underaduate - https://www.youtube.com/playlist?list=PLUkh9m2BorqlJsEfix7R9jtSXClFZhGvC
+5. Quantitative Finance (NPTEL) - https://www.youtube.com/playlist?list=PLDfJoyVy2hk55mpgYKDnOmuxK6RzIDRma
+6. Financial Institutions and Markets (NPTEL) - https://www.youtube.com/playlist?list=PLDfJoyVy2hk71YkWCfjK60cvUZe_hyXQW
+7. Security Analysis and Portfolio Management (NPTEL) - https://www.youtube.com/playlist?list=PLPjSqITyvDeWlDY_TUInWSf0NgzgDQKq4
+8. Mathematical Portfolio Theory (NPTEL) - https://www.youtube.com/playlist?list=PLwdnzlV3ogoVZdKHNNAoVbcFDVo0Wb0am
+9. Financial Theory with John Geanakoplos (Yale) - https://www.youtube.com/playlist?list=PLEDC55106E0BA18FC
+10. MIT Finance Theory - https://www.youtube.com/playlist?list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW
+
+**Economics Full Courses**
+Econ 472 - Law and Economics - https://www.youtube.com/playlist?list=PLGcEwO_Q6VR7S8UVcngr2xDwKIUgx1WJF
+ECO: 305 Money and Banking - https://www.youtube.com/playlist?list=PLdLiRaajwSXSO6FD9_oQUkjAgQoRHDs8d
+
+**Risk Management & Insurance**
+Foundations of Quantitative Risk Management - https://www.youtube.com/channel/UCZ9RWBKcbFsQDub3Ky3fdhw
 
 **Time Series, Econometrics, Causality**
 Applied Time Series Analysis (NPTEL) - https://www.youtube.com/playlist?list=PLl0FT6O_WWDBm-4W-eoK34omYmEMseQDX
 Design and Analysis of Experiments (NPTEL) - https://www.youtube.com/playlist?list=PLPjSqITyvDeWS9Lxp4jreGJ7eNsxHxJA8
 Introduction to Econometrics (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M-YZKVfuVSYqZnMfyDNLtkw
 Regression Analysis (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJSpj5sl-8tdKARg1lw2wEa-
+Econometric Modeling (NPTEL) - https://www.youtube.com/playlist?list=PLPjSqITyvDeVG7gEsBWjH2ZumZ_2RtMYS
 
 **5 Physics Full Course Series**
 Yale, MIT, HC Verma, ...
@@ -128,25 +184,66 @@ Yale, MIT, HC Verma, ...
 **5 Engineering Full Courses**
 Fourier, Circuit Theory, Control Theory?
 
-**5 Psychology Full Courses**
-Maps of Meaning 2017
-Developmental Psychology
+**5 Linguistics Full Courses**
+Introduction to Modern Linguistics (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJSEQYH2dVtcXN9I4n8hF0VY
+Principles and Parameters in Natural Language (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJSKnOPq_u1OBhJAHPkiVgy9
+Generative Syntax with Prof Caroline Heycock - https://www.youtube.com/playlist?list=PLNRhI4Cc_QmvBzEBJFiOUfmMR4ew9TFwO
+Introduction to Formal Semantics (NPTEL) - https://www.youtube.com/playlist?list=PL02mv-ZwCsZa0cXN3IEwWa1nSBwiVCn3d
+Formal Semantics - https://www.youtube.com/playlist?list=PLqMl6r3x6BUSlOk1YyydcMWgPqPmffbBS
+
+
+**5 Psychology/Cognitive Science Full Courses**
+Introduction to Psychology (MIT, 2011) - https://www.youtube.com/playlist?list=PL44ABC9278E2EE706
+Maps of Meaning 2017 - https://www.youtube.com/playlist?list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h
+Personality and its Transformations 2017 - https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi
+Developmental Psychology (Bilkent Üniversitesi) - https://www.youtube.com/playlist?list=PL5B3KLQNAC5gn9TwYgc19UwdWYuffnXjC
+Human Behavioral Biology - https://www.youtube.com/playlist?list=PL848F2368C90DDC3D
+
+**5 Cognitive Science Full Courses**
+Cognitive Science - A Multidisciplinary Introduction - https://www.youtube.com/playlist?list=PLLOLWhN1qSnwcD8HX4r9EBvFWiAfijHxp
+Ten Lectures on Cognitive Linguistics - George Lakoff, Ph.D. (2004) - https://www.youtube.com/playlist?list=PLez3PPtnpncRMUUCgnaZO2WHdEvWwpkpa
+Edison Barrios - Cognitive Science - https://www.youtube.com/playlist?list=PLISEtDmihMo1dLp0wa1xGZcVr2lLLHT5x
+Introduction to Advanced Cognitive Processes (NPTEL) - https://www.youtube.com/playlist?list=PLXUT1uees6rb5lZ0SM1d3MMng6qyv4vXe
+Michael Gazzaniga: Gilford Lectures on Cognitive Science - https://www.youtube.com/playlist?list=PL0F3B07E571E4995B
 
 **5 Neuroscience Full Courses** 
 
-**5 Philosophy/Literature Full Courses**
-Hegel's Science of Logic (Stephen Houlgate) - https://www.youtube.com/playlist?list=PLBAqLRlJe9p4sSXYnSVZUyVFeRFDFB4RR
-Robert Brandom - https://www.youtube.com/playlist?list=PLISEtDmihMo3dkKs7nGZQVoTCfyVBcc_G
-John Searle (3 Courses: Mind, Society & Language) - https://www.youtube.com/playlist?list=PL553DCA4DB88B0408
-Philosophy of Mathematics (Hamkins, Oxford) - https://www.youtube.com/playlist?list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z
 
-**5 Complexity Full Courses**
-Workshop on Understanding Change in Individuals - https://www.youtube.com/playlist?list=PLFktS8riUYh8uJyAaqprkTy9s8-P9dTtu
-Fractals - https://www.youtube.com/playlist?list=PLj30h6LDBCwV5BoTjVL6tuakd2-eBn-Rw
-Self-Organized Criticality - https://www.youtube.com/playlist?list=PLhxcpbgz21x0LgFChr52cECE2TlWXdwwS
-
+**10 Complexity Full Courses**
+1. Complex Systems and Cellular Automata: A Course for Beginners - https://www.youtube.com/playlist?list=PLFrj8oZBxNmqcEOSpK9pD_zYJhFc_m-OR
+2. Fractals - https://www.youtube.com/playlist?list=PLj30h6LDBCwV5BoTjVL6tuakd2-eBn-Rw
+3. Self-Organized Criticality - https://www.youtube.com/playlist?list=PLhxcpbgz21x0LgFChr52cECE2TlWXdwwS
+4. Network Science (HSE, 2021) - https://www.youtube.com/playlist?list=PLriUvS7IljvkGesFRuYjqRz4lKgodJgh2
+5. Complex Networks: Theory & Application - https://www.youtube.com/watch?v=ybOE4kh3OTc&list=PLJ5C_6qdAvBGtxohg4G5fo7WHz0KB5G7c&index=1
+6. Information Theory (NPTEL) - https://www.youtube.com/playlist?list=PLEAYkSg4uSQ1hSVlpgq9qMTuZlrfJ_5p7
+7. Natural Computation and Self-Organization - https://www.youtube.com/playlist?list=PLGQyciOFZ-kJlIxCKpYymQy7GFwWIpIb4
+8. Simulation of Complex Systems FFR120:
+     - H20: https://www.youtube.com/playlist?list=PLXmFpdlLypcBMSAxLlTQHwBz7QLJ3Yry1
+     - H21: https://www.youtube.com/playlist?list=PLXmFpdlLypcDl6AjqgLv76vJq1ihmKe2q
+9. Social Networks (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M8CLBcLnq-f3vHRH-klC39L
+10. Workshop on Understanding Change in Individuals - https://www.youtube.com/playlist?list=PLFktS8riUYh8uJyAaqprkTy9s8-P9dTtu
 
 **5 Graduate Mathematics Full Courses**
+Complex Analysis (BBC/Open University) - https://www.youtube.com/playlist?list=PLmrgknFb6E34T9_dOkH0IT4NOFUtMdJcN
+
+
+### Humanities
+**5 Philosophy Full Courses**
+1. Philosophy of Mathematics - Paradox and Infinity - https://www.youtube.com/playlist?list=PLxQSlOe-wlgAyVVgFVNn6C3b00jqlcyaK
+2. Hegel's Science of Logic (Stephen Houlgate) - https://www.youtube.com/playlist?list=PLBAqLRlJe9p4sSXYnSVZUyVFeRFDFB4RR
+3. Robert Brandom - https://www.youtube.com/playlist?list=PLISEtDmihMo3dkKs7nGZQVoTCfyVBcc_G
+4. John Searle (3 Courses: Mind, Society & Language) - https://www.youtube.com/playlist?list=PL553DCA4DB88B0408
+5. Philosophy of Mathematics (Hamkins, Oxford) - https://www.youtube.com/playlist?list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z
+
+**5 Classical Languages Full Courses**
+Greek
+Latin
+Sanskrit
+
+**Foreign Languages**
+Japanese
+Korean
+German
 
 ### Recommended YouTube channels
 
@@ -281,6 +378,7 @@ Self-Organized Criticality - https://www.youtube.com/playlist?list=PLhxcpbgz21x0
 
 
 ### Online Journals & Magazines:
+- LWN.net - https://lwn.net/
 - FreeBSD Foundation - FreeBSD Journal - https://freebsdfoundation.org/our-work/journal/
 - OpenBSD - OpenBSD Journal (undeadly) - https://undeadly.org/cgi?action=front
 - Red Hat - Red Hat Research Quarterly (RHRQ) - https://research.redhat.com/quarterly/
