@@ -2,8 +2,19 @@
 title: "Directory"
 ---
 
+**Current Top 5 Web content recommendations**
+1. Cat-v.org - Bell Labs, UNIX, Plan 9 OS, Golang, and more ... - https://cat-v.org/
+2. The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/showcase/6114853 - Five documentaries with and about the great American physicist Richard Feynman (1918-88), all made for the BBC TV 'Horizon' science series.
+3. Feynman Messenger Lectures (part of Feynman Lectures website) - https://www.feynmanlectures.caltech.edu/messenger.html
+4. Paul G Hewitt, CONCEPTUAL PHYSICS ALIVE Online | (Vimeo On Demand, Arbor Scientfic) - https://vimeo.com/ondemand/cpa/ - ($199)
+5. Bob Doyle, The Information Philosopher - https://www.informationphilosopher.com/ - An encylopedia of scientists and philosophers along with a few books worth of philosophical material covering all the main area of Western philosophy from his information-centric perspective.
 
-The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/showcase/6114853 - Five documentaries with and about the great American physicist Richard Feynman (1918-88), all made for the BBC TV 'Horizon' science series.
+**Top 5 HTML books**
+1. Feynman Lectures - https://www.feynmanlectures.caltech.edu
+2. Introduction to Higher Mathematics - https://www.whitman.edu/mathematics/higher_math_online/ - Logic, Proofs, Number Theory, Functions & Relations
+3. Structure & Interpretation of Computer Programs - https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
+4. Quantum Country - https://quantum.country/ - A free introduction to quantum computing and quantum mechanics
+5. StatLect - https://www.statlect.com/ - Digital textbook on probability and statistics
 
 **Top 5 Blogs:**
 1. Privatedozent (Jørgen Veisdal, Substack) - https://www.privatdozent.co/
@@ -18,6 +29,17 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 3. Machine Learning Street Talk (Tim Scarfe, Keith Duggar & Yannic Kilcher) - https://www.youtube.com/c/MachineLearningStreetTalk
 4. Brain Inspired (Paul Middlebrooks) - https://braininspired.co/
 5. Engineered Mind (Jousef Murad) - https://www.youtube.com/playlist?list=PL-K7XxqaUNyfG3VzPuupvJyseCAIEn8-L
+
+**Top 5 YouTube Full Courses**
+1. Missing Semester - https://missing.csail.mit.edu/
+2. Introduction to Higher Mathematics, Bill Shillito - https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX 
+3. MIT Calculus Revisited (3 Courses):
+     - Single Variable - https://www.youtube.com/playlist?list=PL3B08AE665AB9002A
+     - Multivariable - https://www.youtube.com/playlist?list=PL1C22D4DED943EF7B
+     - Complex, DiffQ & Linear Algebra - https://www.youtube.com/playlist?list=PLD971E94905A70448
+ 4. Learning to Learn, Richard Hamming - https://www.youtube.com/playlist?list=PLUeG2W-NLloyr1H2J1wO4MKnvz__B4-u6
+ 5. Machine Learning, Andrew Ng (Standford) - https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599 
+
 
 ### Recommended YouTube channels
 
@@ -48,7 +70,7 @@ The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/sh
 - Veritasium
 - Welch Labs
 
-**Full Lecture Courses**
+**Channels w/ Full Lecture Courses**
 - Bill Shillito
 - Professor Macauley
 - Richard E. BORCHERDS
