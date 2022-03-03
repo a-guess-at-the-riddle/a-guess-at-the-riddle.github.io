@@ -44,31 +44,15 @@ title: "Directory"
      - Complex, DiffQ & Linear Algebra - https://www.youtube.com/playlist?list=PLD971E94905A70448
 2. Geometric Topology (BBC/Open University) - https://www.youtube.com/playlist?list=PLKB3Q5Oyy_RNBrS3V2WbOLjxNRkXoP5oe
 3. Real Analysis (Francis Su) - Lectures: https://www.youtube.com/playlist?list=PL0E754696F72137EC - Notes: https://app.box.com/v/su-math-131-fall2014?sortColumn=name&sortDirection=ASC
-4. Complex Analysis (BBC/Open University) - https://www.youtube.com/playlist?list=PLmrgknFb6E34T9_dOkH0IT4NOFUtMdJcN
-5. 
+4. Math 3500 & 3510: Multivariable Calculus and Linear Algebra - https://www.youtube.com/playlist?list=PL5I-Eyk8l9FHdJUd9UujGcvumjCFPHbrd
+5. Complex Analysis (BBC/Open University) - https://www.youtube.com/playlist?list=PLmrgknFb6E34T9_dOkH0IT4NOFUtMdJcN
 
 **5 Probability & Statistics Full Courses**
 1. Understanding Basic Statistics (Dana Mosely) - https://www.youtube.com/playlist?list=PL9Wxhr5qVFN0WY2CXB4tRfkpst3io7zXJ
 2. Mathematical Probability (Harvard) - https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 3. Mathematical Statistics (UCCS) - https://www.youtube.com/playlist?list=PL9520222F814EE9B6
-4. Applied Multivariate Analysis???
+4. Applied Multivariate Statistical Modeling - https://www.youtube.com/playlist?list=PLbRMhDVUMngf6nnjwmvB48i5ESdzzXKN_
 5. Foundations of Measurement (Mathematical Psychology) - https://www.youtube.com/playlist?list=PLrKlhVqlZwK6UcJ7K-XpaLmWoGehnXLAX
-
-**5 YouTube Theoretical Comp Sci Full Courses**
-1. CS50, David Malen (Harvard) - https://www.youtube.com/c/cs50
-2. Learning to Learn, Richard Hamming - https://www.youtube.com/playlist?list=PLUeG2W-NLloyr1H2J1wO4MKnvz__B4-u6
-3. Discrete Mathematics (NPTEL) - https://www.youtube.com/playlist?list=PLwdnzlV3ogoVxVxCTlI45pDVM1aoYoMHf
-4. Foundations of Computer Science, Fall 2020 (Rensselaer) - https://www.youtube.com/playlist?list=PLeSImI9eZJ99fcLYBjhTGBhPx4FgxFZXv
-5. Introduction to Algorithms and Analysis (NPTEL) - https://www.youtube.com/playlist?list=PLxR_6l4pE6quoVjSj_ShLfIftUpd_e5yo
-
-**5 YouTube AI Full Courses**
-1. Artificial Intelligence (NPTEL, Deepak Khemani) - https://www.youtube.com/playlist?list=PLbMVogVj5nJQu5qwm-HmJgjmeGhsErvXD
-2. Knowledge Representation and Reasoning (NPTEL, Deepak Khemani) - https://www.youtube.com/playlist?list=PLJ5C_6qdAvBG8HP77xIOVxH4Jzq3RQ9dI
-3. Machine Learning, Andrew Ng (Stanford) - https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599
-4. Foundations of Machine Learning (Bloomberg) - https://www.youtube.com/playlist?list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI
-5. Reinforcement Learning Course (DeepMind & UCL) - https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb
-
-**5 Natural Language Processing Full Courses**
 
 **5 YouTube Programming Language Full Courses**
 1. Problem Solving Through C (NPTEL) - https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1
@@ -92,11 +76,47 @@ title: "Directory"
 4. MIT 15.S12 Blockchain and Money, Fall 2018 - https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn
 5. Web3 Blockchain Fundamentals MOOC (Web3 Foundation) - https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J
 
-**5 Optimization/Operations Rsearch**
+**5 YouTube Software Engineering Full Courses**
+1. Software Engineering (NPTE) - https://www.youtube.com/playlist?list=PLbRMhDVUMngf8oZR3DpKMvYhZKga90JVt
+2. Software Testing (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M-sBjDcT21Gpnj8grR2fDgc
+
+**5 YouTube Theoretical Comp Sci Full Courses**
+1. CS50, David Malen (Harvard) - https://www.youtube.com/c/cs50
+2. Learning to Learn, Richard Hamming - https://www.youtube.com/playlist?list=PLUeG2W-NLloyr1H2J1wO4MKnvz__B4-u6
+3. Discrete Mathematics (NPTEL) - https://www.youtube.com/playlist?list=PLwdnzlV3ogoVxVxCTlI45pDVM1aoYoMHf
+4. Foundations of Computer Science, Fall 2020 (Rensselaer) - https://www.youtube.com/playlist?list=PLeSImI9eZJ99fcLYBjhTGBhPx4FgxFZXv
+5. Introduction to Algorithms and Analysis (NPTEL) - https://www.youtube.com/playlist?list=PLxR_6l4pE6quoVjSj_ShLfIftUpd_e5yo
+
+**5 YouTube AI Full Courses**
+1. Artificial Intelligence (NPTEL, Deepak Khemani) - https://www.youtube.com/playlist?list=PLbMVogVj5nJQu5qwm-HmJgjmeGhsErvXD
+2. Knowledge Representation and Reasoning (NPTEL, Deepak Khemani) - https://www.youtube.com/playlist?list=PLJ5C_6qdAvBG8HP77xIOVxH4Jzq3RQ9dI
+3. Machine Learning, Andrew Ng (Stanford) - https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599
+4. Foundations of Machine Learning (Bloomberg) - https://www.youtube.com/playlist?list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI
+5. Reinforcement Learning Course (DeepMind & UCL) - https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb
+
+**5 Natural Language Processing Full Courses**
+
+**5 Optimization/Operations Research Full Courses**
+
+**5 Mathematics for Engineering & Physics Full Courses**
+Essential Mathematics for Machine Learning (NPTEL) - https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE
+
+**5 High Performance, Parallel & Scientific Computing Full Courses**
+Tools in Scientific Computing (NPTEL) - https://www.youtube.com/playlist?list=PLbRMhDVUMngccapOgCr2Tm5sn_cuHeAf6
 
 **Decision Theory, Game Theory, Public Choice Theory Full Courses**
+Decision Modeling (NPTEL) - https://www.youtube.com/playlist?list=PLjZ0n5u3Vc5DZ_0Olst6rW5tBTuSr3V8E
+Decision Making Under Uncertainty (NPTEL) -  https://www.youtube.com/playlist?list=PLyqSpQzTE6M-WRnhSccKoW9-spKEiHAm9
+Game Theory (Yale) - https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B
+
 
 **5 Econ/Finance Full Courses**
+
+**Time Series, Econometrics, Causality**
+Applied Time Series Analysis (NPTEL) - https://www.youtube.com/playlist?list=PLl0FT6O_WWDBm-4W-eoK34omYmEMseQDX
+Design and Analysis of Experiments (NPTEL) - https://www.youtube.com/playlist?list=PLPjSqITyvDeWS9Lxp4jreGJ7eNsxHxJA8
+Introduction to Econometrics (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M-YZKVfuVSYqZnMfyDNLtkw
+Regression Analysis (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJSpj5sl-8tdKARg1lw2wEa-
 
 **5 Physics Full Course Series**
 Yale, MIT, HC Verma, ...
@@ -120,6 +140,13 @@ Robert Brandom - https://www.youtube.com/playlist?list=PLISEtDmihMo3dkKs7nGZQVoT
 John Searle (3 Courses: Mind, Society & Language) - https://www.youtube.com/playlist?list=PL553DCA4DB88B0408
 Philosophy of Mathematics (Hamkins, Oxford) - https://www.youtube.com/playlist?list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z
 
+**5 Complexity Full Courses**
+Workshop on Understanding Change in Individuals - https://www.youtube.com/playlist?list=PLFktS8riUYh8uJyAaqprkTy9s8-P9dTtu
+Fractals - https://www.youtube.com/playlist?list=PLj30h6LDBCwV5BoTjVL6tuakd2-eBn-Rw
+Self-Organized Criticality - https://www.youtube.com/playlist?list=PLhxcpbgz21x0LgFChr52cECE2TlWXdwwS
+
+
+**5 Graduate Mathematics Full Courses**
 
 ### Recommended YouTube channels
 
