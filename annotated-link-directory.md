@@ -79,6 +79,9 @@ Metric Spaces (Oxford) - https://www.youtube.com/playlist?list=PL4d5ZtfQonW10k_f
 **Differential Geometry & Tensor Calculus**
 MA2286 Advanced Calculus : a differential forms approach - https://www.youtube.com/playlist?list=PLImTGPXqA40x1jc3l7OdJIMjPq4WSWPRe
 
+**Complex Analysis**
+Complex Analysis (BBC/Open University) - https://www.youtube.com/playlist?list=PLmrgknFb6E34T9_dOkH0IT4NOFUtMdJcN
+
 **Real Analysis/Measure Theory**
 
 **5 Probability & Statistics Full Courses**
@@ -188,6 +191,7 @@ Yale, MIT, HC Verma, ...
 **5 Chemistry Full Courses**
 
 **5 Biology/Evolution Full Courses**
+Introduction to Developmental Biology (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M-rfUc9aLLKpklbfOUOktuP
 
 **5 Genomics/Bioinformatics**
 Fundamental Algorithms in Bioinformatics (UC Davis) - https://www.youtube.com/playlist?list=PL_w_qWAQZtAbh8bHfzXYpdnVKCGCDmmoL
@@ -237,16 +241,37 @@ Michael Gazzaniga: Gilford Lectures on Cognitive Science - https://www.youtube.c
 10. Workshop on Understanding Change in Individuals - https://www.youtube.com/playlist?list=PLFktS8riUYh8uJyAaqprkTy9s8-P9dTtu
 
 **5 Graduate Mathematics Full Courses**
-Complex Analysis (BBC/Open University) - https://www.youtube.com/playlist?list=PLmrgknFb6E34T9_dOkH0IT4NOFUtMdJcN
+
 
 
 ### Humanities
-**5 Philosophy Full Courses**
-1. Philosophy of Mathematics - Paradox and Infinity - https://www.youtube.com/playlist?list=PLxQSlOe-wlgAyVVgFVNn6C3b00jqlcyaK
-2. Hegel's Science of Logic (Stephen Houlgate) - https://www.youtube.com/playlist?list=PLBAqLRlJe9p4sSXYnSVZUyVFeRFDFB4RR
-3. Robert Brandom - https://www.youtube.com/playlist?list=PLISEtDmihMo3dkKs7nGZQVoTCfyVBcc_G
-4. John Searle (3 Courses: Mind, Society & Language) - https://www.youtube.com/playlist?list=PL553DCA4DB88B0408
-5. Philosophy of Mathematics (Hamkins, Oxford) - https://www.youtube.com/playlist?list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z
+**15 Philosophy Full Courses**
+1. Arthur Holmes: A History of Philosophy - https://www.youtube.com/playlist?list=PL9GwT4_YRZdBf9nIUHs0zjrnUVl-KBNSM
+2. Michael Sugrue:
+     - Greek & Roman: https://www.youtube.com/playlist?list=PLrbDdGg7Qy8iQOAQSCJwrIl2s4jej4VCD
+     - Early Modern: https://www.youtube.com/playlist?list=PLrbDdGg7Qy8iWbCldzbEo8L-hNj9gvn3E
+     - Late Modern: https://www.youtube.com/playlist?list=PLrbDdGg7Qy8gicPlf2aVNnOB0SzWgoCO7
+     - Contemporary: https://www.youtube.com/playlist?list=PLrbDdGg7Qy8h0ab_rWOyyDCWy_kZeLzJg
+3. Philosophy of Mathematics - Paradox and Infinity - https://www.youtube.com/playlist?list=PLxQSlOe-wlgAyVVgFVNn6C3b00jqlcyaK
+4. Kant's Critique of Pure Reason - Victor Gijsbers (Leiden University) - https://www.youtube.com/playlist?list=PL8Nxd4OXpzqkWppWYGtXQTto46ac-OoCT
+5. Berstein Tapes:
+     - Critique of Pure Reason: https://www.bernsteintapes.com/kantlist.html
+     - Phenomenology of Spirit: https://www.bernsteintapes.com/hegellist.html
+     - Critique of Judgment: https://www.bernsteintapes.com/3rdCritiquelist.html
+6. Five Lectures about Hegel - https://www.youtube.com/playlist?list=PLBAqLRlJe9p7smB93Ha18xD5zQyIbzkSW
+6. Hegel's Science of Logic (Riley Findley) - https://www.youtube.com/playlist?list=PLNIl0GEBYeLQ06rzN7P8BVedEmm_ray8X
+7. Hegel's Science of Logic (Stephen Houlgate) - https://www.youtube.com/playlist?list=PLBAqLRlJe9p4sSXYnSVZUyVFeRFDFB4RR
+8. Science of Logic reading group (Antonio Wolf) - https://www.youtube.com/playlist?list=PLRUSi_5LZI1nwP9tGXye7i9tqWmDbR3Vo
+9. Robert Brandom - https://www.youtube.com/playlist?list=PLISEtDmihMo3dkKs7nGZQVoTCfyVBcc_G
+10. John Searle (3 Courses: Mind, Society & Language) - https://www.youtube.com/playlist?list=PL553DCA4DB88B0408
+11. Philosophy of Mathematics (Hamkins, Oxford) - https://www.youtube.com/playlist?list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z
+12. Andrés Gómez Emilsson - https://www.youtube.com/c/Andr%C3%A9sG%C3%B3mezEmilsson/videos
+13. Shopenhauer's Aethetics - https://www.youtube.com/playlist?list=PLSpPI0lyEIr0S7FYpNJqqsiLnEP4ijPhE
+14. Kant's Aesthetics - https://www.youtube.com/playlist?list=PLSpPI0lyEIr3IY8G1dKGsjAUQLBn-vPTJ
+15. John Dewey's Art of Experience - https://www.youtube.com/playlist?list=PLSpPI0lyEIr1pES9Tx0q0OCD3TShigjAy
+16. Symbolic Logic - https://www.youtube.com/playlist?list=PLdaynbt2YwqHqbeCCDstZwkmkwI2zdsNS
+
+\*https://archive.org/details/LectureCourseInHegelsScienceOfLogic-RichardDienWinfield ???
 
 **5 Classical Languages Full Courses**
 Greek
