@@ -2,12 +2,16 @@
 title: "Directory"
 ---
 
-**Current Top 5 Web content recommendations**
+**Current Top Web content recommendations**
 1. Cat-v.org - Bell Labs, UNIX, Plan 9 OS, Golang, and more ... - https://cat-v.org/
 2. The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/showcase/6114853 - Five documentaries with and about the great American physicist Richard Feynman (1918-88), all made for the BBC TV 'Horizon' science series.
 3. Feynman Messenger Lectures (part of Feynman Lectures website) - https://www.feynmanlectures.caltech.edu/messenger.html
 4. Paul G Hewitt, CONCEPTUAL PHYSICS ALIVE Online | (Vimeo On Demand, Arbor Scientfic) - https://vimeo.com/ondemand/cpa/ - ($199)
 5. Bob Doyle, The Information Philosopher - https://www.informationphilosopher.com/ - An encylopedia of scientists and philosophers along with a few books worth of philosophical material covering all the main area of Western philosophy from his information-centric perspective.
+6. Project MATHEMATICS! (caltech) - https://www.youtube.com/playlist?list=PL8_xPU5epJdchhIkbjCPJM7m2anGUq9JT
+7. THe Mechanical Universe (caltech) - https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ
+8. Dimensions (mathematical film) - https://www.youtube.com/playlist?list=PL3C690048E1531DC7
+9. Chaos (mathematical film) - https://www.youtube.com/playlist?list=PLw2BeOjATqruoac7tS6Clnn-mpxlRkXfV
 
 **Top 5 HTML books**
 1. Feynman Lectures - https://www.feynmanlectures.caltech.edu
@@ -34,8 +38,9 @@ title: "Directory"
 1. Introduction to Higher Mathematics, Bill Shillito - https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX 
 2. Book of Proof (Teitelbaum) - https://www.youtube.com/user/jeremy9959/playlists?view=50&shelf_id=5
 3. Fundamentals of Mathematics, Taylor Dupuy - https://www.youtube.com/playlist?list=PLJmfLfPx1OedcIUn5nSCZQEtJrhLusB5Y
-4. Set Theory (METUOpenCourseWare) - https://www.youtube.com/playlist?list=PLuiPz6iU5SQ_3Gubdqa1JHBvM0GBFcIV0 Notes: https://ocw.metu.edu.tr/pluginfile.php/99015/mod_resource/content/1/320lecturenotes.pdf
-5. Introduction to Order Theory (Jagiellonian University and Technical University Berlin) - https://www.youtube.com/playlist?list=PL5rqYzyihIQ0nzfnsEKxxedCpbNQoifgg notes: https://piotrmicek.staff.tcs.uj.edu.pl/introduction-to-order-theory-2020/
+4. Arizone Math Camp - https://www.youtube.com/playlist?list=PLcjqUUQt__ZGLhwUacPm7_RKs2eJNFwco 
+5. Set Theory (METUOpenCourseWare) - https://www.youtube.com/playlist?list=PLuiPz6iU5SQ_3Gubdqa1JHBvM0GBFcIV0 Notes: https://ocw.metu.edu.tr/pluginfile.php/99015/mod_resource/content/1/320lecturenotes.pdf
+6. Introduction to Order Theory (Jagiellonian University and Technical University Berlin) - https://www.youtube.com/playlist?list=PL5rqYzyihIQ0nzfnsEKxxedCpbNQoifgg notes: https://piotrmicek.staff.tcs.uj.edu.pl/introduction-to-order-theory-2020/
 
 **5 Calculus/Intro Analysis Full Courses**
 1. MIT Calculus Revisited (3 Courses):
@@ -51,11 +56,18 @@ title: "Directory"
 
 **5 Linear Algebra/Matrix Theory Full Courses**
 1. Introduction to Abstract and Linear Algebra (NPTEL), Sourav Mukhopadhyay (IIT Kharagput) - https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2PS2t1LNFMHrr1h9Fo2TxT
-2. Linear Algebra (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7
-3. Advanced Linear Algebra (Macauley) - https://www.youtube.com/playlist?list=PLwV-9DG53NDwKJIwF5sANj6Za7qZYywAq
-4. Advanced Linear Algebra (Johnston) - https://www.youtube.com/playlist?list=PLOAf1ViVP13jdhvy-wVS7aR02xnDxueuL
-5. Matrix Theory (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJQnzk6Sn9o6RTpu4Evx0LOT
-?? Algebra 1M (Technion) - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
+2. Algebra 1M (Technion) - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
+3. Linear Algebra (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7
+4. Advanced Linear Algebra (Macauley) - https://www.youtube.com/playlist?list=PLwV-9DG53NDwKJIwF5sANj6Za7qZYywAq
+5. Advanced Linear Algebra (Johnston) - https://www.youtube.com/playlist?list=PLOAf1ViVP13jdhvy-wVS7aR02xnDxueuL
+
+**Matrices**
+Matrix Computation and its applications (NPTEL) - https://www.youtube.com/playlist?list=PLp6ek2hDcoNDjDTiFlWp-Lx0XshPvX1tR 
+Matrix Theory (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJQnzk6Sn9o6RTpu4Evx0LOT
+Advanced Matrix Theory and Linear Algebra for Engineers (NPTEL) - https://www.youtube.com/playlist?list=PL05CD03A43A56AE66
+Introduction to Applied Linear Algebra—Vectors, Matrices, and Least Squares??? - https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9
+Matrix Analysis with Applications (NPTEL) - https://www.youtube.com/playlist?list=PLLy_2iUCG87BLKl8eISe4fHKdE2_j2B_T
+Matrix Solvers (NPTEL) - https://www.youtube.com/playlist?list=PLbRMhDVUMngdcugfQl36Rnf50ki_8grvh
 
 **Abstract Algebra Full Courses**
 1. Visual Group Theory (Macauley) - https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv
@@ -64,20 +76,32 @@ title: "Directory"
 4. Algebra I (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M_ax2pAhetbzpZC5YNjOnMX
 5. Algebra II (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M_i0YoJ2NaEdkdpIVsu5EKW
 
-**Real Analysis**
+**Introductory Real Analysis**
 Real Analysis (Francis Su) - Lectures: https://www.youtube.com/playlist?list=PL0E754696F72137EC
-Metric Spaces (Oxford) - https://www.youtube.com/playlist?list=PL4d5ZtfQonW10k_fkbX-9Jj7HGAqRZbM3
+Mathematics for Economists I (Bilkent Üniversitesi) - https://www.youtube.com/playlist?list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1
+
 
 **5 Geometry/Topology Full Courses**
 1. Geometric Topology (BBC/Open University) - https://www.youtube.com/playlist?list=PLKB3Q5Oyy_RNBrS3V2WbOLjxNRkXoP5oe
 2. Geometry I (METUOpenCourseWare) - https://www.youtube.com/playlist?list=PLuiPz6iU5SQ828B8vmWXrjMDGXHGH3ci6
-3. Topology (McCrady) - https://www.youtube.com/playlist?list=PLrvK1zCpb85D96AGKDyszjsAdShtxpd_d
-4. Topology (Anaga Das) - https://www.youtube.com/playlist?list=PLISEtDmihMo0qK_p9AtJytTyQyrPy6H7O
-5. Topology (Tshishiku) - https://www.youtube.com/playlist?list=PLoWHl5YajIf5_abz6Wv8zD3T4RCDZJbB6
-6. Topology (Furter) - https://www.youtube.com/playlist?list=PLd8NbPjkXPliJunBhtDNMuFsnZPeHpm-0
+3. Metric Spaces (Oxford) - https://www.youtube.com/playlist?list=PL4d5ZtfQonW10k_fkbX-9Jj7HGAqRZbM3
+4. Modern Geometries - https://www.youtube.com/c/AndrewMisseldine/playlists?view=50&sort=dd&shelf_id=6
+5. Topology (McCrady) - https://www.youtube.com/playlist?list=PLrvK1zCpb85D96AGKDyszjsAdShtxpd_d
+6. Topology (Anaga Das) - https://www.youtube.com/playlist?list=PLISEtDmihMo0qK_p9AtJytTyQyrPy6H7O
+7. Topology (Tshishiku) - https://www.youtube.com/playlist?list=PLoWHl5YajIf5_abz6Wv8zD3T4RCDZJbB6
+8. Topology (Furter) - https://www.youtube.com/playlist?list=PLd8NbPjkXPliJunBhtDNMuFsnZPeHpm-0
+9. Multiview Geometry - https://www.youtube.com/playlist?list=PLEB45naDUsF2vpvdxZ72Jjl8ZEKISv4Nh
+
+**Book Readings**
+Jamnitzer - https://www.youtube.com/user/loxoloop/playlists
 
 **Differential Geometry & Tensor Calculus**
+Differential Geometry (NPTEL) - https://www.youtube.com/playlist?list=PLoWHl5YajIf7NzvxmGH7ch6d6qDSCv4wj
+Differential Geometry (Huckleberry) - https://www.youtube.com/playlist?list=PLTIwKoi6CMUcfCfInWo1NXTpYZ3qcM3IQ
 MA2286 Advanced Calculus : a differential forms approach - https://www.youtube.com/playlist?list=PLImTGPXqA40x1jc3l7OdJIMjPq4WSWPRe
+Differential Topology (Hergeudas) - https://www.youtube.com/playlist?list=PLyOa_UVX3FWQAw4G2kUR-pFIGZIUwE0zO
+Differential Topology (John W. Milnor) - https://www.youtube.com/playlist?list=PLISEtDmihMo2a8bJ7YSRMNwB0LGloIiI1
+Introduction to Tensor Calculus - https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq
 
 **Complex Analysis**
 Complex Analysis (BBC/Open University) - https://www.youtube.com/playlist?list=PLmrgknFb6E34T9_dOkH0IT4NOFUtMdJcN
@@ -130,6 +154,11 @@ Complex Analysis (BBC/Open University) - https://www.youtube.com/playlist?list=P
 3. Machine Learning, Andrew Ng (Stanford) - https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599
 4. Foundations of Machine Learning (Bloomberg) - https://www.youtube.com/playlist?list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI
 5. Reinforcement Learning Course (DeepMind & UCL) - https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb
+
+**Machine Learning Theory**
+Foundations of Data Science (Microsoft Research) - https://www.youtube.com/playlist?list=PLD7HFcN7LXRcvobbHq_8zMyWq_tKwtebc
+Foundations of Data Science (Simons Insitute) - https://www.youtube.com/playlist?list=PLgKuh-lKre13r1Qrnrejj3f498-NurSf3
+Machine Learning Theory (CalTech) - https://www.youtube.com/playlist?list=PLD63A284B7615313A
 
 **5 Natural Language Processing Full Courses**
 
@@ -185,13 +214,26 @@ Introduction to Econometrics (NPTEL) - https://www.youtube.com/playlist?list=PLy
 Regression Analysis (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJSpj5sl-8tdKARg1lw2wEa-
 Econometric Modeling (NPTEL) - https://www.youtube.com/playlist?list=PLPjSqITyvDeVG7gEsBWjH2ZumZ_2RtMYS
 
-**5 Physics Full Course Series**
-Yale, MIT, HC Verma, ...
+**Physics Full Course Series**
+Yale Physics:
+  - Fundamentals of Physics (Yale, Shankar) - https://www.youtube.com/playlist?list=PLFE3074A4CB751B2B
+  - Fundamentals of Physics II (Yales, Shankar) - https://www.youtube.com/playlist?list=PLD07B2225BB40E582
+HC Verma: Physics Lectures - https://www.youtube.com/channel/UCP2o9RQ2oa2hCW6IZPSSjUA
+Waves and Optics - https://www.youtube.com/playlist?list=PLSrKSt8xhLVrRO5MF6hksLfu2UeZrIiYu
+Vibrations and Waves (caltech) - https://www.youtube.com/playlist?list=PL8_xPU5epJddx_jh8YrBg-aCbKim8w0xm
+University Physics (Akdogan) - https://www.youtube.com/playlist?list=PL0vY-WY2lvfa6C0_fgipa57LKr2kBSDvP
+Quantum Physics I (MIT, 2013) - https://www.youtube.com/playlist?list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr
+Quantum Physics I (MIT, 2016) - https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G
+Quantum Physics II (MIT, 2013) - https://www.youtube.com/playlist?list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx
+Quantum Physics III (MIT, 2018) - https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L
+Quantum Physics (NPTEL) - https://www.youtube.com/playlist?list=PL0F530F3BAF8C6FCC
 
 **5 Chemistry Full Courses**
+Physical Chemistry (MIT, 2017) - https://www.youtube.com/playlist?list=PLUl4u3cNGP62RsEHXe48Imi9-87FzQaJg
 
 **5 Biology/Evolution Full Courses**
 Introduction to Developmental Biology (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M-rfUc9aLLKpklbfOUOktuP
+Beyond Networks: The Evolution of Living Systems - https://www.youtube.com/playlist?list=PL8vh-kVsYPqOKJOboONJIQBd8ds0ueM_W
 
 **5 Genomics/Bioinformatics**
 Fundamental Algorithms in Bioinformatics (UC Davis) - https://www.youtube.com/playlist?list=PL_w_qWAQZtAbh8bHfzXYpdnVKCGCDmmoL
@@ -240,8 +282,6 @@ Michael Gazzaniga: Gilford Lectures on Cognitive Science - https://www.youtube.c
 9. Social Networks (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M8CLBcLnq-f3vHRH-klC39L
 10. Workshop on Understanding Change in Individuals - https://www.youtube.com/playlist?list=PLFktS8riUYh8uJyAaqprkTy9s8-P9dTtu
 
-**5 Graduate Mathematics Full Courses**
-
 
 
 ### Humanities
@@ -262,16 +302,17 @@ Michael Gazzaniga: Gilford Lectures on Cognitive Science - https://www.youtube.c
 6. Hegel's Science of Logic (Riley Findley) - https://www.youtube.com/playlist?list=PLNIl0GEBYeLQ06rzN7P8BVedEmm_ray8X
 7. Hegel's Science of Logic (Stephen Houlgate) - https://www.youtube.com/playlist?list=PLBAqLRlJe9p4sSXYnSVZUyVFeRFDFB4RR
 8. Science of Logic reading group (Antonio Wolf) - https://www.youtube.com/playlist?list=PLRUSi_5LZI1nwP9tGXye7i9tqWmDbR3Vo
-9. Robert Brandom - https://www.youtube.com/playlist?list=PLISEtDmihMo3dkKs7nGZQVoTCfyVBcc_G
-10. John Searle (3 Courses: Mind, Society & Language) - https://www.youtube.com/playlist?list=PL553DCA4DB88B0408
-11. Philosophy of Mathematics (Hamkins, Oxford) - https://www.youtube.com/playlist?list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z
-12. Andrés Gómez Emilsson - https://www.youtube.com/c/Andr%C3%A9sG%C3%B3mezEmilsson/videos
-13. Shopenhauer's Aethetics - https://www.youtube.com/playlist?list=PLSpPI0lyEIr0S7FYpNJqqsiLnEP4ijPhE
-14. Kant's Aesthetics - https://www.youtube.com/playlist?list=PLSpPI0lyEIr3IY8G1dKGsjAUQLBn-vPTJ
-15. John Dewey's Art of Experience - https://www.youtube.com/playlist?list=PLSpPI0lyEIr1pES9Tx0q0OCD3TShigjAy
-16. Symbolic Logic - https://www.youtube.com/playlist?list=PLdaynbt2YwqHqbeCCDstZwkmkwI2zdsNS
+9. https://archive.org/details/LectureCourseInHegelsScienceOfLogic-RichardDienWinfield
+10. Robert Brandom - https://www.youtube.com/playlist?list=PLISEtDmihMo3dkKs7nGZQVoTCfyVBcc_G
+12. Philosophy of Mathematics (Hamkins, Oxford) - https://www.youtube.com/playlist?list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z
+13. Andrés Gómez Emilsson - https://www.youtube.com/c/Andr%C3%A9sG%C3%B3mezEmilsson/videos
+14. Shopenhauer's Aethetics - https://www.youtube.com/playlist?list=PLSpPI0lyEIr0S7FYpNJqqsiLnEP4ijPhE
+15. Kant's Aesthetics - https://www.youtube.com/playlist?list=PLSpPI0lyEIr3IY8G1dKGsjAUQLBn-vPTJ
+16. John Dewey's Art of Experience - https://www.youtube.com/playlist?list=PLSpPI0lyEIr1pES9Tx0q0OCD3TShigjAy
+17. Symbolic Logic - https://www.youtube.com/playlist?list=PLdaynbt2YwqHqbeCCDstZwkmkwI2zdsNS
+18. Science as Process and Perspective – A Crash Course in the Philosophy of Science for Researchers - https://www.youtube.com/playlist?list=PL8vh-kVsYPqPVrV0m4HjZexgO6oDkgkK0
+19. The Scientific Odyssey Podcast - https://www.youtube.com/channel/UC7hmTbTleNSN0_GMBBhagKw/playlists
 
-\*https://archive.org/details/LectureCourseInHegelsScienceOfLogic-RichardDienWinfield ???
 
 **5 Classical Languages Full Courses**
 Greek
