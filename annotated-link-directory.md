@@ -42,10 +42,12 @@ title: "Directory"
      - Single Variable - https://www.youtube.com/playlist?list=PL3B08AE665AB9002A
      - Multivariable - https://www.youtube.com/playlist?list=PL1C22D4DED943EF7B
      - Complex, DiffQ & Linear Algebra - https://www.youtube.com/playlist?list=PLD971E94905A70448
-2. Real Analysis (Francis Su) - Lectures: https://www.youtube.com/playlist?list=PL0E754696F72137EC - Notes: https://app.box.com/v/su-math-131-fall2014?sortColumn=name&sortDirection=ASC
-3. Metric Spaces (Oxford) - https://www.youtube.com/playlist?list=PL4d5ZtfQonW10k_fkbX-9Jj7HGAqRZbM3
+2. Analytic Geometry & Calculus II - https://www.youtube.com/playlist?list=PLXsDp0z6VWFTaHk0VtafGc99pnNHHwH5U
+3. Differential & Integral Calculus (Technion):
+      I: https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
+      II: https://www.youtube.com/playlist?list=PLW3u28VuDAHLWNxKyfoBQSVBp-fhWrDr0
 4. Math 3500 & 3510: Multivariable Calculus and Linear Algebra - https://www.youtube.com/playlist?list=PL5I-Eyk8l9FHdJUd9UujGcvumjCFPHbrd
-5. Multivariable Calculus (Montgomery College) - https://www.youtube.com/playlist?list=PLq-Gm0yRYwTj3rBMp0KRdllyKU22ykh7V
+5. Multivariable Calculus (Montgomery College) - https://www.youtube.com/playlist?list=PLq-Gm0yRYwTj3rBMp0KRdllyKU22ykh7V 
 
 **5 Linear Algebra/Matrix Theory Full Courses**
 1. Introduction to Abstract and Linear Algebra (NPTEL), Sourav Mukhopadhyay (IIT Kharagput) - https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2PS2t1LNFMHrr1h9Fo2TxT
@@ -53,6 +55,7 @@ title: "Directory"
 3. Advanced Linear Algebra (Macauley) - https://www.youtube.com/playlist?list=PLwV-9DG53NDwKJIwF5sANj6Za7qZYywAq
 4. Advanced Linear Algebra (Johnston) - https://www.youtube.com/playlist?list=PLOAf1ViVP13jdhvy-wVS7aR02xnDxueuL
 5. Matrix Theory (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJQnzk6Sn9o6RTpu4Evx0LOT
+?? Algebra 1M (Technion) - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
 
 **Abstract Algebra Full Courses**
 1. Visual Group Theory (Macauley) - https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv
@@ -60,6 +63,10 @@ title: "Directory"
 3. Algebra (Massey University) - https://www.youtube.com/playlist?list=PLh464gFUoJWMoHFd9SBx0vNJY5TXyzP3U
 4. Algebra I (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M_ax2pAhetbzpZC5YNjOnMX
 5. Algebra II (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M_i0YoJ2NaEdkdpIVsu5EKW
+
+**Real Analysis**
+Real Analysis (Francis Su) - Lectures: https://www.youtube.com/playlist?list=PL0E754696F72137EC
+Metric Spaces (Oxford) - https://www.youtube.com/playlist?list=PL4d5ZtfQonW10k_fkbX-9Jj7HGAqRZbM3
 
 **5 Geometry/Topology Full Courses**
 1. Geometric Topology (BBC/Open University) - https://www.youtube.com/playlist?list=PLKB3Q5Oyy_RNBrS3V2WbOLjxNRkXoP5oe
@@ -70,6 +77,7 @@ title: "Directory"
 6. Topology (Furter) - https://www.youtube.com/playlist?list=PLd8NbPjkXPliJunBhtDNMuFsnZPeHpm-0
 
 **Differential Geometry & Tensor Calculus**
+MA2286 Advanced Calculus : a differential forms approach - https://www.youtube.com/playlist?list=PLImTGPXqA40x1jc3l7OdJIMjPq4WSWPRe
 
 **Real Analysis/Measure Theory**
 
@@ -179,7 +187,12 @@ Yale, MIT, HC Verma, ...
 
 **5 Chemistry Full Courses**
 
-**5 Bio/Genetics Full Courses**
+**5 Biology/Evolution Full Courses**
+
+**5 Genomics/Bioinformatics**
+Fundamental Algorithms in Bioinformatics (UC Davis) - https://www.youtube.com/playlist?list=PL_w_qWAQZtAbh8bHfzXYpdnVKCGCDmmoL
+
+**5 Mathematical Biology**
 
 **5 Engineering Full Courses**
 Fourier, Circuit Theory, Control Theory?
