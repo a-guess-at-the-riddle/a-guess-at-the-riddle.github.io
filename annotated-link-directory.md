@@ -449,6 +449,7 @@ German
 
 **Math/CS/Neuro/Philo Theory Academic Talks**
 - ФКН ВШЭ (Faculty of Computer Science, HSE University)
+- Mathematics at HSE
 - The Archimedeans
 - The Alan Turing Institute
 - Institute for Advanced Study
@@ -489,8 +490,6 @@ German
 - Simons Institute
 
 **Organization's/Research Groups**
-- DeepMind
-- OpenAI
 - The Linux Foundation
 - FreeBSD
 - Red Hat (Series and Livestreaming) - https://www.youtube.com/c/redhat/playlists?view=50&sort=dd&shelf_id=2
@@ -500,6 +499,8 @@ German
 - LLVM
 - The Julia Programming
 - Julia Computing
+- DeepMind
+- OpenAI
 - Allen Institute
 - Wolfram
 - Numenta
@@ -507,7 +508,7 @@ German
 - Active Inference Lab
 - Santa Fe Institute
 
-**History**
+**Historical**
 - Computer History Museum
 - Web of Stories - Life Stories of Remarkable People
 - Association for Computing Machinery (ACM) - A. M. Turing Award Laureate Interviews (playlist) - https://www.youtube.com/playlist?list=PLn0nrSd4xjjaSLBSzmno-3Ods6FJE9nlO
@@ -543,16 +544,31 @@ German
 - The New Zealand Journal for the History and Philosophy of Science and Technology | Rutherford Journal Vol 1-5 (2005-2018) - http://www.rutherfordjournal.org/
 - Cryptoeconomic Systems - https://cryptoeconomicsystems.pubpub.org/
 
-**Public Domain Resources**
+**Mostly Public Domain Resources**
 The Internet Classics Archive - http://classics.mit.edu/
 Project Gutenberg - https://www.gutenberg.org/
-Bartleby (reference) - https://www.bartleby.com/reference/
+Bartleby (reference) - https://www.bartleby.com/subjects/
+Perseus Digital Library - http://www.perseus.tufts.edu/hopper/
+LibriVox - https://librivox.org/
+Web Gallery of Art - https://www.wga.hu/
+
+**Online Texts**
+The Online Books Page - http://digital.library.upenn.edu/books/
 
 **General Philosophy Resources**
 Stanford Encylopedia of Philosophy (SEP) - https://plato.stanford.edu/
-Internet Encyclopedia of Philosophy - https://iep.utm.edu/
+Internet Encyclopedia of Philosophy (IEP) - https://iep.utm.edu/
 PhilPapers - https://philpapers.org/
 Early Modern Texts - https://earlymoderntexts.com/ 
+Philosophy Pages - http://www.philosophypages.com/
+
+
+
+
+
+
+
+
 
 ### unorganised
 
