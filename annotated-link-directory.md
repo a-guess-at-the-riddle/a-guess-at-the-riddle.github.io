@@ -1,17 +1,33 @@
 ---
 title: "Directory"
 ---
+**misc**
+- Cat-v.org - Bell Labs, UNIX, Plan 9 OS, Golang, and more ... - https://cat-v.org/
+- Paul G Hewitt, CONCEPTUAL PHYSICS ALIVE Online | (Vimeo On Demand, Arbor Scientfic) - https://vimeo.com/ondemand/cpa/ - ($199)
+- Bob Doyle, The Information Philosopher - https://www.informationphilosopher.com/ - An encylopedia of scientists and philosophers along with a few books worth of philosophical material covering all the main area of Western philosophy from his information-centric perspective.
+- John Awbrey - Inquiry to Inquiry - https://inquiryintoinquiry.com/about/
+- Commens Digital Companion to C. S. Peirce - http://commens.org/ - Dictionary, Encyclopeda, Papers, Bibliography
+- Gary Fuhrman Gnusystems (author of Turning Signs) - https://gnusystems.ca/gnoxic.htm
 
-**Current Top Web content recommendations**
-1. Cat-v.org - Bell Labs, UNIX, Plan 9 OS, Golang, and more ... - https://cat-v.org/
-2. The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/showcase/6114853 - Five documentaries with and about the great American physicist Richard Feynman (1918-88), all made for the BBC TV 'Horizon' science series.
-3. Feynman Messenger Lectures (part of Feynman Lectures website) - https://www.feynmanlectures.caltech.edu/messenger.html
-4. Paul G Hewitt, CONCEPTUAL PHYSICS ALIVE Online | (Vimeo On Demand, Arbor Scientfic) - https://vimeo.com/ondemand/cpa/ - ($199)
-5. Bob Doyle, The Information Philosopher - https://www.informationphilosopher.com/ - An encylopedia of scientists and philosophers along with a few books worth of philosophical material covering all the main area of Western philosophy from his information-centric perspective.
-6. Project MATHEMATICS! (caltech) - https://www.youtube.com/playlist?list=PL8_xPU5epJdchhIkbjCPJM7m2anGUq9JT
-7. THe Mechanical Universe (caltech) - https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ
-8. Dimensions (mathematical film) - https://www.youtube.com/playlist?list=PL3C690048E1531DC7
-9. Chaos (mathematical film) - https://www.youtube.com/playlist?list=PLw2BeOjATqruoac7tS6Clnn-mpxlRkXfV
+**Science Populizers: Richard Feynman, Jacob Brownoski, James Burke, Carl Sagan**
+1. The Sagan Series (Reid Gower) - https://www.youtube.com/playlist?list=PLF17F07CFC3208E29 (in the future, link could be broken)
+2. Connections by James Burke - https://archive.org/details/ConnectionsByJamesBurke (in the future, link could be broken)
+3. The Ascent of Man by Jacob Bronwoski - https://archive.org/details/ascent-of-man-1-02-the-harvest-of-the-seasons
+4. The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/showcase/6114853 - Five documentaries with and about the great American physicist Richard Feynman (1918-88), all made for the BBC TV 'Horizon' science series.
+5. Feynman Messenger Lectures (part of Feynman Lectures website) - https://www.feynmanlectures.caltech.edu/messenger.html
+6. QED - Richard Feynman (Sir Douglas Robb Lectures, University of Auckland, 1979) - https://www.youtube.com/watch?v=Alj6q4Y0TNE
+7. Quantum Mechanical View of Reality - https://www.youtube.com/playlist?list=PLW_HsOU6YZRkdhFFznHNEfua9NK3deBQy
+8. Los Alamos From Below - https://www.youtube.com/watch?v=hTRVlUT665U
+9. Computer Heuristics - https://www.youtube.com/watch?v=EKWGGDXe5MA
+10. 
+
+**Mathematical Films**
+1. Project MATHEMATICS! (caltech) - https://www.youtube.com/playlist?list=PL8_xPU5epJdchhIkbjCPJM7m2anGUq9JT
+2. The Mechanical Universe (caltech) - https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ
+3. Dimensions (mathematical film) - https://www.youtube.com/playlist?list=PL3C690048E1531DC7
+4. Chaos (mathematical film) - https://www.youtube.com/playlist?list=PLw2BeOjATqruoac7tS6Clnn-mpxlRkXfV
+5. Power of Ten (1977) - https://www.youtube.com/watch?v=0fKBhvDjuy0
+6. Frames of Reference (1960)
 
 **Top 5 HTML books**
 1. Feynman Lectures - https://www.feynmanlectures.caltech.edu
@@ -215,6 +231,7 @@ Regression Analysis (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJ
 Econometric Modeling (NPTEL) - https://www.youtube.com/playlist?list=PLPjSqITyvDeVG7gEsBWjH2ZumZ_2RtMYS
 
 **Physics Full Course Series**
+Sean Carroll: The Biggest Ideas in the Universe - https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX
 Yale Physics:
   - Fundamentals of Physics (Yale, Shankar) - https://www.youtube.com/playlist?list=PLFE3074A4CB751B2B
   - Fundamentals of Physics II (Yales, Shankar) - https://www.youtube.com/playlist?list=PLD07B2225BB40E582
@@ -266,7 +283,8 @@ Introduction to Advanced Cognitive Processes (NPTEL) - https://www.youtube.com/p
 Michael Gazzaniga: Gilford Lectures on Cognitive Science - https://www.youtube.com/playlist?list=PL0F3B07E571E4995B
 
 **5 Neuroscience Full Courses** 
-
+Dynamical Systems in Neuroscience (NeuroLogos) - https://www.youtube.com/playlist?list=PLTEtXsHFKZTvNIoeXHF5JSVc21LrM-j2f
+Grossbergian Neuroscience (NeuroLogos) - https://www.youtube.com/playlist?list=PLTEtXsHFKZTsxmKyVn69ZmLBxghBH1tNR
 
 **10 Complexity Full Courses**
 1. Complex Systems and Cellular Automata: A Course for Beginners - https://www.youtube.com/playlist?list=PLFrj8oZBxNmqcEOSpK9pD_zYJhFc_m-OR
