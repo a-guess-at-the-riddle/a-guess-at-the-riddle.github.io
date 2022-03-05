@@ -9,17 +9,28 @@ title: "Directory"
 - Commens Digital Companion to C. S. Peirce - http://commens.org/ - Dictionary, Encyclopeda, Papers, Bibliography
 - Gary Fuhrman Gnusystems (author of Turning Signs) - https://gnusystems.ca/gnoxic.htm
 
+
+**Poetry**
+- Alexander Pushkin - Eugene Onegin Audiobook (HQ sound) Stephen Fry - https://www.youtube.com/watch?v=LTsv6ISjstg
+- Union Bank of Switzerland 1997 Poetry Advertisements - https://www.youtube.com/playlist?list=PL68827C7828E91B1F
+- Dr Iain McGilchrist - Daily Poem Readings - https://www.youtube.com/playlist?list=PLqBHk3itxyPCGwtSRMs0SwlEBZF81-ZZ7
+
+Shakespear Monologues playlist???
+
+Also Poetry Playlist of Playlists!!!
+
 **Science Populizers: Richard Feynman, Jacob Brownoski, James Burke, Carl Sagan**
-1. The Sagan Series (Reid Gower) - https://www.youtube.com/playlist?list=PLF17F07CFC3208E29 (in the future, link could be broken)
-2. Connections by James Burke - https://archive.org/details/ConnectionsByJamesBurke (in the future, link could be broken)
-3. The Ascent of Man by Jacob Bronwoski - https://archive.org/details/ascent-of-man-1-02-the-harvest-of-the-seasons
-4. The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/showcase/6114853 - Five documentaries with and about the great American physicist Richard Feynman (1918-88), all made for the BBC TV 'Horizon' science series.
-5. Feynman Messenger Lectures (part of Feynman Lectures website) - https://www.feynmanlectures.caltech.edu/messenger.html
-6. QED - Richard Feynman (Sir Douglas Robb Lectures, University of Auckland, 1979) - https://www.youtube.com/watch?v=Alj6q4Y0TNE
-7. Quantum Mechanical View of Reality - https://www.youtube.com/playlist?list=PLW_HsOU6YZRkdhFFznHNEfua9NK3deBQy
-8. Los Alamos From Below - https://www.youtube.com/watch?v=hTRVlUT665U
-9. Computer Heuristics - https://www.youtube.com/watch?v=EKWGGDXe5MA
-10. 
+1. The Sagan Series (Reid Gower) - https://www.youtube.com/playlist?list=PLF17F07CFC3208E29 
+2. The Feynman Series (Reid Gower) - https://www.youtube.com/playlist?list=PL92F9FC91BBE2210D
+4. Connections by James Burke - https://archive.org/details/ConnectionsByJamesBurke (in the future, link could be broken)
+5. The Ascent of Man by Jacob Bronwoski - https://archive.org/details/ascent-of-man-1-02-the-harvest-of-the-seasons (in the future, link could be broken)
+6. The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/showcase/6114853 - Five documentaries with and about the great American physicist Richard Feynman (1918-88), all made for the BBC TV 'Horizon' science series.
+7. Feynman Messenger Lectures (part of Feynman Lectures website) - https://www.feynmanlectures.caltech.edu/messenger.html
+8. QED - Richard Feynman (Sir Douglas Robb Lectures, University of Auckland, 1979) - https://www.youtube.com/watch?v=Alj6q4Y0TNE
+9. Quantum Mechanical View of Reality - https://www.youtube.com/playlist?list=PLW_HsOU6YZRkdhFFznHNEfua9NK3deBQy
+10. Los Alamos From Below - https://www.youtube.com/watch?v=hTRVlUT665U
+11. Computer Heuristics - https://www.youtube.com/watch?v=EKWGGDXe5MA
+
 
 **Mathematical Films**
 1. Project MATHEMATICS! (caltech) - https://www.youtube.com/playlist?list=PL8_xPU5epJdchhIkbjCPJM7m2anGUq9JT
@@ -28,6 +39,17 @@ title: "Directory"
 4. Chaos (mathematical film) - https://www.youtube.com/playlist?list=PLw2BeOjATqruoac7tS6Clnn-mpxlRkXfV
 5. Power of Ten (1977) - https://www.youtube.com/watch?v=0fKBhvDjuy0
 6. Frames of Reference (1960)
+
+**Open University (BBC)**
+Math Foundations - https://www.youtube.com/playlist?list=PLmrgknFb6E34U-OSpIIVLjxsNX51e0kJc
+Science Foundations - https://www.youtube.com/playlist?list=PLmrgknFb6E36RZw_afwMOF_Txbe7Fm_xN
+Understanding Time and Space - https://www.youtube.com/playlist?list=PLmrgknFb6E34yzwaH4QLBFqGDVCSxNaGA
+Geology - https://www.youtube.com/playlist?list=PLmrgknFb6E36mz3VhRPk4A2IfiPwAG-ei
+Introductory Electronics (missing ep. 1) - https://www.youtube.com/playlist?list=PLmrgknFb6E36ASCrEaV8bSsLtUjGWSmWj
+History of Architecture & Design - https://www.youtube.com/playlist?list=PLmrgknFb6E35dwD6DbfWtMUTbiXlXPwen
+Images and Information - https://www.youtube.com/playlist?list=PLmrgknFb6E35Z-X6a9f4DaVs1A0kePPdH
+Networks & Design - https://www.youtube.com/playlist?list=PLmrgknFb6E35ydf_JpfG5B0QxEU7eakuI
+Complex Analysis - https://www.youtube.com/playlist?list=PLmrgknFb6E34T9_dOkH0IT4NOFUtMdJcN
 
 **Top 5 HTML books**
 1. Feynman Lectures - https://www.feynmanlectures.caltech.edu
@@ -120,7 +142,7 @@ Differential Topology (John W. Milnor) - https://www.youtube.com/playlist?list=P
 Introduction to Tensor Calculus - https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq
 
 **Complex Analysis**
-Complex Analysis (BBC/Open University) - https://www.youtube.com/playlist?list=PLmrgknFb6E34T9_dOkH0IT4NOFUtMdJcN
+
 
 **Real Analysis/Measure Theory**
 
@@ -244,6 +266,8 @@ Quantum Physics I (MIT, 2016) - https://www.youtube.com/playlist?list=PLUl4u3cNG
 Quantum Physics II (MIT, 2013) - https://www.youtube.com/playlist?list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx
 Quantum Physics III (MIT, 2018) - https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L
 Quantum Physics (NPTEL) - https://www.youtube.com/playlist?list=PL0F530F3BAF8C6FCC
+
+**Cosmology/Astrophysics/Astronomy**
 
 **5 Chemistry Full Courses**
 Physical Chemistry (MIT, 2017) - https://www.youtube.com/playlist?list=PLUl4u3cNGP62RsEHXe48Imi9-87FzQaJg
