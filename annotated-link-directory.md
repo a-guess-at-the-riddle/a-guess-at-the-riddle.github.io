@@ -10,26 +10,34 @@ title: "Directory"
 - Gary Fuhrman Gnusystems (author of Turning Signs) - https://gnusystems.ca/gnoxic.htm
 
 
-**Poetry**
-- Alexander Pushkin - Eugene Onegin Audiobook (HQ sound) Stephen Fry - https://www.youtube.com/watch?v=LTsv6ISjstg
+**Humanities**
+- Civilisation (BBC, High Definition) - https://www.youtube.com/playlist?list=PLkq44i-E582zDNKD8MqnSzRzRz7D9A-fV
+- Alexander Pushkin - Eugene Onegin Audiobook narrated by Stephen Fry - https://www.youtube.com/watch?v=LTsv6ISjstg
 - Union Bank of Switzerland 1997 Poetry Advertisements - https://www.youtube.com/playlist?list=PL68827C7828E91B1F
 - Dr Iain McGilchrist - Daily Poem Readings - https://www.youtube.com/playlist?list=PLqBHk3itxyPCGwtSRMs0SwlEBZF81-ZZ7
-
+- BBC Shakespeare playlist - https://www.youtube.com/playlist?list=PLT6zlV94UtITIScdLQ_8FzJcsUrjZQbH6
+- SHakespeare: The Animated Tales - https://www.youtube.com/playlist?list=PLlkitRmun4EOVFm1U4Cm5GPMZEhlGYMtb
+- OpenSource Shakespeare (OSS) - https://www.opensourceshakespeare.org/
+- Introduction to Ancient Greek History with Donald Kagan (Yale OCW) - https://www.youtube.com/playlist?list=PL023BCE5134243987
+- Aeschylus's Oresteia 1983 National Theatre (Peter Hall/Tony Harrison) - https://www.youtube.com/playlist?list=PLE4F0KOuCs97YofSqWs9oe4zUcu0q_-sZ
 Shakespear Monologues playlist???
 
 Also Poetry Playlist of Playlists!!!
+
+Learn Ancient Greek with Leonard Muellner (The Center for Hellenic Studies) - https://www.youtube.com/playlist?list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT
 
 **Science Populizers: Richard Feynman, Jacob Brownoski, James Burke, Carl Sagan**
 1. The Sagan Series (Reid Gower) - https://www.youtube.com/playlist?list=PLF17F07CFC3208E29 
 2. The Feynman Series (Reid Gower) - https://www.youtube.com/playlist?list=PL92F9FC91BBE2210D
 4. Connections by James Burke - https://archive.org/details/ConnectionsByJamesBurke (in the future, link could be broken)
-5. The Ascent of Man by Jacob Bronwoski - https://archive.org/details/ascent-of-man-1-02-the-harvest-of-the-seasons (in the future, link could be broken)
-6. The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/showcase/6114853 - Five documentaries with and about the great American physicist Richard Feynman (1918-88), all made for the BBC TV 'Horizon' science series.
-7. Feynman Messenger Lectures (part of Feynman Lectures website) - https://www.feynmanlectures.caltech.edu/messenger.html
-8. QED - Richard Feynman (Sir Douglas Robb Lectures, University of Auckland, 1979) - https://www.youtube.com/watch?v=Alj6q4Y0TNE
-9. Quantum Mechanical View of Reality - https://www.youtube.com/playlist?list=PLW_HsOU6YZRkdhFFznHNEfua9NK3deBQy
-10. Los Alamos From Below - https://www.youtube.com/watch?v=hTRVlUT665U
-11. Computer Heuristics - https://www.youtube.com/watch?v=EKWGGDXe5MA
+5. The Day the Universe Changed by James Burke - https://archive.org/details/the-day-the-universe-changed-s01e01-the-way-we-are (no collection/playlist exists currently)
+6. The Ascent of Man by Jacob Bronwoski - https://archive.org/details/ascent-of-man-1-02-the-harvest-of-the-seasons (in the future, link could be broken)
+7. The RICHARD FEYNMAN collection (Vimeo, Christopher Sykes) - https://vimeo.com/showcase/6114853 - Five documentaries with and about the great American physicist Richard Feynman (1918-88), all made for the BBC TV 'Horizon' science series.
+8. Feynman Messenger Lectures (part of Feynman Lectures website) - https://www.feynmanlectures.caltech.edu/messenger.html
+9. QED - Richard Feynman (Sir Douglas Robb Lectures, University of Auckland, 1979) - https://www.youtube.com/watch?v=Alj6q4Y0TNE
+10. Quantum Mechanical View of Reality - https://www.youtube.com/playlist?list=PLW_HsOU6YZRkdhFFznHNEfua9NK3deBQy
+11. Los Alamos From Below - https://www.youtube.com/watch?v=hTRVlUT665U
+12. Computer Heuristics - https://www.youtube.com/watch?v=EKWGGDXe5MA
 
 
 **Mathematical Films**
@@ -50,6 +58,14 @@ History of Architecture & Design - https://www.youtube.com/playlist?list=PLmrgkn
 Images and Information - https://www.youtube.com/playlist?list=PLmrgknFb6E35Z-X6a9f4DaVs1A0kePPdH
 Networks & Design - https://www.youtube.com/playlist?list=PLmrgknFb6E35ydf_JpfG5B0QxEU7eakuI
 Complex Analysis - https://www.youtube.com/playlist?list=PLmrgknFb6E34T9_dOkH0IT4NOFUtMdJcN
+OU MS283 (Introduction To Calculus) - https://archive.org/details/OUBBCMS283Ep05Of17IiFunctionsGraphsIntroductionToCalculus
+OU M203 (1980-1996) (Intro to Pure Mathematics) - https://archive.org/details/OUBBCM203GeometryTV2EInversiveGeometryPureMaths19951
+OU BBC Great Experiements - https://archive.org/details/bbc-great-experiments-ep-3-of-6-at-the-end-of-the-rainbow-19-nov-1985
+OU M203 (1997-2005) (Intro to Pure Mathematics) - https://archive.org/details/m-203-geometry-e-3-non-euclidean-geometry-1994
+OU MT365 (Graphs, Networks & Design) - https://archive.org/details/oumt365ep1of7thelocationproblemgraphsnetworksdesign
+OU BBC M203 Group Theory TV - https://archive.org/details/OUBBCM203GroupTheory4TV15TheDodecahedralGroup1978
+OU BBC M203 Linear Algebra TV - https://archive.org/details/OUBBCM203TV1GGaloisEnduringLegacy1Hour1997
+OU BBC M203 Analysis TV - https://archive.org/details/OUBBCM203AnalysisIVTV18TheDerivative1979
 
 **Top 5 HTML books**
 1. Feynman Lectures - https://www.feynmanlectures.caltech.edu
@@ -80,17 +96,23 @@ Complex Analysis - https://www.youtube.com/playlist?list=PLmrgknFb6E34T9_dOkH0IT
 5. Set Theory (METUOpenCourseWare) - https://www.youtube.com/playlist?list=PLuiPz6iU5SQ_3Gubdqa1JHBvM0GBFcIV0 Notes: https://ocw.metu.edu.tr/pluginfile.php/99015/mod_resource/content/1/320lecturenotes.pdf
 6. Introduction to Order Theory (Jagiellonian University and Technical University Berlin) - https://www.youtube.com/playlist?list=PL5rqYzyihIQ0nzfnsEKxxedCpbNQoifgg notes: https://piotrmicek.staff.tcs.uj.edu.pl/introduction-to-order-theory-2020/
 
-**5 Calculus/Intro Analysis Full Courses**
-1. MIT Calculus Revisited (3 Courses):
+**Calculus**
+1. Basic Calculus for Engineers, Scientists and Economists (NPTEL) - https://www.youtube.com/playlist?list=PL62urGZoWoiQBb2VjW7zsgmAbpuUnjCmt
+2. Basic Calculus (NPTEL, IIT M) - https://www.youtube.com/playlist?list=PL7oBzLzHZ1wXBSiJEgqz_iwVoLiY8qhbv
+3. Calculus of One Real Variable (NPTEL) - https://www.youtube.com/playlist?list=PLtKWB-wrvn4mdyYwl-cymTLvil-KllZSM 
+4. MIT Calculus Revisited (3 Courses):
      - Single Variable - https://www.youtube.com/playlist?list=PL3B08AE665AB9002A
      - Multivariable - https://www.youtube.com/playlist?list=PL1C22D4DED943EF7B
      - Complex, DiffQ & Linear Algebra - https://www.youtube.com/playlist?list=PLD971E94905A70448
-2. Analytic Geometry & Calculus II - https://www.youtube.com/playlist?list=PLXsDp0z6VWFTaHk0VtafGc99pnNHHwH5U
-3. Differential & Integral Calculus (Technion):
+5. Analytic Geometry & Calculus II - https://www.youtube.com/playlist?list=PLXsDp0z6VWFTaHk0VtafGc99pnNHHwH5U
+6. Differential & Integral Calculus (Technion):
       I: https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
       II: https://www.youtube.com/playlist?list=PLW3u28VuDAHLWNxKyfoBQSVBp-fhWrDr0
-4. Math 3500 & 3510: Multivariable Calculus and Linear Algebra - https://www.youtube.com/playlist?list=PL5I-Eyk8l9FHdJUd9UujGcvumjCFPHbrd
-5. Multivariable Calculus (Montgomery College) - https://www.youtube.com/playlist?list=PLq-Gm0yRYwTj3rBMp0KRdllyKU22ykh7V 
+7. Math 3500 & 3510: Multivariable Calculus and Linear Algebra - https://www.youtube.com/playlist?list=PL5I-Eyk8l9FHdJUd9UujGcvumjCFPHbrd
+8. Multivariable Calculus (Montgomery College) - https://www.youtube.com/playlist?list=PLq-Gm0yRYwTj3rBMp0KRdllyKU22ykh7V 
+9. Calculus of Several Real Variables (NPTEL) - https://www.youtube.com/playlist?list=PLFW6lRTa1g8174RC1q88PCU7VszfJWfg9
+10. Integral and Vector Calculus (NPTEL) - https://www.youtube.com/playlist?list=PLbRMhDVUMngfIrZCNOyPZwHUU1pP66vQW
+
 
 **5 Linear Algebra/Matrix Theory Full Courses**
 1. Introduction to Abstract and Linear Algebra (NPTEL), Sourav Mukhopadhyay (IIT Kharagput) - https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2PS2t1LNFMHrr1h9Fo2TxT
@@ -128,7 +150,8 @@ Mathematics for Economists I (Bilkent Üniversitesi) - https://www.youtube.com/p
 6. Topology (Anaga Das) - https://www.youtube.com/playlist?list=PLISEtDmihMo0qK_p9AtJytTyQyrPy6H7O
 7. Topology (Tshishiku) - https://www.youtube.com/playlist?list=PLoWHl5YajIf5_abz6Wv8zD3T4RCDZJbB6
 8. Topology (Furter) - https://www.youtube.com/playlist?list=PLd8NbPjkXPliJunBhtDNMuFsnZPeHpm-0
-9. Multiview Geometry - https://www.youtube.com/playlist?list=PLEB45naDUsF2vpvdxZ72Jjl8ZEKISv4Nh
+9. General Topology (Buffalo) - https://www.youtube.com/playlist?list=PLoWHl5YajIf6MNTh7Ok024T1JkhZEcYXm
+10. Multiview Geometry - https://www.youtube.com/playlist?list=PLEB45naDUsF2vpvdxZ72Jjl8ZEKISv4Nh
 
 **Book Readings**
 Jamnitzer - https://www.youtube.com/user/loxoloop/playlists
@@ -152,6 +175,8 @@ Introduction to Tensor Calculus - https://www.youtube.com/playlist?list=PLlXfTHz
 3. Mathematical Statistics (UCCS) - https://www.youtube.com/playlist?list=PL9520222F814EE9B6
 4. Applied Multivariate Statistical Modeling - https://www.youtube.com/playlist?list=PLbRMhDVUMngf6nnjwmvB48i5ESdzzXKN_
 5. Foundations of Measurement (Mathematical Psychology) - https://www.youtube.com/playlist?list=PLrKlhVqlZwK6UcJ7K-XpaLmWoGehnXLAX
+
+**Numerical Analysis**
 
 **5 YouTube Programming Language Full Courses**
 1. Problem Solving Through C (NPTEL) - https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1
