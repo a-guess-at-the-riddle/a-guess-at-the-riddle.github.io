@@ -373,12 +373,13 @@ Grossbergian Neuroscience (NeuroLogos) - https://www.youtube.com/playlist?list=P
 10. Robert Brandom - https://www.youtube.com/playlist?list=PLISEtDmihMo3dkKs7nGZQVoTCfyVBcc_G
 12. Philosophy of Mathematics (Hamkins, Oxford) - https://www.youtube.com/playlist?list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z
 13. Andrés Gómez Emilsson - https://www.youtube.com/c/Andr%C3%A9sG%C3%B3mezEmilsson/videos
-14. Shopenhauer's Aethetics - https://www.youtube.com/playlist?list=PLSpPI0lyEIr0S7FYpNJqqsiLnEP4ijPhE
-15. Kant's Aesthetics - https://www.youtube.com/playlist?list=PLSpPI0lyEIr3IY8G1dKGsjAUQLBn-vPTJ
-16. John Dewey's Art of Experience - https://www.youtube.com/playlist?list=PLSpPI0lyEIr1pES9Tx0q0OCD3TShigjAy
-17. Symbolic Logic - https://www.youtube.com/playlist?list=PLdaynbt2YwqHqbeCCDstZwkmkwI2zdsNS
-18. Science as Process and Perspective – A Crash Course in the Philosophy of Science for Researchers - https://www.youtube.com/playlist?list=PL8vh-kVsYPqPVrV0m4HjZexgO6oDkgkK0
-19. The Scientific Odyssey Podcast - https://www.youtube.com/channel/UC7hmTbTleNSN0_GMBBhagKw/playlists
+14. Aesthetics and the Philosophy of Art (Oxford) - https://podcasts.ox.ac.uk/series/aesthetics-and-philosophy-art-lectures
+15. Shopenhauer's Aethetics - https://www.youtube.com/playlist?list=PLSpPI0lyEIr0S7FYpNJqqsiLnEP4ijPhE
+16. Kant's Aesthetics - https://www.youtube.com/playlist?list=PLSpPI0lyEIr3IY8G1dKGsjAUQLBn-vPTJ
+17. John Dewey's Art of Experience - https://www.youtube.com/playlist?list=PLSpPI0lyEIr1pES9Tx0q0OCD3TShigjAy
+18. Symbolic Logic - https://www.youtube.com/playlist?list=PLdaynbt2YwqHqbeCCDstZwkmkwI2zdsNS
+19. Science as Process and Perspective – A Crash Course in the Philosophy of Science for Researchers - https://www.youtube.com/playlist?list=PL8vh-kVsYPqPVrV0m4HjZexgO6oDkgkK0
+20. The Scientific Odyssey Podcast - https://www.youtube.com/channel/UC7hmTbTleNSN0_GMBBhagKw/playlists
 
 
 **5 Classical Languages Full Courses**
@@ -541,6 +542,17 @@ German
 - American Scientist - https://www.americanscientist.org/
 - The New Zealand Journal for the History and Philosophy of Science and Technology | Rutherford Journal Vol 1-5 (2005-2018) - http://www.rutherfordjournal.org/
 - Cryptoeconomic Systems - https://cryptoeconomicsystems.pubpub.org/
+
+**Public Domain Resources**
+The Internet Classics Archive - http://classics.mit.edu/
+Project Gutenberg - https://www.gutenberg.org/
+Bartleby (reference) - https://www.bartleby.com/reference/
+
+**General Philosophy Resources**
+Stanford Encylopedia of Philosophy (SEP) - https://plato.stanford.edu/
+Internet Encyclopedia of Philosophy - https://iep.utm.edu/
+PhilPapers - https://philpapers.org/
+Early Modern Texts - https://earlymoderntexts.com/ 
 
 ### unorganised
 
