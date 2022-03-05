@@ -16,15 +16,26 @@ title: "Directory"
 - Union Bank of Switzerland 1997 Poetry Advertisements - https://www.youtube.com/playlist?list=PL68827C7828E91B1F
 - Dr Iain McGilchrist - Daily Poem Readings - https://www.youtube.com/playlist?list=PLqBHk3itxyPCGwtSRMs0SwlEBZF81-ZZ7
 - BBC Shakespeare playlist - https://www.youtube.com/playlist?list=PLT6zlV94UtITIScdLQ_8FzJcsUrjZQbH6
-- SHakespeare: The Animated Tales - https://www.youtube.com/playlist?list=PLlkitRmun4EOVFm1U4Cm5GPMZEhlGYMtb
+- Shakespeare: The Animated Tales - https://www.youtube.com/playlist?list=PLlkitRmun4EOVFm1U4Cm5GPMZEhlGYMtb
 - OpenSource Shakespeare (OSS) - https://www.opensourceshakespeare.org/
 - Introduction to Ancient Greek History with Donald Kagan (Yale OCW) - https://www.youtube.com/playlist?list=PL023BCE5134243987
 - Aeschylus's Oresteia 1983 National Theatre (Peter Hall/Tony Harrison) - https://www.youtube.com/playlist?list=PLE4F0KOuCs97YofSqWs9oe4zUcu0q_-sZ
-Shakespear Monologues playlist???
+- Euripides Medea (Kennedy Center) - https://www.youtube.com/watch?v=fNiriEzx5ss
+- Antigone (George Tzavellas, 1961) - https://www.youtube.com/watch?v=GGTAbx0BW7I
+- Fellini Satyricon (1969) - https://www.youtube.com/watch?v=kkaKV7v2oEU
+Shakespeare Monologues playlist???
 
 Also Poetry Playlist of Playlists!!!
 
-Learn Ancient Greek with Leonard Muellner (The Center for Hellenic Studies) - https://www.youtube.com/playlist?list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT
+**5 Classical Languages Full Courses**
+- Learn Ancient Greek with Leonard Muellner (The Center for Hellenic Studies) - https://www.youtube.com/playlist?list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT
+...Latin
+...Sanskrit
+
+**Foreign Languages**
+Japanese
+Korean
+German
 
 **Science Populizers: Richard Feynman, Jacob Brownoski, James Burke, Carl Sagan**
 1. The Sagan Series (Reid Gower) - https://www.youtube.com/playlist?list=PLF17F07CFC3208E29 
@@ -382,15 +393,7 @@ Grossbergian Neuroscience (NeuroLogos) - https://www.youtube.com/playlist?list=P
 20. The Scientific Odyssey Podcast - https://www.youtube.com/channel/UC7hmTbTleNSN0_GMBBhagKw/playlists
 
 
-**5 Classical Languages Full Courses**
-Greek
-Latin
-Sanskrit
 
-**Foreign Languages**
-Japanese
-Korean
-German
 
 ### Recommended YouTube channels
 
