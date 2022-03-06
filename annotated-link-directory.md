@@ -29,20 +29,20 @@ Shakespeare Monologues playlist???
 Also Poetry Playlist of Playlists!!!
 
 **Western Foundations**
-J S Bach, and Wester Musical Tradition videos?
+- J S Bach, and Wester Musical Tradition videos?
 
 **Meaning**
 
 
 **5 Classical Languages Full Courses**
 - Learn Ancient Greek with Leonard Muellner (The Center for Hellenic Studies) - https://www.youtube.com/playlist?list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT
-...Latin
-...Sanskrit
+- Latin
+- Sanskrit
 
 **Foreign Languages**
-Japanese
-Korean
-German
+- Japanese
+- Korean
+- German
 
 **Science Populizers: Richard Feynman, Jacob Brownoski, James Burke, Carl Sagan**
 1. The Sagan Series (Reid Gower) - https://www.youtube.com/playlist?list=PLF17F07CFC3208E29 
