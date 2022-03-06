@@ -22,10 +22,17 @@ title: "Directory"
 - Aeschylus's Oresteia 1983 National Theatre (Peter Hall/Tony Harrison) - https://www.youtube.com/playlist?list=PLE4F0KOuCs97YofSqWs9oe4zUcu0q_-sZ
 - Euripides Medea (Kennedy Center) - https://www.youtube.com/watch?v=fNiriEzx5ss
 - Antigone (George Tzavellas, 1961) - https://www.youtube.com/watch?v=GGTAbx0BW7I
-- Fellini Satyricon (1969) - https://www.youtube.com/watch?v=kkaKV7v2oEU
+- Oedipus Rex (Tyrone Guthrie, 1957 Yeats adaptation) - https://www.youtube.com/watch?v=BpxZFHBARwY
+- Electra (Michael Cacoyannis, 1962) - https://www.youtube.com/watch?v=5crCNgAPvAk
 Shakespeare Monologues playlist???
 
 Also Poetry Playlist of Playlists!!!
+
+**Western Foundations**
+J S Bach, and Wester Musical Tradition videos?
+
+**Meaning**
+
 
 **5 Classical Languages Full Courses**
 - Learn Ancient Greek with Leonard Muellner (The Center for Hellenic Studies) - https://www.youtube.com/playlist?list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT
@@ -99,13 +106,14 @@ OU BBC M203 Analysis TV - https://archive.org/details/OUBBCM203AnalysisIVTV18The
 4. Brain Inspired (Paul Middlebrooks) - https://braininspired.co/
 5. Engineered Mind (Jousef Murad) - https://www.youtube.com/playlist?list=PL-K7XxqaUNyfG3VzPuupvJyseCAIEn8-L
 
-**5 YouTube Intro to Higher Math Full Courses** (watch in order)
+**Intro to Higher Math Full Courses** (watch in order)
 1. Introduction to Higher Mathematics, Bill Shillito - https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX 
 2. Book of Proof (Teitelbaum) - https://www.youtube.com/user/jeremy9959/playlists?view=50&shelf_id=5
 3. Fundamentals of Mathematics, Taylor Dupuy - https://www.youtube.com/playlist?list=PLJmfLfPx1OedcIUn5nSCZQEtJrhLusB5Y
-4. Arizone Math Camp - https://www.youtube.com/playlist?list=PLcjqUUQt__ZGLhwUacPm7_RKs2eJNFwco 
-5. Set Theory (METUOpenCourseWare) - https://www.youtube.com/playlist?list=PLuiPz6iU5SQ_3Gubdqa1JHBvM0GBFcIV0 Notes: https://ocw.metu.edu.tr/pluginfile.php/99015/mod_resource/content/1/320lecturenotes.pdf
-6. Introduction to Order Theory (Jagiellonian University and Technical University Berlin) - https://www.youtube.com/playlist?list=PL5rqYzyihIQ0nzfnsEKxxedCpbNQoifgg notes: https://piotrmicek.staff.tcs.uj.edu.pl/introduction-to-order-theory-2020/
+4. Arizone Math Camp - https://www.youtube.com/playlist?list=PLcjqUUQt__ZGLhwUacPm7_RKs2eJNFwco
+5. Set Theory (Mathoma) - https://www.youtube.com/playlist?list=PLpzmRsG7u_gpZyi0w80IBk51k6ClSJRWK 
+6. Set Theory (METUOpenCourseWare) - https://www.youtube.com/playlist?list=PLuiPz6iU5SQ_3Gubdqa1JHBvM0GBFcIV0 Notes: https://ocw.metu.edu.tr/pluginfile.php/99015/mod_resource/content/1/320lecturenotes.pdf
+7. Introduction to Order Theory (Jagiellonian University and Technical University Berlin) - https://www.youtube.com/playlist?list=PL5rqYzyihIQ0nzfnsEKxxedCpbNQoifgg notes: https://piotrmicek.staff.tcs.uj.edu.pl/introduction-to-order-theory-2020/
 
 **Calculus**
 1. Basic Calculus for Engineers, Scientists and Economists (NPTEL) - https://www.youtube.com/playlist?list=PL62urGZoWoiQBb2VjW7zsgmAbpuUnjCmt
