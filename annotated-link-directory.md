@@ -418,6 +418,7 @@ Grossbergian Neuroscience (NeuroLogos) - https://www.youtube.com/playlist?list=P
 - Aleph 0
 - Reducible
 - Mutual Information
+- Amour Learning
 - Numberphile
 - Computerphile
 - Mathologer
