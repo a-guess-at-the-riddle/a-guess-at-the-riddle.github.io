@@ -67,23 +67,23 @@ Also Poetry Playlist of Playlists!!!
 6. Frames of Reference (1960)
 
 **Open University (BBC)**
-Math Foundations - https://www.youtube.com/playlist?list=PLmrgknFb6E34U-OSpIIVLjxsNX51e0kJc
-Science Foundations - https://www.youtube.com/playlist?list=PLmrgknFb6E36RZw_afwMOF_Txbe7Fm_xN
-Understanding Time and Space - https://www.youtube.com/playlist?list=PLmrgknFb6E34yzwaH4QLBFqGDVCSxNaGA
-Geology - https://www.youtube.com/playlist?list=PLmrgknFb6E36mz3VhRPk4A2IfiPwAG-ei
-Introductory Electronics (missing ep. 1) - https://www.youtube.com/playlist?list=PLmrgknFb6E36ASCrEaV8bSsLtUjGWSmWj
-History of Architecture & Design - https://www.youtube.com/playlist?list=PLmrgknFb6E35dwD6DbfWtMUTbiXlXPwen
-Images and Information - https://www.youtube.com/playlist?list=PLmrgknFb6E35Z-X6a9f4DaVs1A0kePPdH
-Networks & Design - https://www.youtube.com/playlist?list=PLmrgknFb6E35ydf_JpfG5B0QxEU7eakuI
-Complex Analysis - https://www.youtube.com/playlist?list=PLmrgknFb6E34T9_dOkH0IT4NOFUtMdJcN
-OU MS283 (Introduction To Calculus) - https://archive.org/details/OUBBCMS283Ep05Of17IiFunctionsGraphsIntroductionToCalculus
-OU M203 (1980-1996) (Intro to Pure Mathematics) - https://archive.org/details/OUBBCM203GeometryTV2EInversiveGeometryPureMaths19951
-OU BBC Great Experiements - https://archive.org/details/bbc-great-experiments-ep-3-of-6-at-the-end-of-the-rainbow-19-nov-1985
-OU M203 (1997-2005) (Intro to Pure Mathematics) - https://archive.org/details/m-203-geometry-e-3-non-euclidean-geometry-1994
-OU MT365 (Graphs, Networks & Design) - https://archive.org/details/oumt365ep1of7thelocationproblemgraphsnetworksdesign
-OU BBC M203 Group Theory TV - https://archive.org/details/OUBBCM203GroupTheory4TV15TheDodecahedralGroup1978
-OU BBC M203 Linear Algebra TV - https://archive.org/details/OUBBCM203TV1GGaloisEnduringLegacy1Hour1997
-OU BBC M203 Analysis TV - https://archive.org/details/OUBBCM203AnalysisIVTV18TheDerivative1979
+- Math Foundations - https://www.youtube.com/playlist?list=PLmrgknFb6E34U-OSpIIVLjxsNX51e0kJc
+- Science Foundations - https://www.youtube.com/playlist?list=PLmrgknFb6E36RZw_afwMOF_Txbe7Fm_xN
+- Understanding Time and Space - https://www.youtube.com/playlist?list=PLmrgknFb6E34yzwaH4QLBFqGDVCSxNaGA
+- Geology - https://www.youtube.com/playlist?list=PLmrgknFb6E36mz3VhRPk4A2IfiPwAG-ei
+- Introductory Electronics (missing ep. 1) - https://www.youtube.com/playlist?list=PLmrgknFb6E36ASCrEaV8bSsLtUjGWSmWj
+- History of Architecture & Design - https://www.youtube.com/playlist?list=PLmrgknFb6E35dwD6DbfWtMUTbiXlXPwen
+- Images and Information - https://www.youtube.com/playlist?list=PLmrgknFb6E35Z-X6a9f4DaVs1A0kePPdH
+- Networks & Design - https://www.youtube.com/playlist?list=PLmrgknFb6E35ydf_JpfG5B0QxEU7eakuI
+- Complex Analysis - https://www.youtube.com/playlist?list=PLmrgknFb6E34T9_dOkH0IT4NOFUtMdJcN
+- OU MS283 (Introduction To Calculus) - https://archive.org/details/OUBBCMS283Ep05Of17IiFunctionsGraphsIntroductionToCalculus
+- OU M203 (1980-1996) (Intro to Pure Mathematics) - https://archive.org/details/OUBBCM203GeometryTV2EInversiveGeometryPureMaths19951
+- OU BBC Great Experiements - https://archive.org/details/bbc-great-experiments-ep-3-of-6-at-the-end-of-the-rainbow-19-nov-1985
+- OU M203 (1997-2005) (Intro to Pure Mathematics) - https://archive.org/details/m-203-geometry-e-3-non-euclidean-geometry-1994
+- OU MT365 (Graphs, Networks & Design) - https://archive.org/details/oumt365ep1of7thelocationproblemgraphsnetworksdesign
+- OU BBC M203 Group Theory TV - https://archive.org/details/OUBBCM203GroupTheory4TV15TheDodecahedralGroup1978
+- OU BBC M203 Linear Algebra TV - https://archive.org/details/OUBBCM203TV1GGaloisEnduringLegacy1Hour1997
+- OU BBC M203 Analysis TV - https://archive.org/details/OUBBCM203AnalysisIVTV18TheDerivative1979
 
 **Top 5 HTML books**
 1. Feynman Lectures - https://www.feynmanlectures.caltech.edu
