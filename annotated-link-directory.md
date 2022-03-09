@@ -141,12 +141,12 @@ Also Poetry Playlist of Playlists!!!
 5. Advanced Linear Algebra (Johnston) - https://www.youtube.com/playlist?list=PLOAf1ViVP13jdhvy-wVS7aR02xnDxueuL
 
 **Matrices**
-Matrix Computation and its applications (NPTEL) - https://www.youtube.com/playlist?list=PLp6ek2hDcoNDjDTiFlWp-Lx0XshPvX1tR 
-Matrix Theory (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJQnzk6Sn9o6RTpu4Evx0LOT
-Advanced Matrix Theory and Linear Algebra for Engineers (NPTEL) - https://www.youtube.com/playlist?list=PL05CD03A43A56AE66
-Introduction to Applied Linear Algebra—Vectors, Matrices, and Least Squares??? - https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9
-Matrix Analysis with Applications (NPTEL) - https://www.youtube.com/playlist?list=PLLy_2iUCG87BLKl8eISe4fHKdE2_j2B_T
-Matrix Solvers (NPTEL) - https://www.youtube.com/playlist?list=PLbRMhDVUMngdcugfQl36Rnf50ki_8grvh
+1. Matrix Computation and its applications (NPTEL) - https://www.youtube.com/playlist?list=PLp6ek2hDcoNDjDTiFlWp-Lx0XshPvX1tR 
+2. Matrix Theory (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJQnzk6Sn9o6RTpu4Evx0LOT
+3. Advanced Matrix Theory and Linear Algebra for Engineers (NPTEL) - https://www.youtube.com/playlist?list=PL05CD03A43A56AE66
+4. Introduction to Applied Linear Algebra—Vectors, Matrices, and Least Squares??? - https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9
+5. Matrix Analysis with Applications (NPTEL) - https://www.youtube.com/playlist?list=PLLy_2iUCG87BLKl8eISe4fHKdE2_j2B_T
+6. Matrix Solvers (NPTEL) - https://www.youtube.com/playlist?list=PLbRMhDVUMngdcugfQl36Rnf50ki_8grvh
 
 **Abstract Algebra Full Courses**
 1. Visual Group Theory (Macauley) - https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv
@@ -156,8 +156,8 @@ Matrix Solvers (NPTEL) - https://www.youtube.com/playlist?list=PLbRMhDVUMngdcugf
 5. Algebra II (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M_i0YoJ2NaEdkdpIVsu5EKW
 
 **Introductory Real Analysis**
-Real Analysis (Francis Su) - Lectures: https://www.youtube.com/playlist?list=PL0E754696F72137EC
-Mathematics for Economists I (Bilkent Üniversitesi) - https://www.youtube.com/playlist?list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1
+1. Real Analysis (Francis Su) - Lectures: https://www.youtube.com/playlist?list=PL0E754696F72137EC
+2. Mathematics for Economists I (Bilkent Üniversitesi) - https://www.youtube.com/playlist?list=PL5B3KLQNAC5iy7YKlEdHKiAbo5SuiAHE1
 
 
 **5 Geometry/Topology Full Courses**
@@ -176,12 +176,12 @@ Mathematics for Economists I (Bilkent Üniversitesi) - https://www.youtube.com/p
 Jamnitzer - https://www.youtube.com/user/loxoloop/playlists
 
 **Differential Geometry & Tensor Calculus**
-Differential Geometry (NPTEL) - https://www.youtube.com/playlist?list=PLoWHl5YajIf7NzvxmGH7ch6d6qDSCv4wj
-Differential Geometry (Huckleberry) - https://www.youtube.com/playlist?list=PLTIwKoi6CMUcfCfInWo1NXTpYZ3qcM3IQ
-MA2286 Advanced Calculus : a differential forms approach - https://www.youtube.com/playlist?list=PLImTGPXqA40x1jc3l7OdJIMjPq4WSWPRe
-Differential Topology (Hergeudas) - https://www.youtube.com/playlist?list=PLyOa_UVX3FWQAw4G2kUR-pFIGZIUwE0zO
-Differential Topology (John W. Milnor) - https://www.youtube.com/playlist?list=PLISEtDmihMo2a8bJ7YSRMNwB0LGloIiI1
-Introduction to Tensor Calculus - https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq
+1. Differential Geometry (NPTEL) - https://www.youtube.com/playlist?list=PLoWHl5YajIf7NzvxmGH7ch6d6qDSCv4wj
+2. Differential Geometry (Huckleberry) - https://www.youtube.com/playlist?list=PLTIwKoi6CMUcfCfInWo1NXTpYZ3qcM3IQ
+3. MA2286 Advanced Calculus : a differential forms approach - https://www.youtube.com/playlist?list=PLImTGPXqA40x1jc3l7OdJIMjPq4WSWPRe
+4. Differential Topology (Hergeudas) - https://www.youtube.com/playlist?list=PLyOa_UVX3FWQAw4G2kUR-pFIGZIUwE0zO
+5. Differential Topology (John W. Milnor) - https://www.youtube.com/playlist?list=PLISEtDmihMo2a8bJ7YSRMNwB0LGloIiI1
+6. Introduction to Tensor Calculus - https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq
 
 **Complex Analysis**
 
@@ -238,26 +238,26 @@ Introduction to Tensor Calculus - https://www.youtube.com/playlist?list=PLlXfTHz
 5. Reinforcement Learning Course (DeepMind & UCL) - https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb
 
 **Machine Learning Theory**
-Foundations of Data Science (Microsoft Research) - https://www.youtube.com/playlist?list=PLD7HFcN7LXRcvobbHq_8zMyWq_tKwtebc
-Foundations of Data Science (Simons Insitute) - https://www.youtube.com/playlist?list=PLgKuh-lKre13r1Qrnrejj3f498-NurSf3
-Machine Learning Theory (CalTech) - https://www.youtube.com/playlist?list=PLD63A284B7615313A
+1. Foundations of Data Science (Microsoft Research) - https://www.youtube.com/playlist?list=PLD7HFcN7LXRcvobbHq_8zMyWq_tKwtebc
+2. Foundations of Data Science (Simons Insitute) - https://www.youtube.com/playlist?list=PLgKuh-lKre13r1Qrnrejj3f498-NurSf3
+3. Machine Learning Theory (CalTech) - https://www.youtube.com/playlist?list=PLD63A284B7615313A
 
 **5 Natural Language Processing Full Courses**
 
 **5 Optimization/Operations Research Full Courses**
-Decision Modeling (NPTEL) - https://www.youtube.com/playlist?list=PLjZ0n5u3Vc5DZ_0Olst6rW5tBTuSr3V8E
-Selected Topics in Decision Modeling (NPTEL) - https://www.youtube.com/playlist?list=PLbRMhDVUMnge0CU8o2gWwKXANADrpTc1q
+1. Decision Modeling (NPTEL) - https://www.youtube.com/playlist?list=PLjZ0n5u3Vc5DZ_0Olst6rW5tBTuSr3V8E
+2. Selected Topics in Decision Modeling (NPTEL) - https://www.youtube.com/playlist?list=PLbRMhDVUMnge0CU8o2gWwKXANADrpTc1q
 
 **5 Mathematics for Engineering & Physics Full Courses**
-Essential Mathematics for Machine Learning (NPTEL) - https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE
+1. Essential Mathematics for Machine Learning (NPTEL) - https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE
 
 **5 High Performance, Parallel & Scientific Computing Full Courses**
-Tools in Scientific Computing (NPTEL) - https://www.youtube.com/playlist?list=PLbRMhDVUMngccapOgCr2Tm5sn_cuHeAf6
+1. Tools in Scientific Computing (NPTEL) - https://www.youtube.com/playlist?list=PLbRMhDVUMngccapOgCr2Tm5sn_cuHeAf6
 
 **Politics, Decision Theory, Game Theory, Choice Theory Full Courses**
-Decision Making Under Uncertainty (NPTEL) -  https://www.youtube.com/playlist?list=PLyqSpQzTE6M-WRnhSccKoW9-spKEiHAm9
-Game Theory (Yale) - https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B
-Politics and Strategy (UCLA) - https://www.youtube.com/playlist?list=PLF420ADB3E328425A
+1. Decision Making Under Uncertainty (NPTEL) -  https://www.youtube.com/playlist?list=PLyqSpQzTE6M-WRnhSccKoW9-spKEiHAm9
+2. Game Theory (Yale) - https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B
+3. Politics and Strategy (UCLA) - https://www.youtube.com/playlist?list=PLF420ADB3E328425A
 
 **Marketing Research & Management**
 1. Marketing Research and Analysis I (NPTEL) - https://www.youtube.com/playlist?list=PLPjSqITyvDeWBBaFUbkLDJ0egyEYuNeR1
@@ -283,76 +283,76 @@ Politics and Strategy (UCLA) - https://www.youtube.com/playlist?list=PLF420ADB3E
 10. MIT Finance Theory - https://www.youtube.com/playlist?list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW
 
 **Economics Full Courses**
-Econ 472 - Law and Economics - https://www.youtube.com/playlist?list=PLGcEwO_Q6VR7S8UVcngr2xDwKIUgx1WJF
-ECO: 305 Money and Banking - https://www.youtube.com/playlist?list=PLdLiRaajwSXSO6FD9_oQUkjAgQoRHDs8d
+1. Econ 472 - Law and Economics - https://www.youtube.com/playlist?list=PLGcEwO_Q6VR7S8UVcngr2xDwKIUgx1WJF
+2. ECO: 305 Money and Banking - https://www.youtube.com/playlist?list=PLdLiRaajwSXSO6FD9_oQUkjAgQoRHDs8d
 
 **Risk Management & Insurance**
-Foundations of Quantitative Risk Management - https://www.youtube.com/channel/UCZ9RWBKcbFsQDub3Ky3fdhw
+1. Foundations of Quantitative Risk Management - https://www.youtube.com/channel/UCZ9RWBKcbFsQDub3Ky3fdhw
 
 **Time Series, Econometrics, Causality**
-Applied Time Series Analysis (NPTEL) - https://www.youtube.com/playlist?list=PLl0FT6O_WWDBm-4W-eoK34omYmEMseQDX
-Design and Analysis of Experiments (NPTEL) - https://www.youtube.com/playlist?list=PLPjSqITyvDeWS9Lxp4jreGJ7eNsxHxJA8
-Introduction to Econometrics (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M-YZKVfuVSYqZnMfyDNLtkw
-Regression Analysis (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJSpj5sl-8tdKARg1lw2wEa-
-Econometric Modeling (NPTEL) - https://www.youtube.com/playlist?list=PLPjSqITyvDeVG7gEsBWjH2ZumZ_2RtMYS
+1. Applied Time Series Analysis (NPTEL) - https://www.youtube.com/playlist?list=PLl0FT6O_WWDBm-4W-eoK34omYmEMseQDX
+2. Design and Analysis of Experiments (NPTEL) - https://www.youtube.com/playlist?list=PLPjSqITyvDeWS9Lxp4jreGJ7eNsxHxJA8
+3. Introduction to Econometrics (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M-YZKVfuVSYqZnMfyDNLtkw
+4. Regression Analysis (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJSpj5sl-8tdKARg1lw2wEa-
+5. Econometric Modeling (NPTEL) - https://www.youtube.com/playlist?list=PLPjSqITyvDeVG7gEsBWjH2ZumZ_2RtMYS
 
 **Physics Full Course Series**
-Sean Carroll: The Biggest Ideas in the Universe - https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX
-Yale Physics:
+1. Sean Carroll: The Biggest Ideas in the Universe - https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX
+2. Yale Physics:
   - Fundamentals of Physics (Yale, Shankar) - https://www.youtube.com/playlist?list=PLFE3074A4CB751B2B
   - Fundamentals of Physics II (Yales, Shankar) - https://www.youtube.com/playlist?list=PLD07B2225BB40E582
-HC Verma: Physics Lectures - https://www.youtube.com/channel/UCP2o9RQ2oa2hCW6IZPSSjUA
-Waves and Optics - https://www.youtube.com/playlist?list=PLSrKSt8xhLVrRO5MF6hksLfu2UeZrIiYu
-Vibrations and Waves (caltech) - https://www.youtube.com/playlist?list=PL8_xPU5epJddx_jh8YrBg-aCbKim8w0xm
-University Physics (Akdogan) - https://www.youtube.com/playlist?list=PL0vY-WY2lvfa6C0_fgipa57LKr2kBSDvP
-Quantum Physics I (MIT, 2013) - https://www.youtube.com/playlist?list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr
-Quantum Physics I (MIT, 2016) - https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G
-Quantum Physics II (MIT, 2013) - https://www.youtube.com/playlist?list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx
-Quantum Physics III (MIT, 2018) - https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L
-Quantum Physics (NPTEL) - https://www.youtube.com/playlist?list=PL0F530F3BAF8C6FCC
+3. HC Verma: Physics Lectures - https://www.youtube.com/channel/UCP2o9RQ2oa2hCW6IZPSSjUA
+4. Waves and Optics - https://www.youtube.com/playlist?list=PLSrKSt8xhLVrRO5MF6hksLfu2UeZrIiYu
+5. Vibrations and Waves (caltech) - https://www.youtube.com/playlist?list=PL8_xPU5epJddx_jh8YrBg-aCbKim8w0xm
+6. University Physics (Akdogan) - https://www.youtube.com/playlist?list=PL0vY-WY2lvfa6C0_fgipa57LKr2kBSDvP
+7. Quantum Physics I (MIT, 2013) - https://www.youtube.com/playlist?list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr
+8. Quantum Physics I (MIT, 2016) - https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G
+9. Quantum Physics II (MIT, 2013) - https://www.youtube.com/playlist?list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx
+10. Quantum Physics III (MIT, 2018) - https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L
+11. Quantum Physics (NPTEL) - https://www.youtube.com/playlist?list=PL0F530F3BAF8C6FCC
 
 **Cosmology/Astrophysics/Astronomy**
 
 **5 Chemistry Full Courses**
-Physical Chemistry (MIT, 2017) - https://www.youtube.com/playlist?list=PLUl4u3cNGP62RsEHXe48Imi9-87FzQaJg
+- Physical Chemistry (MIT, 2017) - https://www.youtube.com/playlist?list=PLUl4u3cNGP62RsEHXe48Imi9-87FzQaJg
 
 **5 Biology/Evolution Full Courses**
-Introduction to Developmental Biology (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M-rfUc9aLLKpklbfOUOktuP
-Beyond Networks: The Evolution of Living Systems - https://www.youtube.com/playlist?list=PL8vh-kVsYPqOKJOboONJIQBd8ds0ueM_W
+1. Introduction to Developmental Biology (NPTEL) - https://www.youtube.com/playlist?list=PLyqSpQzTE6M-rfUc9aLLKpklbfOUOktuP
+2. Beyond Networks: The Evolution of Living Systems - https://www.youtube.com/playlist?list=PL8vh-kVsYPqOKJOboONJIQBd8ds0ueM_W
 
 **5 Genomics/Bioinformatics**
-Fundamental Algorithms in Bioinformatics (UC Davis) - https://www.youtube.com/playlist?list=PL_w_qWAQZtAbh8bHfzXYpdnVKCGCDmmoL
+1. Fundamental Algorithms in Bioinformatics (UC Davis) - https://www.youtube.com/playlist?list=PL_w_qWAQZtAbh8bHfzXYpdnVKCGCDmmoL
 
 **5 Mathematical Biology**
 
 **5 Engineering Full Courses**
-Fourier, Circuit Theory, Control Theory?
+- Fourier, Circuit Theory, Control Theory?
 
 **5 Linguistics Full Courses**
-Introduction to Modern Linguistics (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJSEQYH2dVtcXN9I4n8hF0VY
-Principles and Parameters in Natural Language (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJSKnOPq_u1OBhJAHPkiVgy9
-Generative Syntax with Prof Caroline Heycock - https://www.youtube.com/playlist?list=PLNRhI4Cc_QmvBzEBJFiOUfmMR4ew9TFwO
-Introduction to Formal Semantics (NPTEL) - https://www.youtube.com/playlist?list=PL02mv-ZwCsZa0cXN3IEwWa1nSBwiVCn3d
-Formal Semantics - https://www.youtube.com/playlist?list=PLqMl6r3x6BUSlOk1YyydcMWgPqPmffbBS
+1. Introduction to Modern Linguistics (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJSEQYH2dVtcXN9I4n8hF0VY
+2. Principles and Parameters in Natural Language (NPTEL) - https://www.youtube.com/playlist?list=PLbMVogVj5nJSKnOPq_u1OBhJAHPkiVgy9
+3. Generative Syntax with Prof Caroline Heycock - https://www.youtube.com/playlist?list=PLNRhI4Cc_QmvBzEBJFiOUfmMR4ew9TFwO
+4. Introduction to Formal Semantics (NPTEL) - https://www.youtube.com/playlist?list=PL02mv-ZwCsZa0cXN3IEwWa1nSBwiVCn3d
+5. Formal Semantics - https://www.youtube.com/playlist?list=PLqMl6r3x6BUSlOk1YyydcMWgPqPmffbBS
 
 
 **5 Psychology/Cognitive Science Full Courses**
-Introduction to Psychology (MIT, 2011) - https://www.youtube.com/playlist?list=PL44ABC9278E2EE706
-Maps of Meaning 2017 - https://www.youtube.com/playlist?list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h
-Personality and its Transformations 2017 - https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi
-Developmental Psychology (Bilkent Üniversitesi) - https://www.youtube.com/playlist?list=PL5B3KLQNAC5gn9TwYgc19UwdWYuffnXjC
-Human Behavioral Biology - https://www.youtube.com/playlist?list=PL848F2368C90DDC3D
+1. Introduction to Psychology (MIT, 2011) - https://www.youtube.com/playlist?list=PL44ABC9278E2EE706
+2. Maps of Meaning 2017 - https://www.youtube.com/playlist?list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h
+3. Personality and its Transformations 2017 - https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi
+4. Developmental Psychology (Bilkent Üniversitesi) - https://www.youtube.com/playlist?list=PL5B3KLQNAC5gn9TwYgc19UwdWYuffnXjC
+5. Human Behavioral Biology - https://www.youtube.com/playlist?list=PL848F2368C90DDC3D
 
 **5 Cognitive Science Full Courses**
-Cognitive Science - A Multidisciplinary Introduction - https://www.youtube.com/playlist?list=PLLOLWhN1qSnwcD8HX4r9EBvFWiAfijHxp
-Ten Lectures on Cognitive Linguistics - George Lakoff, Ph.D. (2004) - https://www.youtube.com/playlist?list=PLez3PPtnpncRMUUCgnaZO2WHdEvWwpkpa
-Edison Barrios - Cognitive Science - https://www.youtube.com/playlist?list=PLISEtDmihMo1dLp0wa1xGZcVr2lLLHT5x
-Introduction to Advanced Cognitive Processes (NPTEL) - https://www.youtube.com/playlist?list=PLXUT1uees6rb5lZ0SM1d3MMng6qyv4vXe
-Michael Gazzaniga: Gilford Lectures on Cognitive Science - https://www.youtube.com/playlist?list=PL0F3B07E571E4995B
+1. Cognitive Science - A Multidisciplinary Introduction - https://www.youtube.com/playlist?list=PLLOLWhN1qSnwcD8HX4r9EBvFWiAfijHxp
+2. Ten Lectures on Cognitive Linguistics - George Lakoff, Ph.D. (2004) - https://www.youtube.com/playlist?list=PLez3PPtnpncRMUUCgnaZO2WHdEvWwpkpa
+3. Edison Barrios - Cognitive Science - https://www.youtube.com/playlist?list=PLISEtDmihMo1dLp0wa1xGZcVr2lLLHT5x
+4. Introduction to Advanced Cognitive Processes (NPTEL) - https://www.youtube.com/playlist?list=PLXUT1uees6rb5lZ0SM1d3MMng6qyv4vXe
+5. Michael Gazzaniga: Gilford Lectures on Cognitive Science - https://www.youtube.com/playlist?list=PL0F3B07E571E4995B
 
 **5 Neuroscience Full Courses** 
-Dynamical Systems in Neuroscience (NeuroLogos) - https://www.youtube.com/playlist?list=PLTEtXsHFKZTvNIoeXHF5JSVc21LrM-j2f
-Grossbergian Neuroscience (NeuroLogos) - https://www.youtube.com/playlist?list=PLTEtXsHFKZTsxmKyVn69ZmLBxghBH1tNR
+1. Dynamical Systems in Neuroscience (NeuroLogos) - https://www.youtube.com/playlist?list=PLTEtXsHFKZTvNIoeXHF5JSVc21LrM-j2f
+2. Grossbergian Neuroscience (NeuroLogos) - https://www.youtube.com/playlist?list=PLTEtXsHFKZTsxmKyVn69ZmLBxghBH1tNR
 
 **10 Complexity Full Courses**
 1. Complex Systems and Cellular Automata: A Course for Beginners - https://www.youtube.com/playlist?list=PLFrj8oZBxNmqcEOSpK9pD_zYJhFc_m-OR
