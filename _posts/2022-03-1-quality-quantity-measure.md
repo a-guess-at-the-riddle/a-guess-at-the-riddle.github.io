@@ -10,7 +10,7 @@ published: false
 
 **associated topic tags:** quality, semantic dimensions, semantic spaces, conceptual spaces, Peter Gärdenfors, *The Ascent of Man*, Jacob Bronowski, development of complexity, phenomenology, perception, developmental psychology, measurement theory, *Foundations of Measurement*, level of measurement, nominal, ordinal, order, interval, ratio, Stanley Smith Stevens, Benjamin Drake Wright, Georg Wilhelm Friedrich Hegel, Charles Sanders Peirce, semiotics, icon, index, symbol, Terrence Deacon, *The Symbolic Species*, necessity, history of mathematics, number, quantity, discrete, continuous, measure, 
 
-**currently researching:** Jean Piaget, Herbert Spencer, data structures, data structure design space, combinatorial design, incidence structures, formal concept analysis, extension, intension, comprehension, formal concept analysis, order theory, lattice, mathematical property, degeneracy
+**currently researching:** Jean Piaget, Developmental Psychology, Evolutionary Developmental Biology, Paul D. MacLean, triune brain theory, Evolutionary Neuroscience, Herbert Spencer, *First Principles*, data structures, data structure design space, combinatorial design, incidence structures, formal concept analysis, extension, intension, comprehension, formal concept analysis, order theory, lattice, mathematical property, degeneracy
 
 I recently watched a lecture on conceptual spaces where the cognitive scientist Peter Gärdenfors was talking about meaning with concepts like "qualitative dimension" and "semantic space". I was left with the feeling that I didn't really understand in any rigorous way what was meant by terms like "quality", "qualitative" and "qualitiative dimension". The first question that comes to mind is how can we relate this concept to the more familar notion of a quantitative dimension that we encounter in mathematics and the natural sciences?
 
@@ -21,6 +21,7 @@ We can ask in the developement of concepts generally speaking do qualitative con
 
 The plan is to examine some different contexts in which this developmental process is recapitulated:
 - the development of language in both the evolution of humans as a species and in the language aquisition process of an individual human child borrowing in large part from Terrence Deacon's *The Symbolic Species* (1997). This also relates to the Charles Sanders Peirce's theory of signs (semiotics) and the process he terms semiosis. This theory of meaning and its developement might be a good overarching lens in which to view all of the examples described in this essay.
+- the evolutionary history of the anatomy of the brain (i.e. Paul Maclean's triune brain theory).
 - the maturation of a child's perception and categorization faculties over time followed by their education in elementary mathematics
 - in psychology, concepts that fall under the category "levels of measurement" (similar to what we now call datatypes in CS) developed originally in the field known as measurement theory popularized by the work of psychologist S. S. Stevens)
 - the development in the history of mathematics of the differnt types of number and other related mathematical objects
