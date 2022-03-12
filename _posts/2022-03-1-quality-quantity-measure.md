@@ -386,15 +386,17 @@ Bernhard Ganter  (Author), Rudolf Wille (Author), C. Franzke (Translator), *Form
 
 David Foster Wallace, *Everything and More: A Compact History of Infinity*
 
+Bill Shillito, Introduction to Higher Mathematics (lecture course) - https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX
+
 Oxford University Department for Continuing Education - Cezar Ionescu - What is a Mathematical Property (2018 Open Event) - https://www.youtube.com/watch?v=8IhuPi5SbcI
 
 H Gramm Flegg, *From Geometry to Topology* (Dover)
 
 Bertrand Russell, *Introduction to Mathematical Philosophy* (Dover)
 
-How real are real numbers? - https://www.scielo.br/j/man/a/rML75qWWzpSTbkC7SfbFpPp/?lang=en
+P.D. Magnus & Tim Button, *forall x: Calgary An Introduction to Formal Logic* with additions by J Robert Loftis & Robert Trueman, remixed and revised by Aaron Thomas-Bolduc & Richard Zach
 
-Bill Shillito, Introduction to Higher Mathematics (lecture course) - https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX
+How real are real numbers? - https://www.scielo.br/j/man/a/rML75qWWzpSTbkC7SfbFpPp/?lang=en
 
 Patrick Keef and David Guichard, Introduction to Higher Mathematics (html book) - https://www.whitman.edu/mathematics/higher_math_online/
 
