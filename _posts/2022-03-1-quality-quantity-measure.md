@@ -315,6 +315,12 @@ Wikipedia summary of Incomplete Nature: https://en.wikipedia.org/wiki/Incomplete
 
 Peirce, C. S. - Upon Logical Comprehension and Extension (https://peirce.sitehost.iu.edu/writings/v2/w2/w2_06/v2_06.htm)
 
+John Awbrey - Inquiry to Inquiry - https://inquiryintoinquiry.com/about/
+
+Gary Fuhrman, *Turning Signs* (html book) - https://gnusystems.ca/TS/index.html
+
+Gary Fuhrman (Gnusystems; author of *Turning Signs*) - https://gnusystems.ca/gnoxic.htm
+
 **History of Ideas & Technology**
 
 The Great Chain of Being: A Study of the History of an Idea by Arthur O. Lovejoy
@@ -449,6 +455,8 @@ Stanford Encyclopedia of Philosophy
 Internet Encylopedia of Philosophy
 
 https://en.wikipedia.org/wiki/Louis_Narens
+
+Bob Doyle, The Information Philosopher - https://www.informationphilosopher.com/ - An encylopedia of scientists and philosophers along with a few books worth of philosophical material covering all the main area of Western philosophy from his information-centric perspective.
 
 
 
