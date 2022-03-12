@@ -352,7 +352,7 @@ Claudio Carpineto, Giovanni Romano, *Concept Data Analysis: Theory and Applicati
 Bernhard Ganter  (Author), Rudolf Wille (Author), C. Franzke (Translator), *Formal Concept Analysis: Mathematical Foundations*
 
 
-**Mathematics / Formal (Modern) Logic / Philosophy of Mathematics**
+**Mathematics / Formal (Modern) Logic / Theoretical CompSci / Philosophy of Mathematics**
 
 David Foster Wallace, *Everything and More: A Compact History of Infinity*
 
@@ -404,6 +404,8 @@ Richard E Borcherds, Zermelo Fraenkel axioms (short lecture course) - https://ww
 Ion Petre - Introduction to Automata Theory (lecture course) - https://www.youtube.com/playlist?list=PLbkSohdmxoVBMF8UxSyi3lS3z_ftawr5D
 
 Taylor Dupuy, Model Theory - https://www.youtube.com/playlist?list=PLJmfLfPx1Oef_nObIEOUfZDeCnX46ok78
+
+Malik Magdon-Ismail , Foundations of Computer Science (lecture course) - https://www.youtube.com/playlist?list=PLeSImI9eZJ99fcLYBjhTGBhPx4FgxFZXv
 
 David I. Spivak, Brendan Fong, Applied Category Theory (lecture course) - https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5
 
