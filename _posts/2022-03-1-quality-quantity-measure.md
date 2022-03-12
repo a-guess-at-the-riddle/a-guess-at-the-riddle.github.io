@@ -157,6 +157,10 @@ things to add:
 
 - Hegel and The Science of Logic seems to have covered very similar material...
 
+- metabolic breakdown and build up of multicellular organisms
+
+- (big leap here) divergence/convergence and stretching/folding in Chaos theory???
+
 - money??? is this applicable?
 
 - more about the development of larger and larger sets in mathematics?
@@ -172,13 +176,15 @@ things to add:
 
 The Origins of Order: Self-Organization and Selection in Evolution by Stuart A. Kauffman
 
+D'Arcy Wentworth Thompson, *On Growth and Form*
+
 Jacob Bronowski New Concepts in the Evolution of Complexity: Stratified Stability and Unbounded Plans
 Synthese
 Vol. 21, No. 2 (Jun., 1970), pp. 228-246 (19 pages)
 Published By: Springer
 https://www.jstor.org/stable/20114723?seq=1#page_scan_tab_contents
 
-**Normativity/Value**
+**Normativity/Value/Axiology**
 
 James Gouinlock, *John Dewey's Philosophy of Value*
 
@@ -198,7 +204,15 @@ Immanuel Kant, *Critique of Judgment*
 
 **Logic / Metaphysics / Categories**
 
-*Possibility* by Scott Buchanan
+Sister Miriam Joseph, Marguerite McGlinn (ed.), *The Trivium: The Liberal Arts of Logic, Grammar, and Rhetoric*
+
+Aristotelean-Thomistic Logic (lecture course)
+
+Aristotelean-Thomistic Metaphysics (lecture course)
+
+"Basic Logical Theory" by Leonard Peikoff (lecture course) - https://www.youtube.com/playlist?list=PLqsoWxJ-qmMtr7i6D_yvSpPC-hTOzdWas
+
+Scott Buchanan, *Possibility*
 
 ??Something about Kant's Logic and Categories??? (IMPORTANT)
   - Introduction to Logic by Immanuel Kant (Philosophical Library)
@@ -206,6 +220,7 @@ Immanuel Kant, *Critique of Judgment*
   - Logic by Immanuel Kant, Robert S. Hartman, et al.
   - Kant and Aristotle: Epistemology, Logic, and Method by Marco Sgarbi
 
+Eric Funkhouser, *The Logical Structure of Kinds*
 
 **Hegel's Logic**
 
@@ -228,7 +243,11 @@ Jean Piaget, *Logic and Psychology*
 
 ??Upcoming Jordan Peterson lecture course on Piaget??
 
+Carl Jung, *Man and his Symbols*
+
 **Mathematical Psychology, Psychometrics, Measurement Theory**
+
+A Very Short Introduction to Measurement
 
 Stevens, Stanley Smith (June 7, 1946). "On the Theory of Scales of Measurement" (PDF). Science. 103 (2684): 677–680. Bibcode:1946Sci...103..677S. doi:10.1126/science.103.2684.677. PMID 17750512.
 
@@ -239,11 +258,11 @@ John Michael Linacre (YouTube channel) - Introduction to the Rasch Model. Benjam
 
 Making Measures (Phaneron Press) by Benjamin D. Wright, Mark H. Stone
 
+Joel Michell, *An Introduction To the Logic of Psychological Measurement*
+
 Patrick Suppes, R. Duncan Luce, & Amos Tversky - Foundations of Measurement (lecture course) - https://www.youtube.com/playlist?list=PLrKlhVqlZwK6UcJ7K-XpaLmWoGehnXLAX
 
 Foundations of Measurement (Vol 1-3) - http://www.lps.uci.edu/~johnsonk/CLASSES/FoundationsOfMeasurement/FoMHome.html
-
-A Very Short Introduction to Measurement
 
 A Hundred Years of Numbers. An
 Historical Introduction to Measurement
@@ -294,23 +313,45 @@ Wikipedia summary of Incomplete Nature: https://en.wikipedia.org/wiki/Incomplete
 
 Peirce, C. S. - Upon Logical Comprehension and Extension (https://peirce.sitehost.iu.edu/writings/v2/w2/w2_06/v2_06.htm)
 
-**History of Ideas**
+**History of Ideas & Technology**
 
 The Great Chain of Being: A Study of the History of an Idea by Arthur O. Lovejoy
 
 Quite Right: The Story of Mathematics, Measurement, and Money by Norman Biggs
 
-**Formal Concept Analysis**
+Simon Winchester, *The Perfectionists: How Precision Engineers Created the Modern World*
+
+**Semantics**
+
+Peter Gärdenfors - The Geometry of Meaning (2nd ESSENCE Summer School) - https://www.youtube.com/watch?v=L0X9mEe9aY0 - Professor Peter Gärdenfors is Head of Cognitive Science at Lund University, Sweden. This video shows his tutorial "The Geometry of Meaning: Semantics Based on Conceptual Spaces" from the Second ESSENCE Summer School in Edinburgh in August 2015.
+
+
+**Formal Concept Analysis / Order & Lattice Theory / Model Theory**
+
+George Grätzer, *Lattice Theory: First Concepts and Distributive Lattices* (Dover Books on Mathematics)
+
+Charloette Atten, 2020-2021 - Universal Algebra and Lattice Theory (lecture course
 
 Rudolf Wille - Concept Lattices and Conceptual Knowledge Systems (pdf) - https://bit.ly/3ncbfXo
 
+Claudio Carpineto, Giovanni Romano, *Concept Data Analysis: Theory and Applications*
+
+Formal Concept Analysis: Mathematical Foundations Softcover reprint of the original 1st ed. 1999 Edition
+by Bernhard Ganter  (Author), Rudolf Wille (Author), C. Franzke (Translator)
+
 **Mathematics / Philosophy of Mathematics**
+
 David Foster Wallace, *Everything and More: A Compact History of Infinity*
+
+How real are real numbers? - https://www.scielo.br/j/man/a/rML75qWWzpSTbkC7SfbFpPp/?lang=en
+
 
 
 **Mythology/Allegory/Symbolism**
 
-anon, Meditations on the Tarot A Journey Intro Christian Hermeticism
+TheHellenicnNexus - Lectures on Greek Myth (lecture course) - https://www.youtube.com/playlist?list=PLwB-W_E2OJ-2aCrjA6PJay9iRO5_LaCR3
+
+Allan Di Donato - Myth in Human Culture (lecture course) - https://www.youtube.com/playlist?list=PLLyuCNxHUAz9-15TRXHhyHRBpQHr9AF-5
 
 Edith Hamilton, *Mythology: Timeless Tales of Gods and Heroes*
 
@@ -319,6 +360,8 @@ Joseph Campbell, *The Power of Myth*
 Joseph Campbell, *The Hero with a Thousand Faces*
 
 Stephen Fry, *Stephen Fry's Greek Myths*: *Mythos*, *Heroes*, *Troy*
+
+anon, Meditations on the Tarot A Journey Intro Christian Hermeticism
 
 **(Modern) Consilience/Synthetic/TOAE**
 
@@ -333,6 +376,8 @@ Wai H Tsang, *The Fractal Brain Theory*
 
 **misc**
 
+Mark Thorsby - Phenomenology (lecture course) - https://www.youtube.com/playlist?list=PLS8vfA_ckeuY6ayo3TlbFMnkPXIMMBXyw
+
 https://stratos.seas.harvard.edu/files/stratos/files/periodictabledatastructures.pdf
 
 Oxford University Department for Continuing Education - Cezar Ionescu - What is a Mathematical Property (2018 Open Event) - https://www.youtube.com/watch?v=8IhuPi5SbcI
@@ -343,13 +388,15 @@ Internet Encylopedia of Philosophy
 
 https://en.wikipedia.org/wiki/Louis_Narens
 
-How real are real numbers? - https://www.scielo.br/j/man/a/rML75qWWzpSTbkC7SfbFpPp/?lang=en
 
-Peter Gärdenfors - The Geometry of Meaning (2nd ESSENCE Summer School) - https://www.youtube.com/watch?v=L0X9mEe9aY0 - Professor Peter Gärdenfors is Head of Cognitive Science at Lund University, Sweden. This video shows his tutorial "The Geometry of Meaning: Semantics Based on Conceptual Spaces" from the Second ESSENCE Summer School in Edinburgh in August 2015. 
-
-The Logical Structure of Kinds by Eric Funkhouser
 
 **Possible resources to be used (Not sure of relevance)**
+
+Herbert A. Simon, *The Sciences of the Artificial* (3rd Edition)
+
+G. Polya, *Mathematics and Plausible Reasoning, Volume 1: Induction and Analogy in Mathematics*
+
+G. Polya, *Mathematics and Plausible Reasoning: Volume II Patterns of Plausible Inference* 
 
 Peirce's Theory of Signs by T. L Short
 
@@ -359,6 +406,15 @@ Emergence and Convergence: Qualitative Novelty and the Unity of Knowledge (Toron
 
 Hyperthematics The Logic of Value by Marc M. Anderson
 
+Douglas G. Flemons, *Completing Distinctions: Interweaving the Ideas of Gregory Bateson and Taoism into a unique approach to therapy*
+
+Tao Te Ching
+
+Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology
+by Gregory Bateson  | Apr 15, 2000
+
+Mind and Nature: A Necessary Unity (Advances in Systems Theory, Complexity, and the Human Sciences)
+by Gregory Bateson and Alfonso Montuori | Jan 31, 2002
 
 Possibly Useful Lectures:
 
@@ -366,5 +422,7 @@ Bilkent Üniversitesi, Developmental Psychology PSYC 240 (lecture course) - http
 
 2017 Maps of Meaning: The Architecture of Belief (University of Toronto) - https://www.youtube.com/playlist?list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h
 
-Brain:
+David Dennen, Behaviorism and Meaning - https://www.youtube.com/playlist?list=PLM2d6QZHYCKUTjoUjuTY-8fdXxl_s0Zfb
+
+Books/Courses on Brain:
 
