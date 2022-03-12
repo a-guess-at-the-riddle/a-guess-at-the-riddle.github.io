@@ -26,7 +26,7 @@ The plan is to examine some different contexts in which this developmental proce
 - the maturation of a child's perception and categorization faculties over time followed by their education in elementary mathematics
 - in psychology, concepts that fall under the category "levels of measurement" (similar to what we now call datatypes in CS) developed originally in the field known as measurement theory popularized by the work of psychologist S. S. Stevens)
 - the development in the history of mathematics of the differnt types of number and other related mathematical objects
-- in the history of trade and money ??WTF??? (what does fungability and interchangable parts have to do with any of this??)
+- in the history of trade and money ??WTF??? (what does fungability and interchangable parts have to do with any of this??) also standardization more broadly (e.g. technology)
 
 ## Terminology
 Note that the common interpretations of terms such as quantitative, qualitative, measure, discrete, and continuous are not really expressive and differentiated enough to really fully describe the proccesses we are attempting to understand.
