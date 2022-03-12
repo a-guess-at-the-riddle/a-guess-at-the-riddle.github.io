@@ -184,6 +184,14 @@ Vol. 21, No. 2 (Jun., 1970), pp. 228-246 (19 pages)
 Published By: Springer
 https://www.jstor.org/stable/20114723?seq=1#page_scan_tab_contents
 
+Michael Field and Martin Golubitsky, *Symmetry in Chaos, A Search for Pattern in Mathematics, Art and Nature*
+
+Ian Stewart & Martin Golubitsky, *Fearful Symmetry Is God a Geometer?*
+
+Per Bak, *How Nature Works, The Science of Self-Organized Criticality*
+
+Eric D Schneider & Dorion Sagan, *Into the Cool Energy Flow Thermodynamics and Life*
+
 **Normativity/Value/Axiology**
 
 James Gouinlock, *John Dewey's Philosophy of Value*
@@ -205,6 +213,8 @@ Immanuel Kant, *Critique of Judgment*
 **Classical Logic / Metaphysics / Categories / Philosophical Logic**
 
 Sister Miriam Joseph, Marguerite McGlinn (ed.), *The Trivium: The Liberal Arts of Logic, Grammar, and Rhetoric*
+
+Arnauld and Nicole, *Logic and the Art of Thinking* (Port Royal Logic), Ed. by Jull Vance Buroker
 
 Richard Whately, *Elements of Logic* (Key Titles in Rhetoric, Argumentation, and Debate)
 
@@ -447,6 +457,14 @@ Donald W Hight, *A Concept of Limits*
 
 Stephen Abbott, *Understanding Analysis*, Second Edition
 
+Saracino, *Abstract Algebra, A First Course*
+
+David Ruelle, *Chance and Chaos*
+
+Rosenlicht, *Introduction to Analysis*
+
+Mendelson, *Introduction to Topology*
+
 H.S.M. Coxeter, *Projective Geometry*, Second Edition
 
 Abraham Adrian Albert and Reuben Sandler, An Introduction to Finite Projective Planes
@@ -454,6 +472,14 @@ Abraham Adrian Albert and Reuben Sandler, An Introduction to Finite Projective P
 R. F. Jolly, *Synthetic Geometry*
 
 Harold L Dorvart, *The Geometry of Incidence*
+
+Gregory Chaitin, *Meta Math! The Quest for Omega*
+
+Harold Simmons, *An Introduction to Category Theory*
+
+John Stillwell, *Reverse Mathematics, Proofs from the Inside Out*
+
+Herbert Toth, *Relations Concrete, Abstract and Applied, An Introduction*
 
 
 **Mythology/Allegory/Symbolism**
@@ -464,13 +490,15 @@ Allan Di Donato - Myth in Human Culture (lecture course) - https://www.youtube.c
 
 Edith Hamilton, *Mythology: Timeless Tales of Gods and Heroes*
 
+Mattheiu Pageau, *The Language of Creation Cosmic Symbolism in Genesis, A Commentary*
+
 Joseph Campbell, *The Power of Myth*
 
 Joseph Campbell, *The Hero with a Thousand Faces*
 
 Stephen Fry, *Stephen Fry's Greek Myths*: *Mythos*, *Heroes*, *Troy*
 
-anon, Meditations on the Tarot A Journey Intro Christian Hermeticism
+anonymous, Meditations on the Tarot A Journey Intro Christian Hermeticism
 
 Monty P Hall, *The Secret Teachings of All Ages* 
 
@@ -532,6 +560,8 @@ Douglas G. Flemons, *Completing Distinctions: Interweaving the Ideas of Gregory 
 *I Ching*
 
 James Carse, *Finite and Infinite Games*
+
+*The Ghost in the Machine*
 
 George Ellis (2016 UC Erskine Fellow Professor George Ellis "Life, the Universe and Everything" lectures)
 
