@@ -202,7 +202,7 @@ Frederick C. Beiser, *Schiller as Philosopher: A Re-examination*
 
 Immanuel Kant, *Critique of Judgment*
 
-**Logic / Metaphysics / Categories**
+**Classical Logic / Metaphysics / Categories**
 
 Sister Miriam Joseph, Marguerite McGlinn (ed.), *The Trivium: The Liberal Arts of Logic, Grammar, and Rhetoric*
 
@@ -329,6 +329,8 @@ Jacob Bronowki, *The Ascent of Man*
 
 Peter Gärdenfors - The Geometry of Meaning (2nd ESSENCE Summer School) - https://www.youtube.com/watch?v=L0X9mEe9aY0 - Professor Peter Gärdenfors is Head of Cognitive Science at Lund University, Sweden. This video shows his tutorial "The Geometry of Meaning: Semantics Based on Conceptual Spaces" from the Second ESSENCE Summer School in Edinburgh in August 2015.
 
+Dominic Widdows, *Geometry and Meaning*
+
 Pramod Pandey (Principal Investigator), Pathshala, Introduction to Formal Semantics (lecture course) - https://www.youtube.com/playlist?list=PL02mv-ZwCsZa0cXN3IEwWa1nSBwiVCn3d
 
 Swayam Prabha, NPTEL, Nirmalys Guha (IIT BHU), Formal Semantics (lecture course) -  https://www.youtube.com/playlist?list=PLqMl6r3x6BUSlOk1YyydcMWgPqPmffbBS
@@ -426,13 +428,13 @@ Hyperthematics The Logic of Value by Marc M. Anderson
 
 Douglas G. Flemons, *Completing Distinctions: Interweaving the Ideas of Gregory Bateson and Taoism into a unique approach to therapy*
 
-Tao Te Ching
+*Tao Te Ching*
 
-Finite and Infinite Games
+*I Ching*
 
-Robert Brandom
+James Carse, *Finite and Infinite Games*
 
-Steven Lehar
+Robert Brandom, Steven Lehar, Douglas Hofstadter, Karl Pribram
 
 George Ellis (2016 UC Erskine Fellow Professor George Ellis "Life, the Universe and Everything" lectures)
 
@@ -446,7 +448,11 @@ by Gregory Bateson and Alfonso Montuori | Jan 31, 2002
 
 Clifford Bergman, *Universal Algebra Fundamentals and Selected Topics*
 
-**Possibly Useful lectures/sourses:**
+Pentti Kanerva, *Sparse Distributed Memory*
+
+Tony A. Plate, *Holographic Reduced Representation: Distributed Representation for Cognitive Structures*
+
+**Possibly useful lectures/courses:**
 
 Bilkent Üniversitesi, Developmental Psychology PSYC 240 (lecture course) - https://www.youtube.com/playlist?list=PL5B3KLQNAC5gn9TwYgc19UwdWYuffnXjC
 
@@ -456,5 +462,7 @@ David Dennen, Behaviorism and Meaning - https://www.youtube.com/playlist?list=PL
 
 MATH 373 - Geometry I - Prof. Dr. Cem TEZER (METUOpenCourseWare)
 
-
+**Possible useful concepts**
+Lambda Calculus
+Grammar, Generative Grammar, Syntax
 
