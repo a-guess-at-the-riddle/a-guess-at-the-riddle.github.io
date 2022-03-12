@@ -10,7 +10,8 @@ published: false
 
 **associated topic tags:** quality, semantic dimensions, semantic spaces, conceptual spaces, Peter Gärdenfors, *The Ascent of Man*, Jacob Bronowski, development of complexity, phenomenology, perception, developmental psychology, measurement theory, *Foundations of Measurement*, level of measurement, nominal, ordinal, order, interval, ratio, Stanley Smith Stevens, Benjamin Drake Wright, Georg Wilhelm Friedrich Hegel, Charles Sanders Peirce, semiotics, icon, index, symbol, Terrence Deacon, *The Symbolic Species*, necessity, history of mathematics, number, quantity, discrete, continuous, measure, 
 
-**currently researching:** Jean Piaget, Developmental Psychology, Evolutionary Developmental Biology, Paul D. MacLean, triune brain theory, Evolutionary Neuroscience, Herbert Spencer, *First Principles*, data structures, data structure design space, combinatorial design, incidence structures, formal concept analysis, extension, intension, comprehension, formal concept analysis, order theory, lattice, mathematical property, degeneracy
+**currently researching:** Jean Piaget, Developmental Psychology, Evolutionary Developmental Biology, Paul D. MacLean, triune brain theory, Evolutionary Neuroscience, Herbert Spencer, *First Principles*, data structures, data structure design space, combinatorial design, incidence structures, formal concept analysis, extension, intension, comprehension, formal concept analysis, order theory, lattice, mathematical property, continuity, defining properities of: Z, Q, R; degeneracy, Louis Narens (measurement theorist)
+
 
 I recently watched a lecture on conceptual spaces where the cognitive scientist Peter Gärdenfors was talking about meaning with concepts like "qualitative dimension" and "semantic space". I was left with the feeling that I didn't really understand in any rigorous way what was meant by terms like "quality", "qualitative" and "qualitiative dimension". The first question that comes to mind is how can we relate this concept to the more familar notion of a quantitative dimension that we encounter in mathematics and the natural sciences?
 
@@ -167,9 +168,9 @@ things to add:
 
 ## References/Reading List:
 
-Peter Gärdenfors - The Geometry of Meaning (2nd ESSENCE Summer School) - https://www.youtube.com/watch?v=L0X9mEe9aY0 - Professor Peter Gärdenfors is Head of Cognitive Science at Lund University, Sweden. This video shows his tutorial "The Geometry of Meaning: Semantics Based on Conceptual Spaces" from the Second ESSENCE Summer School in Edinburgh in August 2015. 
+**Complexity / Emergence**
 
-The Logical Structure of Kinds by Eric Funkhouser
+The Origins of Order: Self-Organization and Selection in Evolution by Stuart A. Kauffman
 
 Jacob Bronowski New Concepts in the Evolution of Complexity: Stratified Stability and Unbounded Plans
 Synthese
@@ -177,7 +178,55 @@ Vol. 21, No. 2 (Jun., 1970), pp. 228-246 (19 pages)
 Published By: Springer
 https://www.jstor.org/stable/20114723?seq=1#page_scan_tab_contents
 
+**Normativity/Value**
 
+James Gouinlock, *John Dewey's Philosophy of Value*
+
+John Searle, *The Construction of Social Reality* (1995)
+
+John Searle, *Making the Social World: The Structure of Human Civilization*
+
+**Aesthetics**
+
+Edmund Burke, *A Philosophical Enquiry into the Origins of the Sublime and Beautiful: And Other Pre-Revolutionary Writings* (Penguin Classics)
+
+Friedrich Schiller, *On the Aesthetic Education of Man*, Translated by Keith Tribe
+
+Frederick C. Beiser, *Schiller as Philosopher: A Re-examination*
+
+Immanuel Kant, *Critique of Judgment*
+
+**Logic / Metaphysics / Categories**
+
+*Possibility* by Scott Buchanan
+
+??Something about Kant's Logic and Categories??? (IMPORTANT)
+  - Introduction to Logic by Immanuel Kant (Philosophical Library)
+  - Lectures on Logic (The Cambridge Edition of the Works of Immanuel Kant)
+  - Logic by Immanuel Kant, Robert S. Hartman, et al.
+  - Kant and Aristotle: Epistemology, Logic, and Method by Marco Sgarbi
+
+
+**Hegel's Logic**
+
+*The Encyclopaedia Logic: Part I of the Encyclopaedia of the Philosophical Sciences with the Zustze* (Hackett Classics)
+by G. W. F. Hegel, T. F. Geraets, et al.
+
+*Hegel on Being* by Stephen Houlgate
+
+Hegel Society of Great Britian HSGB - Science of Logic lectures by Stephen Houlgate - https://www.youtube.com/playlist?list=PLBAqLRlJe9p4sSXYnSVZUyVFeRFDFB4RR
+
+Hegel Society of Great Britian HSGB - Five Lectures About Hegel by Anton Friedrich Koch - https://www.youtube.com/playlist?list=PLBAqLRlJe9p7smB93Ha18xD5zQyIbzkSW
+
+**Psychology**
+
+Jean Piaget; Howard E Gruber; J Jacques Vonèche, *The Essential Piaget*, Basic Books, 1977
+
+Willis F. Overton (Editor), David S. Palermo (Editor), *The Nature and Ontogenesis of Meaning* (Jean Piaget Symposia Series)
+
+Jean Piaget, *Logic and Psychology*
+
+??Upcoming Jordan Peterson lecture course on Piaget??
 
 **Mathematical Psychology, Psychometrics, Measurement Theory**
 
@@ -233,7 +282,7 @@ Francesco Bellucci (TIDD PUC-SP, YouTube) - Peirce on Symbols - https://www.yout
 
 Floyd Merrell - https://www.youtube.com/watch?v=CpbqzzYU_Ks
 
-Signs Grow by Floyd Merrell 
+Signs Grow Semiotics and Life Processes by Floyd Merrell 
 
 Commens Digital Companion to C. S. Peirce - http://www.commens.org/
 
@@ -255,7 +304,34 @@ Quite Right: The Story of Mathematics, Measurement, and Money by Norman Biggs
 
 Rudolf Wille - Concept Lattices and Conceptual Knowledge Systems (pdf) - https://bit.ly/3ncbfXo
 
-Possibility by Scott Buchanan
+**Mathematics / Philosophy of Mathematics**
+David Foster Wallace, *Everything and More: A Compact History of Infinity*
+
+
+**Mythology/Allegory/Symbolism**
+
+anon, Meditations on the Tarot A Journey Intro Christian Hermeticism
+
+Edith Hamilton, *Mythology: Timeless Tales of Gods and Heroes*
+
+Joseph Campbell, *The Power of Myth*
+
+Joseph Campbell, *The Hero with a Thousand Faces*
+
+Stephen Fry, *Stephen Fry's Greek Myths*: *Mythos*, *Heroes*, *Troy*
+
+**(Modern) Consilience/Synthetic/TOAE**
+
+Gerald A. Cory Jr., *Toward Consilience: The Bioneurological Basis of Behavior, Thought, Experience, and Language*
+
+Gerald A. Cory Jr., *The Consilient Brain: The Bioneurological Basis of Economics, Society, and Politics*
+
+Jordan Peterson, *Maps of Meaning*
+
+Wai H Tsang, *The Fractal Brain Theory*
+
+
+**misc**
 
 https://stratos.seas.harvard.edu/files/stratos/files/periodictabledatastructures.pdf
 
@@ -265,15 +341,15 @@ Stanford Encyclopedia of Philosophy
 
 Internet Encylopedia of Philosophy
 
-
-
 https://en.wikipedia.org/wiki/Louis_Narens
 
 How real are real numbers? - https://www.scielo.br/j/man/a/rML75qWWzpSTbkC7SfbFpPp/?lang=en
 
-Hegel Society of Great Britian HSGB - Science of Logic lectures by Stephen Houlgate - https://www.youtube.com/playlist?list=PLBAqLRlJe9p4sSXYnSVZUyVFeRFDFB4RR
+Peter Gärdenfors - The Geometry of Meaning (2nd ESSENCE Summer School) - https://www.youtube.com/watch?v=L0X9mEe9aY0 - Professor Peter Gärdenfors is Head of Cognitive Science at Lund University, Sweden. This video shows his tutorial "The Geometry of Meaning: Semantics Based on Conceptual Spaces" from the Second ESSENCE Summer School in Edinburgh in August 2015. 
 
-**Possible to be Uses (Not sure of relevance)**
+The Logical Structure of Kinds by Eric Funkhouser
+
+**Possible resources to be used (Not sure of relevance)**
 
 Peirce's Theory of Signs by T. L Short
 
@@ -281,4 +357,14 @@ From Cause to Causation: A Peircean Perspective (Philosophical Studies Series, 9
 
 Emergence and Convergence: Qualitative Novelty and the Unity of Knowledge (Toronto Studies in Philosophy) by Mario Bunge
 
-Hyperthematics The Logic of Value by Marc M. Anderson 
+Hyperthematics The Logic of Value by Marc M. Anderson
+
+
+Possibly Useful Lectures:
+
+Bilkent Üniversitesi, Developmental Psychology PSYC 240 (lecture course) - https://www.youtube.com/playlist?list=PL5B3KLQNAC5gn9TwYgc19UwdWYuffnXjC
+
+2017 Maps of Meaning: The Architecture of Belief (University of Toronto) - https://www.youtube.com/playlist?list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h
+
+Brain:
+
