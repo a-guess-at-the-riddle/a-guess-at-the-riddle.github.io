@@ -202,9 +202,13 @@ Frederick C. Beiser, *Schiller as Philosopher: A Re-examination*
 
 Immanuel Kant, *Critique of Judgment*
 
-**Classical Logic / Metaphysics / Categories**
+**Classical Logic / Metaphysics / Categories / Philosophical Logic**
 
 Sister Miriam Joseph, Marguerite McGlinn (ed.), *The Trivium: The Liberal Arts of Logic, Grammar, and Rhetoric*
+
+Richard Whately, *Elements of Logic* (Key Titles in Rhetoric, Argumentation, and Debate)
+
+Sybil Wolfram, *Philosophical Logic: An Introduction*
 
 Aristotelean-Thomistic Logic (lecture course)
 
@@ -220,7 +224,13 @@ Scott Buchanan, *Possibility*
   - Logic by Immanuel Kant, Robert S. Hartman, et al.
   - Kant and Aristotle: Epistemology, Logic, and Method by Marco Sgarbi
 
+Lea Ypi, *The Architectonic of Reason Purposiveness and Systematic Unity in Kant’s Critique of Pure Reason*
+
+John Dewey, *Logic: The Theory of Inquiry* in The Later Works 1925-1953, Volume 12: 1938, Edited by Ann Boydston
+
 Eric Funkhouser, *The Logical Structure of Kinds*
+
+Herbert Spencer, *First Principles*
 
 **Hegel's Logic**
 
@@ -301,7 +311,9 @@ Francesco Bellucci - *Peirce’s Speculative Grammar: Logic as Semiotics* (Routl
 
 Francesco Bellucci (TIDD PUC-SP, YouTube) - Peirce on Symbols - https://www.youtube.com/watch?v=YhB6pFhXOto
 
-Floyd Merrell - https://www.youtube.com/watch?v=CpbqzzYU_Ks
+Alison Walsh, *Relations Between Logic and Mathematics in the Work of Benjamin and Charles S. Peirce*
+
+Floyd Merrell (single video lecture) - https://www.youtube.com/watch?v=CpbqzzYU_Ks
 
 Signs Grow Semiotics and Life Processes by Floyd Merrell 
 
@@ -329,6 +341,8 @@ Quite Right: The Story of Mathematics, Measurement, and Money by Norman Biggs
 
 Simon Winchester, *The Perfectionists: How Precision Engineers Created the Modern World*
 
+James Burke, *Connections*
+
 Jacob Bronowki, *The Ascent of Man*
 
 **Semantics**
@@ -341,7 +355,7 @@ Pramod Pandey (Principal Investigator), Pathshala, Introduction to Formal Semant
 
 Swayam Prabha, NPTEL, Nirmalys Guha (IIT BHU), Formal Semantics (lecture course) -  https://www.youtube.com/playlist?list=PLqMl6r3x6BUSlOk1YyydcMWgPqPmffbBS
 
-Model Theory
+Joseph C Frisch, *Extension and Comprehension in Logic*
 
 **Formal Concept Analysis / Order & Lattice Theory**
 
@@ -363,6 +377,10 @@ Bernhard Ganter  (Author), Rudolf Wille (Author), C. Franzke (Translator), *Form
 David Foster Wallace, *Everything and More: A Compact History of Infinity*
 
 Oxford University Department for Continuing Education - Cezar Ionescu - What is a Mathematical Property (2018 Open Event) - https://www.youtube.com/watch?v=8IhuPi5SbcI
+
+H Gramm Flegg, *From Geometry to Topology* (Dover)
+
+Bertrand Russell, *Introduction to Mathematical Philosophy* (Dover)
 
 How real are real numbers? - https://www.scielo.br/j/man/a/rML75qWWzpSTbkC7SfbFpPp/?lang=en
 
@@ -417,6 +435,27 @@ David I. Spivak, Brendan Fong, Applied Category Theory (lecture course) - https:
 
 Martin J.M. Codrington, Category Theory: The Beginner’s Introduction
 
+Richard Hammock, *Book of Proof*, Third Edition
+
+Daniel J Velleman, *How to Prove It A Structured Approach*, Third Edition
+
+John P D'Angelo, Douglas B West, *Mathematical Thinking Problem-Solving and Proofs*, Second Edition
+
+Paul Halmos, *Naive Set Theory*
+
+Donald W Hight, *A Concept of Limits*
+
+Stephen Abbott, *Understanding Analysis*, Second Edition
+
+H.S.M. Coxeter, *Projective Geometry*, Second Edition
+
+Abraham Adrian Albert and Reuben Sandler, An Introduction to Finite Projective Planes
+
+R. F. Jolly, *Synthetic Geometry*
+
+Harold L Dorvart, *The Geometry of Incidence*
+
+
 **Mythology/Allegory/Symbolism**
 
 TheHellenicnNexus - Lectures on Greek Myth (lecture course) - https://www.youtube.com/playlist?list=PLwB-W_E2OJ-2aCrjA6PJay9iRO5_LaCR3
@@ -433,6 +472,8 @@ Stephen Fry, *Stephen Fry's Greek Myths*: *Mythos*, *Heroes*, *Troy*
 
 anon, Meditations on the Tarot A Journey Intro Christian Hermeticism
 
+Monty P Hall, *The Secret Teachings of All Ages* 
+
 **(Modern) Consilience/Synthetic/TOAE**
 
 Gerald A. Cory Jr., *Toward Consilience: The Bioneurological Basis of Behavior, Thought, Experience, and Language*
@@ -447,6 +488,10 @@ Wai H Tsang, *The Fractal Brain Theory*
 **misc**
 
 Mark Thorsby - Phenomenology (lecture course) - https://www.youtube.com/playlist?list=PLS8vfA_ckeuY6ayo3TlbFMnkPXIMMBXyw
+
+John J. McDermott (ed.), *Josiah Royce, Basic Writings (Vol 1 & 2)*
+
+John Clendenning (ed.), *The Letters of Josiah Royce*
 
 https://stratos.seas.harvard.edu/files/stratos/files/periodictabledatastructures.pdf
 
@@ -464,10 +509,6 @@ Bob Doyle, The Information Philosopher - https://www.informationphilosopher.com/
 
 Robert Brandom, Steven Lehar, Douglas Hofstadter, Karl Pribram, Ruth Milikan, Ian McHilchrist, F. H. Bradley (Bradley's regress)
 
-Richard Whately, *Elements of Logic* (Key Titles in Rhetoric, Argumentation, and Debate)
-
-Sybil Wolfram, *Philosophical Logic: An Introduction*
-
 Herbert A. Simon, *The Sciences of the Artificial* (3rd Edition)
 
 G. Polya, *Mathematics and Plausible Reasoning, Volume 1: Induction and Analogy in Mathematics*
@@ -480,7 +521,9 @@ From Cause to Causation: A Peircean Perspective (Philosophical Studies Series, 9
 
 Emergence and Convergence: Qualitative Novelty and the Unity of Knowledge (Toronto Studies in Philosophy) by Mario Bunge
 
-Hyperthematics The Logic of Value by Marc M. Anderson
+Marc M. Anderson, *Hyperthematics The Logic of Value*
+
+Charles Hashorne, *Wisdom as Moderation*
 
 Douglas G. Flemons, *Completing Distinctions: Interweaving the Ideas of Gregory Bateson and Taoism into a unique approach to therapy*
 
