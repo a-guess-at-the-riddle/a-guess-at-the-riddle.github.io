@@ -169,13 +169,17 @@ things to add:
 
 Peter Gärdenfors - The Geometry of Meaning (2nd ESSENCE Summer School) - https://www.youtube.com/watch?v=L0X9mEe9aY0 - Professor Peter Gärdenfors is Head of Cognitive Science at Lund University, Sweden. This video shows his tutorial "The Geometry of Meaning: Semantics Based on Conceptual Spaces" from the Second ESSENCE Summer School in Edinburgh in August 2015. 
 
+The Logical Structure of Kinds by Eric Funkhouser
+
 Jacob Bronowski New Concepts in the Evolution of Complexity: Stratified Stability and Unbounded Plans
 Synthese
 Vol. 21, No. 2 (Jun., 1970), pp. 228-246 (19 pages)
 Published By: Springer
 https://www.jstor.org/stable/20114723?seq=1#page_scan_tab_contents
 
-Quite Right: The Story of Mathematics, Measurement, and Money by Norman Biggs
+
+
+**Mathematical Psychology, Psychometrics, Measurement Theory**
 
 Stevens, Stanley Smith (June 7, 1946). "On the Theory of Scales of Measurement" (PDF). Science. 103 (2684): 677–680. Bibcode:1946Sci...103..677S. doi:10.1126/science.103.2684.677. PMID 17750512.
 
@@ -190,15 +194,22 @@ Patrick Suppes, R. Duncan Luce, & Amos Tversky - Foundations of Measurement (lec
 
 Foundations of Measurement (Vol 1-3) - http://www.lps.uci.edu/~johnsonk/CLASSES/FoundationsOfMeasurement/FoMHome.html
 
+A Very Short Introduction to Measurement
+
 A Hundred Years of Numbers. An
 Historical Introduction to Measurement
 Theory 1887-1990 - http://www.lps.uci.edu/~johnsonk/CLASSES/FoundationsOfMeasurement/Diez.AnHistoricalIntroductionToMeasurementTheoryPartOne.pdf
 
-The Logical Structure of Kinds by Eric Funkhouser
+https://en.wikipedia.org/wiki/Unit_of_measurement
+
+https://en.wikipedia.org/wiki/Polynomial_conjoint_measurement
+
+
+**C. S. Peirce / Peircean Semiotics**
 
 Peirce bibliography from Wikipedia: https://en.wikipedia.org/wiki/Charles_Sanders_Peirce_bibliography
 
-What is a Sign? by C S Peirce
+What is a Sign? by C. S. Peirce
 
 The Continuity of Peirce's Thought (Vanderbilt Library of American Philosophy) by Kelly A. Parker
 
@@ -220,10 +231,9 @@ Francesco Bellucci - *Peirce’s Speculative Grammar: Logic as Semiotics* (Routl
 
 Francesco Bellucci (TIDD PUC-SP, YouTube) - Peirce on Symbols - https://www.youtube.com/watch?v=YhB6pFhXOto
 
-Gloyd Merrell - https://www.youtube.com/watch?v=CpbqzzYU_Ks
+Floyd Merrell - https://www.youtube.com/watch?v=CpbqzzYU_Ks
 
-???T. L Short (Peirce's Theory of Signs)???
-???Menno Hulswit (From Cause to Causation: A Peircean Perspective (Philosophical Studies Series, 90))???
+Signs Grow by Floyd Merrell 
 
 Commens Digital Companion to C. S. Peirce - http://www.commens.org/
 
@@ -233,11 +243,19 @@ Terrence Deacon, *Incomplete Nature: How Mind Emerged from Matter*. New York: W.
 
 Wikipedia summary of Incomplete Nature: https://en.wikipedia.org/wiki/Incomplete_Nature
 
-The Great Chain of Being: A Study of the History of an Idea by Arthur O. Lovejoy
-
 Peirce, C. S. - Upon Logical Comprehension and Extension (https://peirce.sitehost.iu.edu/writings/v2/w2/w2_06/v2_06.htm)
 
+**History of Ideas**
+
+The Great Chain of Being: A Study of the History of an Idea by Arthur O. Lovejoy
+
+Quite Right: The Story of Mathematics, Measurement, and Money by Norman Biggs
+
+**Formal Concept Analysis**
+
 Rudolf Wille - Concept Lattices and Conceptual Knowledge Systems (pdf) - https://bit.ly/3ncbfXo
+
+Possibility by Scott Buchanan
 
 https://stratos.seas.harvard.edu/files/stratos/files/periodictabledatastructures.pdf
 
@@ -247,12 +265,20 @@ Stanford Encyclopedia of Philosophy
 
 Internet Encylopedia of Philosophy
 
-https://en.wikipedia.org/wiki/Unit_of_measurement
 
-https://en.wikipedia.org/wiki/Polynomial_conjoint_measurement
 
 https://en.wikipedia.org/wiki/Louis_Narens
 
 How real are real numbers? - https://www.scielo.br/j/man/a/rML75qWWzpSTbkC7SfbFpPp/?lang=en
 
 Hegel Society of Great Britian HSGB - Science of Logic lectures by Stephen Houlgate - https://www.youtube.com/playlist?list=PLBAqLRlJe9p4sSXYnSVZUyVFeRFDFB4RR
+
+**Possible to be Uses (Not sure of relevance)**
+
+Peirce's Theory of Signs by T. L Short
+
+From Cause to Causation: A Peircean Perspective (Philosophical Studies Series, 90) by Menno Hulswit
+
+Emergence and Convergence: Qualitative Novelty and the Unity of Knowledge (Toronto Studies in Philosophy) by Mario Bunge
+
+Hyperthematics The Logic of Value by Marc M. Anderson 
