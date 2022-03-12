@@ -481,7 +481,9 @@ John Stillwell, *Reverse Mathematics, Proofs from the Inside Out*
 
 Herbert Toth, *Relations Concrete, Abstract and Applied, An Introduction*
 
-(insert here more books on Analysis)
+Michael Spivak, *Calculus*, Fourth Edition
+
+(insert here more books on Calculus and Analysis)
 
 
 **Mythology/Allegory/Symbolism**
