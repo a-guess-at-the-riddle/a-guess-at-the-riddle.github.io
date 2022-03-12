@@ -360,12 +360,54 @@ Oxford University Department for Continuing Education - Cezar Ionescu - What is 
 
 How real are real numbers? - https://www.scielo.br/j/man/a/rML75qWWzpSTbkC7SfbFpPp/?lang=en
 
+Bill Shillito, Introduction to Higher Mathematics (lecture course) - https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX
+
+Patrick Keef and David Guichard, Introduction to Higher Mathematics (html book) - https://www.whitman.edu/mathematics/higher_math_online/
+
+Taylor Dupuy, Fundamentals of Mathematics - https://www.youtube.com/playlist?list=PLJmfLfPx1OedcIUn5nSCZQEtJrhLusB5Y
+
+Agustin Rayo, Paradox and Infinity (Philosophy of Mathematics) - https://www.youtube.com/playlist?list=PLxQSlOe-wlgAyVVgFVNn6C3b00jqlcyaK
+
+Joel David Hamkins, Oxford Philosophy of Mathematics (lecture course) - https://www.youtube.com/playlist?list=PLg5tKDNI_a86OO6J9HuIngyROBsUqcf_z
+
+Chhanda Chakraborti (NPTEL, IIT Kharagpur) - Symbolic Logic (lecture course) - https://www.youtube.com/playlist?list=PLdaynbt2YwqHqbeCCDstZwkmkwI2zdsNS
+
+Marco Benini, Mathematical Logic (lecture course) - https://www.youtube.com/playlist?list=PL9VUuob0B7Mhs887GThdbdQyJ1grJwK55
+
+Arindama Singh (NPTEL, IIT Madras) - Mathematical Logic (lecture course) - https://www.youtube.com/playlist?list=PL2EB5662A0D455A81
+
 Burak Kaya, MATH 320 - Set Theory (METUOpenCourseWare):
   - YouTube: https://www.youtube.com/playlist?list=PLuiPz6iU5SQ_3Gubdqa1JHBvM0GBFcIV0
   - METU OpenCourseWare: https://ocw.metu.edu.tr/course/view.php?id=270
   - notes: https://ocw.metu.edu.tr/mod/resource/view.php?id=8944 
 
+Mathoma - Set Theory (lecture course) - https://www.youtube.com/playlist?list=PLpzmRsG7u_gpZyi0w80IBk51k6ClSJRWK
 
+Kamala Krithivasan (IIT Madras) - Discrete Mathematical Structures (NPTEL, lecture course) - https://www.youtube.com/playlist?list=PL0862D1A947252D20
+
+Matthew Macauley (Clemson University), Discrete Mathematical Structures (lecture course) - https://www.youtube.com/playlist?list=PLwV-9DG53NDz3zpkmsYx3BLzTAP6FyHeg
+
+Kimberly Brehm - Discrete Math I (lecture course) - https://www.youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz
+
+Kimberly Brehm - Discrete Math II/Combinatorics (lecture course) - https://www.youtube.com/playlist?list=PLl-gb0E4MII0CsY4AE2xeZwZIkds3jIGs
+
+Matthew Macauley (Clemson University), Visual Group Theory (lecture course) - https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv
+
+Israel Grossman, *Groups and their Graphs* (Anneli Lax New Mathematical Library)
+
+Sourav Mukhopadhyay (NPTEL, IIT Kharagput), Introduction to Abstract and Linear Algebra - https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2PS2t1LNFMHrr1h9Fo2TxT
+
+Kimberly Brehm, Abstract Algebra (lecture course) - https://www.youtube.com/playlist?list=PLl-gb0E4MII1YlnI7OBsUHQ5E42RA-ZVI
+
+Richard E Borcherds, Zermelo Fraenkel axioms (short lecture course) - https://www.youtube.com/playlist?list=PL8yHsr3EFj52EKVgPi-p50fRP2_SbG2oi
+
+Ion Petre - Introduction to Automata Theory (lecture course) - https://www.youtube.com/playlist?list=PLbkSohdmxoVBMF8UxSyi3lS3z_ftawr5D
+
+Taylor Dupuy, Model Theory - https://www.youtube.com/playlist?list=PLJmfLfPx1Oef_nObIEOUfZDeCnX46ok78
+
+David I. Spivak, Brendan Fong, Applied Category Theory (lecture course) - https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5
+
+Martin J.M. Codrington, Category Theory: The Beginner’s Introduction
 
 **Mythology/Allegory/Symbolism**
 
@@ -410,7 +452,11 @@ https://en.wikipedia.org/wiki/Louis_Narens
 
 **Possible useful books/authors:**
 
-Richard Whately, *Elements of Logic* (Key Titles in Rhetoric, Argumentation, and Debate) 
+Robert Brandom, Steven Lehar, Douglas Hofstadter, Karl Pribram, Ruth Milikan, Ian McHilchrist, F. H. Bradley (Bradley's regress)
+
+Richard Whately, *Elements of Logic* (Key Titles in Rhetoric, Argumentation, and Debate)
+
+Sybil Wolfram, *Philosophical Logic: An Introduction*
 
 Herbert A. Simon, *The Sciences of the Artificial* (3rd Edition)
 
@@ -433,8 +479,6 @@ Douglas G. Flemons, *Completing Distinctions: Interweaving the Ideas of Gregory 
 *I Ching*
 
 James Carse, *Finite and Infinite Games*
-
-Robert Brandom, Steven Lehar, Douglas Hofstadter, Karl Pribram
 
 George Ellis (2016 UC Erskine Fellow Professor George Ellis "Life, the Universe and Everything" lectures)
 
@@ -462,7 +506,20 @@ David Dennen, Behaviorism and Meaning - https://www.youtube.com/playlist?list=PL
 
 MATH 373 - Geometry I - Prof. Dr. Cem TEZER (METUOpenCourseWare)
 
+NPTEL, Artificial Intelligence: Knowledge Representation and Reasoning (lecture course)
+
+Harald Sack (for OpenHPI Tutorials), Knowledge Engineering with Semantic Web Technologies
+
+A9 Videos, Four Algorithmic Journeys Part 1: Spoils of the Egyptians
+
+A9 Videos, Four Algorithmic Journeys Part 2: Heirs of Pythagoras
+
+A9 Videos, Four Algorithmic Journeys Part 3: Successors of Peano
+
+A9 Videos, Four Algorithmic Journeys: Epilogue
+
 **Possible useful concepts**
 Lambda Calculus
 Grammar, Generative Grammar, Syntax
+"The Unity of the Proposition"
 
