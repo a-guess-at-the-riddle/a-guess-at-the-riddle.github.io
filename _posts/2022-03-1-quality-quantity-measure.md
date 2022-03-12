@@ -241,6 +241,8 @@ Willis F. Overton (Editor), David S. Palermo (Editor), *The Nature and Ontogenes
 
 Jean Piaget, *Logic and Psychology*
 
+James Gibson, *The Ecological Approach to Visual Perception*
+
 ??Upcoming Jordan Peterson lecture course on Piaget??
 
 Carl Jung, *Man and his Symbols*
@@ -321,29 +323,45 @@ Quite Right: The Story of Mathematics, Measurement, and Money by Norman Biggs
 
 Simon Winchester, *The Perfectionists: How Precision Engineers Created the Modern World*
 
+Jacob Bronowki, *The Ascent of Man*
+
 **Semantics**
 
 Peter Gärdenfors - The Geometry of Meaning (2nd ESSENCE Summer School) - https://www.youtube.com/watch?v=L0X9mEe9aY0 - Professor Peter Gärdenfors is Head of Cognitive Science at Lund University, Sweden. This video shows his tutorial "The Geometry of Meaning: Semantics Based on Conceptual Spaces" from the Second ESSENCE Summer School in Edinburgh in August 2015.
 
+Pramod Pandey (Principal Investigator), Pathshala, Introduction to Formal Semantics (lecture course) - https://www.youtube.com/playlist?list=PL02mv-ZwCsZa0cXN3IEwWa1nSBwiVCn3d
 
-**Formal Concept Analysis / Order & Lattice Theory / Model Theory**
+Swayam Prabha, NPTEL, Nirmalys Guha (IIT BHU), Formal Semantics (lecture course) -  https://www.youtube.com/playlist?list=PLqMl6r3x6BUSlOk1YyydcMWgPqPmffbBS
+
+Model Theory
+
+**Formal Concept Analysis / Order & Lattice Theory**
 
 George Grätzer, *Lattice Theory: First Concepts and Distributive Lattices* (Dover Books on Mathematics)
 
-Charloette Atten, 2020-2021 - Universal Algebra and Lattice Theory (lecture course
+Stefan Felsner and Piotr Micek, Jagiellonian University and Technical University Berlin, Introduction to Order Theory (lecture course) - https://www.youtube.com/playlist?list=PL5rqYzyihIQ0nzfnsEKxxedCpbNQoifgg
+
+Charloette Atten, 2020-2021 - Universal Algebra and Lattice Theory (lecture course) - https://www.youtube.com/playlist?list=PLkNMPCqtfFRTbWTgXabLJZGnyt7koG8KR
 
 Rudolf Wille - Concept Lattices and Conceptual Knowledge Systems (pdf) - https://bit.ly/3ncbfXo
 
 Claudio Carpineto, Giovanni Romano, *Concept Data Analysis: Theory and Applications*
 
-Formal Concept Analysis: Mathematical Foundations Softcover reprint of the original 1st ed. 1999 Edition
-by Bernhard Ganter  (Author), Rudolf Wille (Author), C. Franzke (Translator)
+Bernhard Ganter  (Author), Rudolf Wille (Author), C. Franzke (Translator), *Formal Concept Analysis: Mathematical Foundations*
 
-**Mathematics / Philosophy of Mathematics**
+
+**Mathematics / Formal (Modern) Logic / Philosophy of Mathematics**
 
 David Foster Wallace, *Everything and More: A Compact History of Infinity*
 
+Oxford University Department for Continuing Education - Cezar Ionescu - What is a Mathematical Property (2018 Open Event) - https://www.youtube.com/watch?v=8IhuPi5SbcI
+
 How real are real numbers? - https://www.scielo.br/j/man/a/rML75qWWzpSTbkC7SfbFpPp/?lang=en
+
+Burak Kaya, MATH 320 - Set Theory (METUOpenCourseWare):
+  - YouTube: https://www.youtube.com/playlist?list=PLuiPz6iU5SQ_3Gubdqa1JHBvM0GBFcIV0
+  - METU OpenCourseWare: https://ocw.metu.edu.tr/course/view.php?id=270
+  - notes: https://ocw.metu.edu.tr/mod/resource/view.php?id=8944 
 
 
 
@@ -380,8 +398,6 @@ Mark Thorsby - Phenomenology (lecture course) - https://www.youtube.com/playlist
 
 https://stratos.seas.harvard.edu/files/stratos/files/periodictabledatastructures.pdf
 
-Oxford University Department for Continuing Education - Cezar Ionescu - What is a Mathematical Property (2018 Open Event) - https://www.youtube.com/watch?v=8IhuPi5SbcI
-
 Stanford Encyclopedia of Philosophy
 
 Internet Encylopedia of Philosophy
@@ -390,7 +406,9 @@ https://en.wikipedia.org/wiki/Louis_Narens
 
 
 
-**Possible resources to be used (Not sure of relevance)**
+**Possible useful books/authors:**
+
+Richard Whately, *Elements of Logic* (Key Titles in Rhetoric, Argumentation, and Debate) 
 
 Herbert A. Simon, *The Sciences of the Artificial* (3rd Edition)
 
@@ -410,13 +428,25 @@ Douglas G. Flemons, *Completing Distinctions: Interweaving the Ideas of Gregory 
 
 Tao Te Ching
 
+Finite and Infinite Games
+
+Robert Brandom
+
+Steven Lehar
+
+George Ellis (2016 UC Erskine Fellow Professor George Ellis "Life, the Universe and Everything" lectures)
+
+Richard G Krutchkoff - Introduction to Statistics (YouTube lecture course)
+
 Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology
 by Gregory Bateson  | Apr 15, 2000
 
 Mind and Nature: A Necessary Unity (Advances in Systems Theory, Complexity, and the Human Sciences)
 by Gregory Bateson and Alfonso Montuori | Jan 31, 2002
 
-Possibly Useful Lectures:
+Clifford Bergman, *Universal Algebra Fundamentals and Selected Topics*
+
+**Possibly Useful lectures/sourses:**
 
 Bilkent Üniversitesi, Developmental Psychology PSYC 240 (lecture course) - https://www.youtube.com/playlist?list=PL5B3KLQNAC5gn9TwYgc19UwdWYuffnXjC
 
@@ -424,5 +454,7 @@ Bilkent Üniversitesi, Developmental Psychology PSYC 240 (lecture course) - http
 
 David Dennen, Behaviorism and Meaning - https://www.youtube.com/playlist?list=PLM2d6QZHYCKUTjoUjuTY-8fdXxl_s0Zfb
 
-Books/Courses on Brain:
+MATH 373 - Geometry I - Prof. Dr. Cem TEZER (METUOpenCourseWare)
+
+
 
