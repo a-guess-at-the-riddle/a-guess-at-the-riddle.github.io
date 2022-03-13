@@ -204,6 +204,11 @@ Per Bak, *How Nature Works, The Science of Self-Organized Criticality*
 
 Eric D Schneider & Dorion Sagan, *Into the Cool Energy Flow Thermodynamics and Life*
 
+J. A. Scott Kelso & David A. Engstrøm, *The Complementary Nature* (A Bradford Book)
+
+J. A. Scott Kelso, *Dynamic Patterns: The Self-Organization of Brain and Behavior* (Complex Adaptive Systems)
+
+
 **Normativity/Value/Axiology**
 
 James Gouinlock, *John Dewey's Philosophy of Value*
