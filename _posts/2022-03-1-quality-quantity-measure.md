@@ -135,6 +135,18 @@ Also in the context of the the history of technology the invention of precise in
 
 ...
 
+
+##Theological/Mythological/Allegorical Interpretation
+
+Spontaneous (undirected/symmetrics)
+Directed (directed/asymmetric)
+Circular
+
+Entropic
+Anti-entropic but Self-undermining
+Stable
+
+
 [^1]: Note that although this title corresponds with the outline of the Doctrine of Being from Hegel's *Science of Logic*, I do not cover Hegel's ideas except superficially as I was unaware them at the time of writing this essay.
 
 
