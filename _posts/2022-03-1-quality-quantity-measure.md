@@ -186,11 +186,11 @@ things to add:
 
 **Complexity / Emergence**
 
-The Origins of Order: Self-Organization and Selection in Evolution by Stuart A. Kauffman
+Stuart A. Kauffman, *The Origins of Order: Self-Organization and Selection in Evolution*
 
 D'Arcy Wentworth Thompson, *On Growth and Form*
 
-Jacob Bronowski New Concepts in the Evolution of Complexity: Stratified Stability and Unbounded Plans
+Jacob Bronowski, New Concepts in the Evolution of Complexity: Stratified Stability and Unbounded Plans
 Synthese
 Vol. 21, No. 2 (Jun., 1970), pp. 228-246 (19 pages)
 Published By: Springer
