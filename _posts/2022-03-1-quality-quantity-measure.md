@@ -502,7 +502,7 @@ Herbert Toth, *Relations Concrete, Abstract and Applied, An Introduction*
 
 Michael Spivak, *Calculus*, Fourth Edition
 
-(insert here more books on Calculus and Analysis)
+(insert here more books/lectures on Calculus I-III, Adv. Calculus, Analysis & Topology)
 
 
 **Mythology/Allegory/Symbolism**
@@ -521,7 +521,7 @@ Joseph Campbell, *The Hero with a Thousand Faces*
 
 Stephen Fry, *Stephen Fry's Greek Myths*: *Mythos*, *Heroes*, *Troy*
 
-anonymous, Meditations on the Tarot A Journey Intro Christian Hermeticism
+anonymous, *Meditations on the Tarot A Journey Intro Christian Hermeticism*
 
 Monty P Hall, *The Secret Teachings of All Ages* 
 
