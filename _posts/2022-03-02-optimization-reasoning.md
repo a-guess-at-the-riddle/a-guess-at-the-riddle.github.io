@@ -106,127 +106,115 @@ i.e. engineering is about using work to create instruments that can acts as mean
 
 
 
-Peter  2:35 PM
 Have you ever wondered how optimization and reasoning are related?
 
-John Cerkan  2:51 PM
 I'm not sure.  I guess reasoning leads to optimization.  But optimization can lead to less reasoning by skipping the reasoning step.
 
-Peter  2:52 PM
 How would optimization allow you to skip a step?
-2:52
-You mean like a shorter proof?
-2:52
-vs a longer proof
-2:53
-or argument
 
-John Cerkan  2:53 PM
+You mean like a shorter proof vs a longer proof or argument
+
 So if I do something a bunch of times, I tend to think about it less as I get used to it.  After awhile it's automatic.  At some point there's not much to optimize.
 
-Peter  2:54 PM
 I should say that I'm using the word reasoning in the very broad way that philosophers do when they talk of philosophical logic. For Peirce he classified most if not all reasoning into three kinds of inference abductive, deductive, and inductive.
-2:58
+
 Is there multiple senses to the word optimization? Like is optimization in the sense of an optimizing compiler the same meaning as   when used as in say finding the optimum logistic schedule.
-3:01
+
 I say so because your example of habit formation is something that runs and returns an output multiple times before it runs optimally and returns the same output. But in the example of say a mathematical optimization problem it is computed once (however efficiently) and return the optimum output. So I guess the difference is optimization of a process that is optimized by running multiple times vs optimization of a processes output. That is get as close as possible to the goal. (edited) 
-3:01
+
 Does that make sense?
-3:02
+
 Although I sometimes find it frustrating that you always seem to think of things differently than I do, I gotta say it is quite productive.
 
-Peter  3:08 PM
 I would call what you said habit formation or more generally self-organization. What would be a computer science or applied mathematics example of that kind of optimization ? We could call it process optimization (There is a Wikipedia page on that but not much info. I don't know if it is a well known term or what its formalized version is called).
 
-Peter  3:14 PM
 I guess it could be summed up as optimize the means vs optimize the ends.
 
-John Cerkan  3:15 PM
+
 Yes, habit formation is probably a kind of optimization.  Optimization is also sort of relative.  A program could be optimized for speed or memory use.
 
-Peter  3:18 PM
 Yes I understand. It makes sense that you approached it from the software engineering perspective (which focuses on efficiency). After all the majority of the popular programs are not batch programs but interactive programs. That is why I brought up the optimizing compiler (I was thinking of software), But I think that example of the compiler actually didn't fit in the process optimization category
 3:18
 Also the output of many programs are also programs and not data.
-3:20
+
 So as you say you might want to optimize the efficiency of that program in terms of memory or speed. But I was originally focused on mathematical optimization. As far as I know it doesn't get into such complex notions as we encounter in the software world. (You would think it should as it would be helpful)
-3:23
+
 Habit formation is an recursive process that takes as input sense data and outputs a process which takes in sense data which outputs a process ...etc, and approaches some attractor in the process/habit space. (edited) 
-3:24
+
 Or at least that is one formalization of it.
 
-Peter  3:32 PM
+
 Are you aware of any purely mathematical study of this? (its possible that it could exist in the more advanced mathematical optimization content)
 Of course does it even belong to the domain of mathematics? (edited) 
 
-Peter  3:45 PM
 Perhaps I'm forgetting my computer science theory (the very little I know). I think that the distinction between process and data isn't important to a computer.
-3:48
+
 so functions are computable numbers
-3:48
+
 I'm clearly not educated enough on the matter to be speculating on it (edited) 
 
-John Cerkan  3:50 PM
+
 I feel like I have seen a textbook with optimization, but I'm not sure if that was an engineering book or what I'm almost remembering.
 
-Peter  3:52 PM
+
 Also in lambda calculus it is just opposite. Instead of everything being a computable number, everything is a function and some functions can be interpreted as numbers.
-3:53
+
 I find this whole topic very interesting
-3:57
+
 Like is there any difference between process thought of as dynamical and its input output relations thought of as static? This reminds me of some of Peirce's ideas about the complementarity (is that the right term?) of mechanism (algorithm?) and finality.
-3:57
+
 We have spoken about such things before.
 
-Peter  4:07 PM
+
 I wrote a short essay on this but now I need to rewrite it as I was thinking of optimization too narrowly.
 
-Peter  4:13 PM
+
 But I will just tell you the interesting lexical observation I made. When we say the phrase "a reason" we can either mean an argument/proof or a purpose/goal (or a coincidence/chance). This fits into my overall narrative so far.
-4:13
+
 "a reason this theorem is true" vs "a reason to run for office"
-4:14
+
 its like we can either refer to the past or the future
 
-John Cerkan  4:17 PM
+
 They seem very similar, but if i give it time, they seem very different.
 
-Peter  4:18 PM
+
 well it is just the final cause vs efficient cause thing again
 
-Peter  4:24 PM
+
 Why is a theorem true?
 Because we established in the past that the propositions of the proof are actually true, the inference rules are valid, and the propositions of the proof follow from each other using the inference rules (of course there are assumed intermediate propositions that people will sometimes use)
+
 Why does someone want to run for office?
 Because they desire to change the future possible state of the world (become more rich, increase prosperity of their jurisdiction, ... etc.)
-4:25
+
 actual past vs possible future
-4:28
+
 but I do seem some problems with this that I will have to work out
 
-Peter  4:36 PM
+
 Here is a helpful distinction I have mentioned before. Many proofs through the theorem space (some kind of graph I guess...) will lead to the same theorem. So a theorem is like a goal and a proof is like a specific means (one among many) to a goal.
 
-Peter  4:49 PM
+
 I'm interested in how these ideas relate to self-organization and also this old idea called consilience.
 
-John Cerkan  4:49 PM
+
 It makes me wonder if an argument makes a theorem true.  If there are multiple arguments then one can't be given credit.  But an argument can be the reason someone believes a theorem.  The theorem was true anyway.
 
-Peter  4:50 PM
+
 Yes the word "truth" has multiple interpretations in even mathematics.
-4:51
+
 One more recent interpretation by the computer science (type theory) influenced people is true means you have a proof. Perhaps a Ramanujan like Platonist would way something like what you are saying. (edited) 
-4:55
+
 Also echoing the pragmatists a theorem once proven just becomes another stepping stone (instrument, means, etc...) for your future proofs. This mirrors how completed goal(s) become the perspectives from which we form our next goal(s). That is to say the distinction between means and ends depends on time.
 
-Peter  5:08 PM
+
 Now to make a speculative leap...
 It is interesting to think about how habits are formed (sometimes even as an intentional goal, e.g. single digit multiplication) and then those habits become mechanisms from which we build our more complex compound habits (e.g., one step in solving a very simple algebraic equation).
 Or we can more away from the pencil pusher example and talk about something like playing a musical instrument (e.g. a piano). First you makes the habitual connection between your hand configuration and the note/chord. Next you form habits relating to rhythms of single notes/chords. Then you habituate simple note sequences and simple chord progression/cadences. etc...
 Eventually you start to generalize. For example you can play a I, IV, V chord progression in any major key. Later if you get to be as skilled as a professional musician, you start to be able to improvise certain motifs and themes.
 When you are doing such an act as improvising a theme you have a high-level goal and with many possible paths to that goal. In this way working through a proof and performing a fugue are similar.
-5:12
+
 Also I am thinking of a mathematician performing deduction as partially spontaneous just like the decision to move between one chord and another is partially spontaneous and partially constrained.
 
 Thinking more about the empirical sciences than mathematics (would this apply to math?), what about the fact that your beginning (starting point in a chain of reasoning) can be someone else's goal? Or even you have different incomplete arguments (chains of reasoning) that you have in your memory and you jump between them. Also multiple chains of reasoning (starting from the same point or not and in the mind of the same person or not) can lead to the same conclusion.
@@ -242,14 +230,14 @@ The principle is based on the unity of knowledge; measuring the same result by s
 And I saw this image (about bidirectional search) from the AGI lecture I posted for you to watch the other week: (edited)
 
 
-5:33
+
 The effectiveness of bidirectional search (and n-directional search???) depends on perspective (very "Copernican principle").
 
 What happens when you generalize bidirectional search to a goal hierarchy or goal space?
 
-5:34
+
 I was thinking about this because that same lecturer is always talking about divergence and convergence.
-5:36
+
 One would infer from this line of thinking that in order to have consilience (and strong intelligence) one needs intelligences spread throughout some kind of abstract space. This would allow a kind of triangulation or mutual constraint that would reduce the search space and improve the efficiency of the computation. (edited) 
 
 
