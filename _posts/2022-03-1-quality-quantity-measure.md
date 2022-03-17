@@ -316,6 +316,10 @@ https://en.wikipedia.org/wiki/Polynomial_conjoint_measurement
 
 Peirce bibliography from Wikipedia: https://en.wikipedia.org/wiki/Charles_Sanders_Peirce_bibliography
 
+*The Essential Peirce vol 1 & 2*
+
+*Reasoning and the Logic of Things*
+
 What is a Sign? by C. S. Peirce
 
 The Continuity of Peirce's Thought (Vanderbilt Library of American Philosophy) by Kelly A. Parker
