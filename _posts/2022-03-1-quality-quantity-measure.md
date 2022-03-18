@@ -570,6 +570,8 @@ Christopher D. Green, York University, Toronto, Classics in the History of Psych
 
 Herbert A. Simon, *The Sciences of the Artificial* (3rd Edition)
 
+Marcel Weber (University of Geneva), *Philosophy of Developmental Biology*, Cambridge University Press, Elements in the Philosophy of Biology (series)
+
 G. Polya, *Mathematics and Plausible Reasoning, Volume 1: Induction and Analogy in Mathematics*
 
 G. Polya, *Mathematics and Plausible Reasoning: Volume II Patterns of Plausible Inference* 
