@@ -562,9 +562,11 @@ Bob Doyle, The Information Philosopher - https://www.informationphilosopher.com/
 
 
 
-**Possible useful books/authors:**
+**Possible useful books/authors/articles:**
 
-Robert Brandom, Steven Lehar, Douglas Hofstadter, Karl Pribram, Ruth Milikan, Ian McHilchrist, F. H. Bradley (Bradley's regress)
+Authors: Robert Brandom, Steven Lehar, Douglas Hofstadter, Karl Pribram, Ruth Milikan, Ian McHilchrist, F. H. Bradley (Bradley's regress)
+
+Christopher D. Green, York University, Toronto, Classics in the History of Psychology (collection of classic psych articles) - https://psychclassics.yorku.ca/
 
 Herbert A. Simon, *The Sciences of the Artificial* (3rd Edition)
 
