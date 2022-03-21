@@ -58,6 +58,8 @@ Topology -> Projective -> Affine -> Similarity -> Euclidian Synthetic Geometry -
 
 In college a STEM student might learn about a subject called topology. Topology is the similar to geometry but notions such as a measure of distance are abstracted away while the concept of neighbourhood (formally definined) is retained. This allows one to return to the prenumeric domain and study objects of higher generality than geometric objects with a specified notion of metric/distance.
 
+One major taxonomy of mathematical subdisciplines is to divide math into geometry, algebra, and analysis... 
+
 What is interesting is how it seems that we have moved from implicit continuous to explicit discrete to explicit continuous (or vague quality to definite quantity to definite quantity).
 
 **Signs & Meaning**
