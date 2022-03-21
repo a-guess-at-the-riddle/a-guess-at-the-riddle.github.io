@@ -188,6 +188,12 @@ things to add:
 
 ## References/Reading List:
 
+**Systems Theory / Cybernetics**
+Gordan Pask, *The cybernetics of evolutionary processes and of self organizing systems*
+Gordan Pask, *An Approach to Cybernetics*
+W. Ross Ashby, *An Introduction To Cybernetics*
+W. Ross Ashby, *Design for a Brain, The origins of adaptive behavior*
+
 **Complexity / Emergence**
 
 Stuart A. Kauffman, *The Origins of Order: Self-Organization and Selection in Evolution*
