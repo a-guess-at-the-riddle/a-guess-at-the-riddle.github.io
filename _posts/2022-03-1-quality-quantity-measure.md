@@ -576,6 +576,8 @@ Authors: Robert Brandom, Steven Lehar, Douglas Hofstadter, Karl Pribram, Ruth Mi
 
 Christopher D. Green, York University, Toronto, Classics in the History of Psychology (collection of classic psych articles) - https://psychclassics.yorku.ca/
 
+Lieve Lambrechts, Thesis, *Formal Concept Analysis* - https://we.vub.ac.be/sites/default/files/files/thesis_lieve_lambrechts.pdf
+
 Herbert A. Simon, *The Sciences of the Artificial* (3rd Edition)
 
 Marcel Weber (University of Geneva), *Philosophy of Developmental Biology*, Cambridge University Press, Elements in the Philosophy of Biology (series)
