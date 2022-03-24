@@ -49,6 +49,20 @@ properties as "absential"?
 lossy vs lossless compression vs abstraction/generalization???
 
 
+... there is but one law of mind, namely, that ideas tend to spread continuously and to affect certain others which stand to them in a peculiar relation of affectability. In this spreading they lose intensity, and especially the power of affecting others, but gain generality and become welded with other ideas.
+-- C. S. Peirce "The Law of Mind" (1892)
+
+So I was thinking about logic and how it is essential very general habituated thought. Since it is habituated that means some meaning has been extracted or ignored. And I thought the fact that logic is precise, rigid, rigorous, etc.. is why it rarely evokes a feeling in the way that a poem that someone strongly identifies with would. So this is saying you pay a price for generality.
+So I was wondering in linguistics is syntax like the most habituated meaning? and then syntax and then pragmatics?
+
+
+
+
+
+4:35
+one aspect of pragmatics is who is the listener/interpreter and what are their interests, personality, history
+
+
 Sources:
 
 Peirce, C. S. - Upon Logical Comprehension and Extension (https://peirce.sitehost.iu.edu/writings/v2/w2/w2_06/v2_06.htm)
