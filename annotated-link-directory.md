@@ -9,6 +9,21 @@ title: "Directory"
 - Commens Digital Companion to C. S. Peirce - http://commens.org/ - Dictionary, Encyclopeda, Papers, Bibliography
 - Gary Fuhrman Gnusystems (author of Turning Signs) - https://gnusystems.ca/gnoxic.htm
 
+**Favorite intellectuals (most interesting reading/listening):**
+1. Charles Sanders Peirce (1839-1914)
+2. Terrence Deacon
+3. Benjamin Drake Wright (1926-2015)
+4. Wai H Tsang
+5. Leon Chua
+6. Jordan Peterson
+7. Richard Feynman
+8. Donald Knuth
+9. John Maynard Keynes
+10. Jacob Bronowski
+
+Favorite Textbook Authors
+Donald Knuth, Michael Spivak, ...
+
 
 **Humanities**
 - Civilisation (BBC, High Definition) - https://www.youtube.com/playlist?list=PLkq44i-E582zDNKD8MqnSzRzRz7D9A-fV
