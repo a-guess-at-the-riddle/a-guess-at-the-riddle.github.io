@@ -22,7 +22,7 @@ title: "Directory"
 10. Jacob Bronowski
 
 Favorite Textbook Authors
-Donald Knuth, Michael Spivak, ...
+Donald Knuth, Michael Spivak, Rob Pike, Brian Kernighan, Leo Brodie...
 
 
 **Humanities**
