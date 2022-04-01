@@ -574,6 +574,8 @@ Bob Doyle, The Information Philosopher - https://www.informationphilosopher.com/
 
 Authors: Robert Brandom, Steven Lehar, Douglas Hofstadter, Karl Pribram, Ruth Milikan, Ian McHilchrist, F. H. Bradley (Bradley's regress)
 
+John Awbrey (https://inquiryintoinquiry.com/) - various writings...
+
 Christopher D. Green, York University, Toronto, Classics in the History of Psychology (collection of classic psych articles) - https://psychclassics.yorku.ca/
 
 Lieve Lambrechts, Thesis, *Formal Concept Analysis* - https://we.vub.ac.be/sites/default/files/files/thesis_lieve_lambrechts.pdf
