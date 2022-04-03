@@ -332,6 +332,22 @@ Peirce bibliography from Wikipedia: https://en.wikipedia.org/wiki/Charles_Sander
 
 What is a Sign? by C. S. Peirce
 
+Peirce, C.S. (1867), "On a New List of Categories", Proceedings of the American Academy of Arts and Sciences 7 (1868), 287–298. Presented, 14 May 1867. Reprinted (Collected Papers, vol. 1, paragraphs 545–559), (The Essential Peirce, vol. 1, pp. 1–10), (Chronological Edition, vol. 2, pp. 49–59), Eprint.
+
+Peirce, C.S. (1885), "One, Two, Three: Fundamental Categories of Thought and of Nature", Manuscript 901; the Collected Papers, vol. 1, paragraphs 369-372 and 376-378 parts; the Chronological Edition, vol. 5, 242-247
+
+Peirce, C.S. (1887–1888), "A Guess At the Riddle", Manuscript 909; The Essential Peirce, vol. 1, pp. 245–279; Eprint
+
+Peirce, C.S. (1888), "Trichotomic", The Essential Peirce, vol. 1, p. 180.
+
+Peirce, C.S. (1893), "The Categories", Manuscript 403 "Eprint" (PDF). (177 KiB) An incomplete rewrite by Peirce of his 1867 paper "On a New List of Categories." Interleaved by Joseph Ransdell (ed.) with the 1867 paper itself for purposes of comparison.
+
+Peirce, C.S., (c. 1896), "The Logic of Mathematics; An Attempt to Develop My Categories from Within", the Collected Papers, vol. 1, paragraphs 417–519. Eprint
+
+Peirce, C.S., "Phenomenology" (editors' title for collection of articles), The Collected Papers, vol. 1, paragraphs 284-572 Eprint
+
+Peirce, C.S. (1903), "The Categories Defended", the third Harvard Lecture: The Harvard Lectures pp. 167–188; the Essential Peirce, vol. 1, pp. 160–178; and partly in the Collected Papers, vol. 5, paragraphs 66-81 and 88-92.
+
 The Continuity of Peirce's Thought (Vanderbilt Library of American Philosophy) by Kelly A. Parker
 
 Peirce's Scientific Metaphysics: The Philosophy of Chance, Law, and Evolution (Vanderbilt Library of American Philosophy) by Andrew Reynolds
