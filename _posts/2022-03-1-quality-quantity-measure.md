@@ -8,14 +8,16 @@ published: false
 
 **INCOMPLETE ROUGH DRAFT**
 
-**qualitative**
+- **qualitative**
 - quality, semantic dimensions, semantic spaces, conceptual spaces, Peter Gärdenfors, Dominic Widdows, *Geometry and Meaning*, ...
 - Kenneth D Forbus, Qualitiative reasoning, *Qualitative Representations*, ...
 - Philosophy of Vagueness
-**stability**
+
+- **stability**
 - stability, *Structures or Why Things Don't Fall Down*
 - *The Ascent of Man*, Jacob Bronowski, statified stability, ...
-**self-organization, complexity science, cybernetics**
+
+- **self-organization, complexity science, cybernetics**
 - self-organization, Stuart Kauffman, boolean networks, *The Origins of Order*, Erdős–Rényi model, ... 
 - self-organized criticality, Per Bak, *How Nature Works*, ...
 - phase transitions, dynamical systems theory, nonlinear dynamics, chaos theory, bifurcation theory, ...
@@ -33,15 +35,18 @@ published: false
 - Alan Turing, "The Chemical Basis of Morphogenesis", Turing patterns
 - Leon Chua, *Chua Lectures*, local activity principle, edge of chaos
 - Synergetics, Hermman Haken, J. A. Scott Kelso, coordination dynamics, *Dynamic Patterns: The Self-Organization of Brain and Behavior*,  *The Complementary Nature*, metastability
-**thermodynamics**
+
+- **thermodynamics**
 - Eric D Schneider & Dorion Sagan, *Into the Cool Energy Flow Thermodynamics and Life*
 - Robert T. Hanlon, *Block by Block: The Historical and Theoretical Foundations of Thermodynamics*
-**history of ideas & technology**
+
+- **history of ideas & technology**
 - Arthur O. Lovejoy, *The Great Chain of Being: A Study of the History of an Idea*
 - *Quite Right: The Story of Mathematics, Measurement, and Money*
 - Simon Winchester, *The Perfectionists: How Precision Engineers Created the Modern World*
 - James Burke, *Connections*, *The Day the Universe Changed*
-**artificial intelligence**
+
+- **artificial intelligence**
 - Herbert A. Simon, Allen Newel, *The Sciences of the Artificial*, satisficing, bounded rationality, heuristic search, bias
 - Symbolic AI/GOFAI, Edward Feigenbaum
 - Mathematical Optimization, Operations Research, Applied Multivariate Analysis
@@ -50,11 +55,13 @@ published: false
 - Ray Kurzweil, combinatorial explosion, The Technological Singularity
 - Pentti Kanerva, Sparse Distributed Memory, Holographic Reduced Representations
 - Jeff Hawkins, Hierarchical Temporal Memory, Thousand Brains Theory
-**unsupervised learning/clustering**
+
+- **unsupervised learning/clustering**
 - unsupervised learning, clustering
 - Robert R. Sokal, Peter H. A. Sneath, *Principles of Numerical Taxonomy*
 - Dan A. Simovico, *Clustering: Theoretical and Practical Aspects*
-**Evolution**
+
+- **Evolution**
 - Evolution, Charles Darwin, Darwinism, Natural Selection, Universal Darwinism...
 - Genetics, Gregory Mendel
 - Richard Dawkins, *The Selfish Gene*, *The Extended Phenotype*, Gene-center view of selection, Group selection
@@ -67,27 +74,32 @@ published: false
 - James Lovelock, Gaia
 - Evolutionary Causality, Multilevel Selection
 - Evolutionary Dynamics
-**Aesthetics & Teleology**
+
+- **Aesthetics & Teleology**
 - Edmund Burke, *A Philosophical Enquiry into the Origins of the Sublime and Beautiful: And Other Pre-Revolutionary Writings* (Penguin Classics)
 - Friedrich Schiller, *On the Aesthetic Education of Man*, Translated by Keith Tribe
 - Frederick C. Beiser, *Schiller as Philosopher: A Re-examination*
 - Immanuel Kant, *Critique of Judgment*
-**normativity, value**
+
+- **normativity, value**
 - habit, convention,
 - normativity, normative sciences (aesthethics, ethics, logic)
 - value, function, purpose, meaning
 - James Gouinlock, *John Dewey's Philosophy of Value*
 - *Hyperthematics: The Logic of Value*
-**social ontology**
+
+- **social ontology**
 - John Searle, *The Construction of Social Reality* (1995)
 - John Searle, *Making the Social World: The Structure of Human Civilization*
-**phenomenology, perception, psychology
+
+- **phenomenology, perception, psychology
 - phenomenology, Edmund Husserl, Maurice Merleau-Ponty, phaneroscopy, Charles Sander Peirce, ...
 - psychophysics, Gustav Fechner, Ernst Heinrich Weber, Wilhelm Wundt, C. S. Peirce, Joseph Jastrow, S. S. Stevens, just-noticible difference, Weber's Law, signal detection theory
 - perception, ecological/direct perception, James Gibson, *The Ecological Approach to Visual Perception* ...
 - vision, David Marr, *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information* 
 - developmental psychology, Jean Piaget, *The Essential Piaget*, *The Nature and Ontogenesis of Meaning*, ...
-**mathematical psychology, psychometrics, measurement theory** 
+
+- **mathematical psychology, psychometrics, measurement theory** 
 - experimental psychology
 - level of measurement, nominal, ordinal, order, interval, ratio, Stanley Smith Stevens, ...
 - L. L. Thurstone, *law of Comparitive Judgement*, ...
@@ -98,13 +110,15 @@ published: false
 - *Historical and Conceptual Foundations of Measurement in the Human Sciences*
 - Louis Narens, invariance, meaning, ...
 - Thomas L. Saaty, Analytical Hiearchy Process, *Analytical Planning The Organization of Systems*
-**metrology, dimensional analysis, numerical analysis, error analysis**
+
+- **metrology, dimensional analysis, numerical analysis, error analysis**
 - metrology, dimension, physical dimension, quantity, unit, ...
 - dimensional analysis, similarity, self-similarity, similitude, ...
 - numerical analysis, floating-point, validated numerics, interval arithmetic, *Validated Numerics: A Short Introduction to Rigorous Computations*, ...
 - error analysis, *An Introduction to Error Analysis: The Study of Uncertainties in Physical Measurements*
 - Michael de Podesta, *Understanding the Properties of Matter*
-**cosmology, big history, historicism**
+
+- **cosmology, big history, historicism**
 - time symmetric quantum mechanics, two-state vector formalism
 - Janus cosmological model, Julian Barbour, Shape Dynamics *The Janus Point: A New Theory of Time*
 - Big History, Cosmology
@@ -112,12 +126,14 @@ published: false
 - Philosophy of History, Historicism, Georg Wilhelm Friedrich Hegel, *The Encyclopeida Logic*, *Science of Logic*, Stephen Houlgate, *Hegel on Being* 
 - Karl Marx, Dialectial Materialsm, Communism, ...
 - Economics, Markets, History of Economics, Karl Popper, *The Poverty of Historicism*, ...
-**philosophical categories, structure of meaning**
+
+- **philosophical categories, structure of meaning**
 - Categories of Being: Aristotle, Kant, Hegel, Peirce
 - Peircean Semiotics, "What is a Sign?", *On a New List of Categories*, "How To Make Our Ideas Clear", three grades of clearness, icon, index, symbol, Terrence Deacon, *The Symbolic Species*, *Incomplete Nature*, Floyd Merrell, *Signs Grow*, ...
 - Eric Funkhouser, *The Logical Structure of Kinds*
 - possibility, actuality, necessity, ...
-**Peirce & related philosophers**
+
+- **Peirce & related philosophers**
 - *The Essential Peirce vol 1 & 2*
 - *Reasoning and the Logic of Things*
 - Kelly A. Parker, *The Continuity of Peirce's Thought*
@@ -132,7 +148,8 @@ published: false
 - Francesco Bellucci - *Peirce’s Speculative Grammar: Logic as Semiotics* 
 - John J. McDermott (ed.), *Josiah Royce, Basic Writings (Vol 1 & 2)*
 - John Clendenning (ed.), *The Letters of Josiah Royce*
-**Mathematics**
+
+- **Mathematics**
 - history of mathematics, number, quantity, discrete, continuous, measure, ...
 - George Polya, *Mathematics and Plausible Reasoning, vol I & II*
 - history of computation, qualitative computation???, discrete computation, analog/real computation, ...
@@ -162,10 +179,12 @@ published: false
 - Harold L Dorvart, *The Geometry of Incidence*
 - Harold Simmons, *An Introduction to Category Theory*
 - John Stillwell, *Reverse Mathematics, Proofs from the Inside Out*
-**Evolutionary Neuroscience**
+
+- **Evolutionary Neuroscience**
 - Evolutionary Neuroscience, Paul D. MacLean, triune brain theory, *Principles of Brain Evolution*, ...
 - John Eccles, ...
-**Scientific Method, Induction, Conscilience, Convergence**
+
+- **Scientific Method, Induction, Conscilience, Convergence**
 - anthropic principle, ...
 - scientific method
 - John Dewey, *Logic: The Theory of Inquiry* 
@@ -175,10 +194,12 @@ published: false
 - G. A. Cory Jr, *The Consilient Brain*, *Toward Consilence*, ...
 - Peter Watson, Convergence the Idea at the Heart of Science
 - Mario Bunge, *Emergence and Convergence: Qualitative Novelty and the Unity of Knowledge*
-**Data Structures
+
+- **Combinatorics, Data Structures**
 - Niven, *Mathematics of Choice*
 - data structures, data structure design space, combinatorial design, ...
-**Mathematics of Meaning**
+
+- **Mathematics of Meaning**
 - projective geometry, finite projective planes
 - Joseph C Frisch, *Extension and Comprehension in Logic*
 - incidence structures, formal concept analysis, extension, intension, comprehension, fuzzy formal concept analysis, order theory, lattice, mathematical property, ...
@@ -186,15 +207,18 @@ published: false
 - Rudolf Wille - "Concept Lattices and Conceptual Knowledge Systems"
 - Claudio Carpineto, Giovanni Romano, *Concept Data Analysis: Theory and Applications*
 - Bernhard Ganter  (Author), Rudolf Wille (Author), C. Franzke (Translator), *Formal Concept Analysis: Mathematical Foundations*
-**Properties of Number Systems**
+
+- **Properties of Number Systems**
 - continuity, defining properities of: Z, Q, R, C; degeneracy; surreal numbers
-**Classical Logic**
+
+- **Classical Logic**
 - Sister Miriam Joseph, Marguerite McGlinn (ed.), *The Trivium: The Liberal Arts of Logic, Grammar, and Rhetoric*
 - Arnauld and Nicole, *Logic and the Art of Thinking* (Port Royal Logic), Ed. by Jull Vance Buroker
 - Richard Whately, *Elements of Logic*
 - F. H. Bradley, Bradley's regress, *The Principles of Logic 2 Vol*
 - Sybil Wolfram, *Philosophical Logic: An Introduction*
-**Mythology**
+
+- **Mythology**
 - Joseph Campbell, monomyth, *The Hero with a Thousand Faces*, *The Power of Myth* 
 - Jordan Peterson, psychologcial categories, archetypes, mythology, allegory, *Maps of Meaning*, ...
 - Mattheiu Pageau, *The Language of Creation Cosmic Symbolism in Genesis, A Commentary*
@@ -203,26 +227,33 @@ published: false
 - Stephen Fry, *Stephen Fry's Greek Myths*: *Mythos*, *Heroes*, *Troy*
 - anonymous, *Meditations on the Tarot A Journey Intro Christian Hermeticism*
 - Monty P Hall, *The Secret Teachings of All Ages* 
-**Group Representation**
+
+- **Group Representation (Statistics & Democracy)**
 - statistics, averaging, statistical representation, ...
 - government, democracy, voting, markets, prediction markets, ...
-**Chemistry, Energy, ** 
+
+- **Chemistry, Energy, ...?** 
 - metallurgy, heat treatment, annealing, tempering, simulated annealing, "lower energy state", equilibrium, ...
-**Wave Phenomenon**
+
+- **Wave Phenomenon**
 - waves, linear/nonlinear waves, standing waves, bounded waves, resonance, ...
-**Formal Axiomatic Systems**
+
+- **Formal Axiomatic Systems**
 - Charles Petzold, *The Annotated Turing*
 - Gregory Chaitin, *Meta Math! The Quest for Omega*
 - reverse mathematics, ...
 - natural units, ...
-**Holography, Harmonic Analysis**
+
+- **Holography, Harmonic Analysis**
 - Dennis Gabor, holography, Karl Pribram, *The Holonomic Brain Theory*, David Bohm, memory, non-locality, correlograph, holographic associative memory, ...
 - fourier series, fourier transform, fourier analysis, harmonic analysis, wavelets, *The World According to Wavelets: The Story of a Mathematical Technique in the Making*
-**Eastern Philosophy**
+
+- **Eastern Philosophy**
 - Eastern Philosophy, Lao Tzu, Taoism, *Tao te Ching*, *I Ching*
 - Douglas G. Flemons, *Completing Distinctions: Interweaving the Ideas of Gregory Bateson and Taoism into a unique approach to therapy*
 - James Carse, *Finite and Infinite Games*
-**Information Theory & Error Correction**
+
+- **Information Theory & Error Correction**
 - Claude Shannon, *A Mathematical Theory of Communication*
 - Thomas M. Cover, Joy A. Thomas, *Elements of Information Theory*
 - Richard P. Feynman, *Feynman Lectures On Computation*
@@ -231,6 +262,8 @@ published: false
 - Richard Bellman, dynamic programming, Bellman equation, *Stability Theory of Differential Equations*
 - Nicholas Metropolis, Monte carlo methods, Monte carlo tree search
 - Simulated annealing
+
+---
 
 I recently watched a lecture on conceptual spaces where the cognitive scientist Peter Gärdenfors was talking about meaning with concepts like "qualitative dimension" and "semantic space". I was left with the feeling that I didn't really understand in any rigorous way what was meant by terms like "quality", "qualitative" and "qualitiative dimension". The first question that comes to mind is how can we relate this concept to the more familar notion of a quantitative dimension that we encounter in mathematics and the natural sciences?
 
