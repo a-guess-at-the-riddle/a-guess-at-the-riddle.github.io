@@ -19,7 +19,7 @@ published: false
 - self-organization, Stuart Kauffman, boolean networks, *The Origins of Order*, Erdős–Rényi model, ... 
 - self-organized criticality, Per Bak, *How Nature Works*, ...
 - phase transitions, dynamical systems theory, nonlinear dynamics, chaos theory, bifurcation theory, ...
-- thermodynamics, statistical physics, renormalization group
+- thermodynamics, statistical physics, renormalization group, order parameter
 - logistic map, orbit diagram, Mitchell Feigenbaum, period doubling route to chaos, Feigenbaum constants
 - cellular automata, game of life, John Conway, Christopher Langston, lambda parameter, edge of chaos
 - cybernetics, second-order cybernetics, Norbert Wiener, W. Ross Ashby, Heinz von Foerster, Gordan Pask
@@ -32,7 +32,10 @@ published: false
 - Leon Chua, *Chua Lectures*, local activity principle, edge of chaos
 - Synergetics, Hermman Haken, J. A. Scott Kelso, coordination dynamics, *Dynamic Patterns: The Self-Organization of Brain and Behavior*,  *The Complementary Nature*, metastability
 ---
-James Burke, *Connections*, *The Day the Universe Changed*
+- Arthur O. Lovejoy, *The Great Chain of Being: A Study of the History of an Idea*
+- *Quite Right: The Story of Mathematics, Measurement, and Money*
+- Simon Winchester, *The Perfectionists: How Precision Engineers Created the Modern World*
+- James Burke, *Connections*, *The Day the Universe Changed*
 ---
 - Herbert A. Simon, Allen Newel, *The Sciences of the Artificial*, satisficing, bounded rationality, heuristic search, bias
 - Symbolic AI/GOFAI, Edward Feigenbaum
@@ -62,6 +65,7 @@ James Burke, *Connections*, *The Day the Universe Changed*
 ---
 - habit, convention,
 - normativity, normative sciences (aesthethics, ethics, logic)
+- value, function, purpose, meaning
 ---
 - phenomenology, Edmund Husserl, Maurice Merleau-Ponty, phaneroscopy, Charles Sander Peirce, ...
 - psychophysics, Gustav Fechner, Ernst Heinrich Weber, Wilhelm Wundt, C. S. Peirce, Joseph Jastrow, S. S. Stevens, just-noticible difference, Weber's Law, signal detection theory
