@@ -13,7 +13,7 @@ published: false
 - Kenneth D Forbus, Qualitiative reasoning, *Qualitative Representations*, ...
 - Vagueness
 - Mario Bunge, *Emergence and Convergence: Qualitative Novelty and the Unity of Know
-
+---
 - stability, *Structures or Why Things Don't Fall Down*
 - *The Ascent of Man*, Jacob Bronowski, statified stability, ...
 - self-organization, Stuart Kauffman, boolean networks, *The Origins of Order*, Erdős–Rényi model, ... 
@@ -28,9 +28,10 @@ published: false
 - general systems theory, Ludwig von Bertalanffy
 - Stephen Wolfram, elementary cellular automata, ...
 - fractals, multifractals, Michael Barnsley, iterated function systems
+- Alan Turing, "The Chemical Basis of Morphogenesis", Turing patterns
 - Leon Chua, *Chua Lectures*, local activity principle, edge of chaos
 - Synergetics, Hermman Haken, J. A. Scott Kelso, coordination dynamics, *Dynamic Patterns: The Self-Organization of Brain and Behavior*,  *The Complementary Nature*, metastability
-------------------
+---
 - Herbert A. Simon, Allen Newel, *The Sciences of the Artificial*, satisficing, bounded rationality, heuristic search, bias
 - Symbolic AI/GOFAI, Edward Feigenbaum
 - Mathematical Optimization, Operations Research
@@ -39,13 +40,11 @@ published: false
 - Ray Kurzweil, combinatorial explosion, The Technological Singularity
 - Pentti Kanerva, Sparse Distributed Memory, Holographic Reduced Representations
 - Jeff Hawkins, Hierarchical Temporal Memory, Thousand Brains Theory
-
+---
 - unsupervised learning, clustering
 - Robert R. Sokal, Peter H. A. Sneath, *Principles of Numerical Taxonomy*
 - Dan A. Simovico, *Clustering: Theoretical and Practical Aspects*
-
-- time symmetric quantum mechanics, two-state vector formalism
-- 
+---
 - Evolution, Charles Darwin, Darwinism, Natural Selection, Universal Darwinism...
 - Genetics, Gregory Mendel
 - Richard Dawkins, *The Selfish Gene*, *The Extended Phenotype*, Gene-center view of selection, Group selection
@@ -58,15 +57,16 @@ published: false
 - James Lovelock, Gaia
 - Evolutionary Causality, Multilevel Selection
 - Evolutionary Dynamics
-
-- habit, convention, normativity
-
+---
+- habit, convention,
+- normativity, normative sciences (aesthethics, ethics, logic)
+---
 - phenomenology, Edmund Husserl, Maurice Merleau-Ponty, phaneroscopy, Charles Sander Peirce, ...
 - psychophysics, Gustav Fechner, Ernst Heinrich Weber, Wilhelm Wundt, C. S. Peirce, Joseph Jastrow, S. S. Stevens, just-noticible difference, Weber's Law, signal detection theory
 - perception, ecological/direct perception, James Gibson, *The Ecological Approach to Visual Perception* ...
 - vision, David Marr, *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information* 
 - developmental psychology, Jean Piaget, ...
-- Experimental psychology
+- experimental psychology
 - level of measurement, nominal, ordinal, order, interval, ratio, Stanley Smith Stevens, ...
 - L. L. Thurstone, *law of Comparitive Judgement*, ...
 - mathematical psychology, Clyde Coombs, *A Theory of Data*, ...
@@ -74,66 +74,72 @@ published: false
 - Psychometrics, Rasch measurement, Benjamin Drake Wright, *Making Measures*, classical test theory, item response theory, ...
 - Louis Narens, invariance, meaning, ...
 - Thomas L. Saaty, Analytical Hiearchy Process, *Analytical Planning The Organization of Systems*
--
-- Peter Watson, Convergence the Idea at the Heart of Science
-- 
+---
 - metrology, dimension, physical dimension, quantity, unit, ...
 - dimensional analysis, similarity, self-similarity, similitude, ...
 - numerical analysis, floating-point, validated numerics, interval arithmetic, *Validated Numerics: A Short Introduction to Rigorous Computations*, ...
 - error analysis, *An Introduction to Error Analysis: The Study of Uncertainties in Physical Measurements*
 - Michael de Podesta, *Understanding the Properties of Matter*
-
-
+---
+- time symmetric quantum mechanics, two-state vector formalism
+- Janus cosmological model, Julian Barbour, Shape Dynamics *The Janus Point: A New Theory of Time*
 - Big History, Cosmology
 - Herbert Spencer, *First Principles*, ...
 - Philosophy of History, Georg Wilhelm Friedrich Hegel, *The Encyclopeida Logic*, *Science of Logic*, Historicism, Karl Marx, Dialectial Materialsm, Communism, ...
 - Economics, Markets, History of Economics, Karl Popper, *The Poverty of Historicism*, ...
-- 
+---
 - Categories of being, Aristotle, Kant, Hegel & Peirce
 - Peircean semiotics, *On a New List of Categories*, "How To Make Our Ideas Clear", three grades of clearness, icon, index, symbol, Terrence Deacon, *The Symbolic Species*, *Incomplete Nature*, Floyd Merrell, *Signs Grow*, ...
 - possibility, actuality, necessity, ...
-- 
+---
 - history of mathematics, number, quantity, discrete, continuous, measure, ...
 - George Polya, *Mathematics and Plausible Reasoning, vol I & II*
 - history of computation, qualitative computation???, discrete computation, analog/real computation, ...
+- *Set Theory and the Number Systems*
+- Michael Spivak, *Calculus*
 - *Handbook of Analysis and its Foundations*
+- *Relations: Concrete, Abstract, and Applied An Introduction*
 - (mathematics books *here*)
-
+---
 - Evolutionary Neuroscience, Paul D. MacLean, triune brain theory, *Principles of Brain Evolution*, ...
-
+- John Eccles, ...
+---
 - anthropic principle, ...
+- scientific method
 - problem of induction, consilience of inductions, William Whewell, *History of the Inductive Sciences*, *The Philosophy of the Inductive Sciences* 
 - natural induction, material induction, John D Norton, *The Material Theory of Induction*, ...
 - G. A. Cory Jr, *The Consilient Brain*, *Toward Consilence*, ...
-
+- Peter Watson, Convergence the Idea at the Heart of Science
+---
 - data structures, data structure design space, combinatorial design,
 - projective geometry, finite projective planes
 - incidence structures, formal concept analysis, extension, intension, comprehension, fuzzy formal concept analysis, order theory, lattice, mathematical property, ...
 - continuity, defining properities of: Z, Q, R, C; degeneracy; surreal numbers
-
+---
 - Richard Whately, *Elements of Logic*
 - F. H. Bradley, Bradley's regress, *The Principles of Logic 2 Vol*
 - Sybil Wolfram, *Philosophical Logic: An Introduction*
-
-- John Eccles, ...
-- Jordan Peterson, psychologcial categories, archetypes, mythology, allegory, ...,
+---
+- Joseph Campbell, monomyth, *The Hero with a Thousand Faces*, *The Power of Myth* 
+- Jordan Peterson, psychologcial categories, archetypes, mythology, allegory, *Maps of Meaning*, ...
+---
 - statistics, averaging, statistical representation, ...
 - government, democracy, voting, markets, prediction markets, ...
+---
 - metallurgy, heat treatment, annealing, tempering, simulated annealing, "lower energy state", equilibrium, ...
 - waves, linear/nonlinear waves, standing waves, bounded waves, resonance, ...
 - reverse mathematics, ...
 - natural units, ...
-
-
+---
 - Dennis Gabor, holography, Karl Pribram, *The Holonomic Brain Theory*, David Bohm, memory, non-locality, correlograph, holographic associative memory, ...
 - fourier series, fourier transform, fourier analysis, harmonic analysis, wavelets, *The World According to Wavelets: The Story of a Mathematical Technique in the Making*
-
+---
 - Eastern Philosophy, Lao Tzu, Taoism, *Tao te Ching*, *I Ching*
-
+---
 - Richard Bellman, dynamic programming, Bellman equation, *Stability Theory of Differential Equations*
 - Nicholas Metropolis, Monte carlo methods, Monte carlo tree search
 - Simulated annealing
-
+---
 - Error-correcting codes, Huffman coding
 
 I recently watched a lecture on conceptual spaces where the cognitive scientist Peter Gärdenfors was talking about meaning with concepts like "qualitative dimension" and "semantic space". I was left with the feeling that I didn't really understand in any rigorous way what was meant by terms like "quality", "qualitative" and "qualitiative dimension". The first question that comes to mind is how can we relate this concept to the more familar notion of a quantitative dimension that we encounter in mathematics and the natural sciences?
