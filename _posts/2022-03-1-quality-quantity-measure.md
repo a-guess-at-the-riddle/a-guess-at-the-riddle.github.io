@@ -32,6 +32,8 @@ published: false
 - Leon Chua, *Chua Lectures*, local activity principle, edge of chaos
 - Synergetics, Hermman Haken, J. A. Scott Kelso, coordination dynamics, *Dynamic Patterns: The Self-Organization of Brain and Behavior*,  *The Complementary Nature*, metastability
 ---
+James Burke, *Connections*, *The Day the Universe Changed*
+---
 - Herbert A. Simon, Allen Newel, *The Sciences of the Artificial*, satisficing, bounded rationality, heuristic search, bias
 - Symbolic AI/GOFAI, Edward Feigenbaum
 - Mathematical Optimization, Operations Research
