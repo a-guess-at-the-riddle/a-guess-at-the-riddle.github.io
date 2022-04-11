@@ -101,6 +101,8 @@ James Burke, *Connections*, *The Day the Universe Changed*
 - Michael Spivak, *Calculus*
 - *Handbook of Analysis and its Foundations*
 - *Relations: Concrete, Abstract, and Applied An Introduction*
+- Naumov Ivan, *A course of mathematics Book I Construction of numbers length and area*
+- Naumov Ivan,  *A course of mathematics Book II Construction of complex numbers and functions. Basic mathematical analysis* 
 - (mathematics books *here*)
 ---
 - Evolutionary Neuroscience, Paul D. MacLean, triune brain theory, *Principles of Brain Evolution*, ...
