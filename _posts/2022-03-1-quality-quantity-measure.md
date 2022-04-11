@@ -40,11 +40,14 @@ published: false
 - Eric D Schneider & Dorion Sagan, *Into the Cool Energy Flow Thermodynamics and Life*
 - Robert T. Hanlon, *Block by Block: The Historical and Theoretical Foundations of Thermodynamics*
 
-- **history of ideas & technology**
+- **history of ideas, technology, & standardization**
 - Arthur O. Lovejoy, *The Great Chain of Being: A Study of the History of an Idea*
 - *Quite Right: The Story of Mathematics, Measurement, and Money*
 - Simon Winchester, *The Perfectionists: How Precision Engineers Created the Modern World*
 - James Burke, *Connections*, *The Day the Universe Changed*
+
+- **history of trade, debt & money**
+- ...
 
 - **artificial intelligence**
 - Herbert A. Simon, Allen Newel, *The Sciences of the Artificial*, satisficing, bounded rationality, heuristic search, bias
@@ -92,7 +95,7 @@ published: false
 - John Searle, *The Construction of Social Reality* (1995)
 - John Searle, *Making the Social World: The Structure of Human Civilization*
 
-- **phenomenology, perception, psychology
+- **phenomenology, perception, psychology**
 - phenomenology, Edmund Husserl, Maurice Merleau-Ponty, phaneroscopy, Charles Sander Peirce, ...
 - psychophysics, Gustav Fechner, Ernst Heinrich Weber, Wilhelm Wundt, C. S. Peirce, Joseph Jastrow, S. S. Stevens, just-noticible difference, Weber's Law, signal detection theory
 - perception, ecological/direct perception, James Gibson, *The Ecological Approach to Visual Perception* ...
@@ -125,7 +128,8 @@ published: false
 - Herbert Spencer, *First Principles*, ...
 - Philosophy of History, Historicism, Georg Wilhelm Friedrich Hegel, *The Encyclopeida Logic*, *Science of Logic*, Stephen Houlgate, *Hegel on Being* 
 - Karl Marx, Dialectial Materialsm, Communism, ...
-- Economics, Markets, History of Economics, Karl Popper, *The Poverty of Historicism*, ...
+- Karl Popper, *The Poverty of Historicism*, ...
+- Economics, Markets, History of Economic Theory, ...
 
 - **philosophical categories, structure of meaning**
 - Categories of Being: Aristotle, Kant, Hegel, Peirce
