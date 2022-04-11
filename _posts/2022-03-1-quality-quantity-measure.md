@@ -11,8 +11,7 @@ published: false
 **associated topic tags:**
 - quality, semantic dimensions, semantic spaces, conceptual spaces, Peter Gärdenfors, Dominic Widdows, *Geometry and Meaning*, ...
 - Kenneth D Forbus, Qualitiative reasoning, *Qualitative Representations*, ...
-- Vagueness
-- Mario Bunge, *Emergence and Convergence: Qualitative Novelty and the Unity of Know
+- Philosophy of Vagueness
 ---
 - stability, *Structures or Why Things Don't Fall Down*
 - *The Ascent of Man*, Jacob Bronowski, statified stability, ...
@@ -114,10 +113,12 @@ published: false
 ---
 - anthropic principle, ...
 - scientific method
+- Tom Beakbane, *How to Understand Everything: Consilience: A New Way to See the World*
 - problem of induction, consilience of inductions, William Whewell, *History of the Inductive Sciences*, *The Philosophy of the Inductive Sciences* 
 - natural induction, material induction, John D Norton, *The Material Theory of Induction*, ...
 - G. A. Cory Jr, *The Consilient Brain*, *Toward Consilence*, ...
 - Peter Watson, Convergence the Idea at the Heart of Science
+- Mario Bunge, *Emergence and Convergence: Qualitative Novelty and the Unity of Knowledge*
 ---
 - data structures, data structure design space, combinatorial design,
 - projective geometry, finite projective planes
