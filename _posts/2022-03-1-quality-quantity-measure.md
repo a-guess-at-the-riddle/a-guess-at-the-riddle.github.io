@@ -40,14 +40,75 @@ published: false
 - Eric D Schneider & Dorion Sagan, *Into the Cool Energy Flow Thermodynamics and Life*
 - Robert T. Hanlon, *Block by Block: The Historical and Theoretical Foundations of Thermodynamics*
 
-- **history of ideas, technology, & standardization**
+- **History & Philosophy of Science, Technology, and Ideas:**
 - Arthur O. Lovejoy, *The Great Chain of Being: A Study of the History of an Idea*
 - *Quite Right: The Story of Mathematics, Measurement, and Money*
 - Simon Winchester, *The Perfectionists: How Precision Engineers Created the Modern World*
 - James Burke, *Connections*, *The Day the Universe Changed*
+- Steven Johnson, *Where Good Ideas Come From: The Natural History of Innovation*
+- Steven Johnson, *How We Got to Now: Six Innovations That Made the Modern World*
+- Steven Johnson, *Emergence: The Connected Lives of Ants, Brains, Cities, and Software*
+- Brian Arthur, *The Nature of Technology: What It Is and How It Evolves*
+- Jones & Roos, *The Machine That Changed The World*
+- Jack Challoner, *1001 Inventions that Changed the World*
+- Thomas Friedman, *The World is Flat*
+- James Surowiecki, *The Wisdom of the Crowds*
+- George Basalla, *The Evolution of Technology*
+- Brain Arthur, *The Nature of Technology: What It Is and How It Evolves*
+- James E. McClellan III, Harold Dorn, *Science and Technology in World History: An Introduction*
+- Daniel R. Headrick, *Technology: A World History*
+- Ruth Schwartz Cowan, *A Social History of American Technology*
+- Harold James, *The War of Words: A Glossary of Globalization*
+- Jean Jones Pannell, *Man The Builder: An Illustrated History Of Engineering*Jean Jones Pannell
+- Vaclav Smil, Growth: From Microorganisms to Megacities
+- Vaclav Smil, Making the Modern World: Materials and Dematerialization
+- Vaclav Smil, Transforming the Twentieth Century: Technical Innovations and Their Consequences
+- Vaclav Smil, Earth's Biosphere: Evolution, Dynamics, and Change
+- Vaclav Smil, Energy in Nature and Society: General Energetics of Complex Systems
+- Vaclav Smil, Harvesting the Biosphere: What We Have Taken From Nature
+
+- **Big History and similar coarse-grained history books:**
+- Walter Alvarez, A Most Improbable Journey: A Big History Of Our Planet And Ourselves
+- Bill Bryson, A Short History Of Nearly Everything
+- Gregory Clark, A Farewell To Alms: A Brief Economic History Of The World
+- David Christian, Origin Story: A Big History Of Everything
+- Jared Diamond, Guns, Germs, And Steel: The Fates Of Human Societies
+- Valerie Hansen, The Year 1000: When Explorers Connected The World—And Globalization Began
+- Yuval Noah Harari, Spapiens A Brief History of Humankind
+- Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow
+
+- **Origins of Mind / Evolution:**
+- Daniel Dennett, *From Bacteria to Bach and Back: The Evolution of Minds*
+- Daniel Dennett, *Darwin's Dangerous Idea: Evolution and the Meanings of Life*
+- John Bolender, *The Self-Organizing Social Mind*
+- Camelo Carstillo, *Origin of Mind A History of Systems*
+
+- **Group Induction Resources:**
+- Laughlin; Shippy (1983) "Collective induction"
+- Steiner, I. D. (1966) "Models for inferring relationships between group size and potential group productivity"
+- Laughlin, Patrick (2011) Group Problem Solving
+- Larson, James (2010) In Search of Synergy in Small Group Performance
+- Steiner, I. D. (1972) Group processes and productivity
+
+- **Philosophy of Probability & Statistics:**
+- Naseem Taleb, *Incerto*
+- Krzystof Burdzy, Resonance From Probability to Epistemology and Back
+- Deborah G. Mayo, Error and the Growth of Experimental Knowledge
+- Deborah G. Mayo, Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars
+- David Ruelle, Chance and Chaos
+- (law of large numbers? philosophy?)
 
 - **history of trade, debt & money**
 - ...
+
+- **cosmology, big history, historicism**
+- time symmetric quantum mechanics, two-state vector formalism
+- Janus cosmological model, Julian Barbour, Shape Dynamics *The Janus Point: A New Theory of Time*
+- Herbert Spencer, *First Principles*, ...
+- Philosophy of History, Historicism, Georg Wilhelm Friedrich Hegel, *The Encyclopeida Logic*, *Science of Logic*, Stephen Houlgate, *Hegel on Being* 
+- Karl Marx, Dialectial Materialsm, Communism, ...
+- Karl Popper, *The Poverty of Historicism*, ...
+- Economics, Markets, History of Economic Theory, ...
 
 - **artificial intelligence**
 - Herbert A. Simon, Allen Newel, *The Sciences of the Artificial*, satisficing, bounded rationality, heuristic search, bias
@@ -120,16 +181,6 @@ published: false
 - numerical analysis, floating-point, validated numerics, interval arithmetic, *Validated Numerics: A Short Introduction to Rigorous Computations*, ...
 - error analysis, *An Introduction to Error Analysis: The Study of Uncertainties in Physical Measurements*
 - Michael de Podesta, *Understanding the Properties of Matter*
-
-- **cosmology, big history, historicism**
-- time symmetric quantum mechanics, two-state vector formalism
-- Janus cosmological model, Julian Barbour, Shape Dynamics *The Janus Point: A New Theory of Time*
-- Big History, Cosmology
-- Herbert Spencer, *First Principles*, ...
-- Philosophy of History, Historicism, Georg Wilhelm Friedrich Hegel, *The Encyclopeida Logic*, *Science of Logic*, Stephen Houlgate, *Hegel on Being* 
-- Karl Marx, Dialectial Materialsm, Communism, ...
-- Karl Popper, *The Poverty of Historicism*, ...
-- Economics, Markets, History of Economic Theory, ...
 
 - **philosophical categories, structure of meaning**
 - Categories of Being: Aristotle, Kant, Hegel, Peirce
