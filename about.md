@@ -17,4 +17,3 @@ An collection of essays in synthetic philosophy primarily influenced by the work
  - GH-pages: `https://a-guess-at-the-riddle.github.io/`
  - Zotero: `https://www.zotero.org/arisbe__`
  - Discord: `arisbe#3899`
-- (image hosting?) look into Nextcloud (self-hosted)
