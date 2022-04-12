@@ -247,7 +247,7 @@ published: false
 - problem of induction, consilience of inductions, William Whewell, *History of the Inductive Sciences*, *The Philosophy of the Inductive Sciences* 
 - natural induction, material induction, John D Norton, *The Material Theory of Induction*, ...
 - G. A. Cory Jr, *The Consilient Brain*, *Toward Consilence*, ...
-- Peter Watson, Convergence the Idea at the Heart of Science
+- Peter Watson, *Convergence the Idea at the Heart of Science*
 - Mario Bunge, *Emergence and Convergence: Qualitative Novelty and the Unity of Knowledge*
 
 - **Combinatorics, Data Structures**
