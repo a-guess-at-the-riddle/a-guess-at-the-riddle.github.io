@@ -90,12 +90,17 @@ published: false
 - Larson, James (2010) In Search of Synergy in Small Group Performance
 - Steiner, I. D. (1972) Group processes and productivity
 
-- **Philosophy of Probability & Statistics:**
+- **Philosophy and History of Probability & Statistics:**
 - Naseem Taleb, *Incerto*
-- Krzystof Burdzy, Resonance From Probability to Epistemology and Back
-- Deborah G. Mayo, Error and the Growth of Experimental Knowledge
-- Deborah G. Mayo, Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars
-- David Ruelle, Chance and Chaos
+- Krzystof Burdzy, *Resonance From Probability to Epistemology and Back*
+- Deborah G. Mayo, *Error and the Growth of Experimental Knowledge*
+- Deborah G. Mayo, *Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars*
+- John Maynard Keynes, *A Treatise on Proability*
+- Arthur W Burks, Chance, *Cause, Reason An Inquiry into the Nature of Scientific Evidence*
+- David Ruelle, *Chance and Chaos*
+- I. J. Good, *Good Thinking The Foundations of Probability and its Applications*
+- I. J. Good, *Probability and the Weighing of Evidence*
+- E. T. Jaynes, *Probability Theory: The Logic of Science*
 - (law of large numbers? philosophy?)
 
 - **history of trade, debt & money**
