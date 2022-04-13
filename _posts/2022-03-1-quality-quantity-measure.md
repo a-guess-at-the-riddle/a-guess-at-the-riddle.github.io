@@ -231,7 +231,13 @@ published: false
 - history of mathematics, number, quantity, discrete, continuous, measure, ...
 - George Polya, *Mathematics and Plausible Reasoning, vol I & II*
 - history of computation, qualitative computation???, discrete computation, analog/real computation, ...
-- *Set Theory and the Number Systems*
+- Kinsolving, *Set Theory and the Number Systems*
+- David Foster Wallace, *Everything and More: A Compact History of Infinity*
+- Bill Shillito, Introduction to Higher Mathematics (lecture course) - https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX
+- Bertrand Russell, *Introduction to Mathematical Philosophy* (Dover)
+- Richard Hammock, *Book of Proof*, Third Edition
+- Patrick Keef and David Guichard, Introduction to Higher Mathematics (html book) - https://www.whitman.edu/mathematics/higher_math_online/
+- Donald W Hight, *A Concept of Limits* (Dover)
 - H Gramm Flegg, *From Geometry to Topology* (Dover)
 - P.D. Magnus & Tim Button, *forall x: Calgary An Introduction to Formal Logic* with additions by J Robert Loftis & Robert Trueman, remixed and revised by Aaron Thomas-Bolduc & Richard Zach
 - Michael Spivak, *Calculus*
@@ -247,12 +253,6 @@ published: false
 - Thomas Heath, *Euclid's Elements*
 - Gregory S. Chirikjian, Alexander B. Kyatkin, *Harmonic Analysis for Engineers and Applied Scientists* (Dover)
 - J Yeh, *Real Analysis: Theory of Measure and Integration*
-- David Foster Wallace, *Everything and More: A Compact History of Infinity*
-- Bill Shillito, Introduction to Higher Mathematics (lecture course) - https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX
-- Bertrand Russell, *Introduction to Mathematical Philosophy* (Dover)
-- Richard Hammock, *Book of Proof*, Third Edition
-- Patrick Keef and David Guichard, Introduction to Higher Mathematics (html book) - https://www.whitman.edu/mathematics/higher_math_online/
-- Donald W Hight, *A Concept of Limits* (Dover)
 - Saracino, *Abstract Algebra, A First Course*
 - Richard Johnson, *University Algebra*
 - Rosenlicht, *Introduction to Analysis*
