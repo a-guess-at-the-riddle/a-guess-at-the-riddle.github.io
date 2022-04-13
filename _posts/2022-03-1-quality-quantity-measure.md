@@ -255,6 +255,9 @@ published: false
 - Peter Watson, *Convergence the Idea at the Heart of Science*
 - Mario Bunge, *Emergence and Convergence: Qualitative Novelty and the Unity of Knowledge*
 
+- **Causation**
+- Jonas Peters, Dominik Janzing, and Bernhard Scholkopf, *Elements of Causal Inference Foundations and Learning Algorithms*
+
 - **Combinatorics, Data Structures**
 - Niven, *Mathematics of Choice*
 - data structures, data structure design space, combinatorial design, ...
