@@ -224,18 +224,29 @@ published: false
 - John J. McDermott (ed.), *Josiah Royce, Basic Writings (Vol 1 & 2)*
 - John Clendenning (ed.), *The Letters of Josiah Royce*
 
+**Grammer**
+- Randolph Quirk , Sidney Greenbaum, Geoffrey Leech, Jan Svartvik, *A Comprehensive Grammar of the English Language**
+
 - **Mathematics**
 - history of mathematics, number, quantity, discrete, continuous, measure, ...
 - George Polya, *Mathematics and Plausible Reasoning, vol I & II*
 - history of computation, qualitative computation???, discrete computation, analog/real computation, ...
 - *Set Theory and the Number Systems*
-- Michael Spivak, *Calculus*
-- *Handbook of Analysis and its Foundations*
 - H Gramm Flegg, *From Geometry to Topology* (Dover)
 - P.D. Magnus & Tim Button, *forall x: Calgary An Introduction to Formal Logic* with additions by J Robert Loftis & Robert Trueman, remixed and revised by Aaron Thomas-Bolduc & Richard Zach
-- *Relations: Concrete, Abstract, and Applied An Introduction*
-- Naumov Ivan, *A course of mathematics Book I Construction of numbers length and area*
-- Naumov Ivan,  *A course of mathematics Book II Construction of complex numbers and functions. Basic mathematical analysis*
+- Michael Spivak, *Calculus*
+- Trapp, *Multivariable Calculus*
+- Susan Colley, *Vector Calculus*
+- Eric Schechter, *Handbook of Analysis and its Foundations*
+- Herbert Toth, *Relations: Concrete, Abstract, and Applied An Introduction*
+- William Barker, Roger Howe, *Continuous Symmetry*
+- Jay Cummings, *Real Analysis: A Long-Form Mathematics Textbook*
+- Rudin, *Principles of Mathematical Analysis*
+- Andrew Gleason, *Fundamentals of Abstract Analysis*
+- R. Creighton Buck, *Advanced Calculus*, Third Edition 3rd Edition
+- Thomas Heath, *Euclid's Elements*
+- Gregory S. Chirikjian, Alexander B. Kyatkin, *Harmonic Analysis for Engineers and Applied Scientists* (Dover)
+- J Yeh, *Real Analysis: Theory of Measure and Integration*
 - David Foster Wallace, *Everything and More: A Compact History of Infinity*
 - Bill Shillito, Introduction to Higher Mathematics (lecture course) - https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX
 - Bertrand Russell, *Introduction to Mathematical Philosophy* (Dover)
@@ -265,6 +276,7 @@ published: false
 - Garnett P. Williams, *Chaos Theory Tamed*
 - Morris W. Hirsch, Stephen Smale, Robert L. Devaney, *Differential Equations, Dynamical Systems, and an Introduction to Chaos*
 - Robert L. Devaney, *Introduction to Chaotic Dynamical Systems*
+- James D. Louck, M. L. Stein, *The (1+ 1)-nonlinear Universe Of The Parabolic Map And Combinatorics*
 
 
 - **Evolutionary Neuroscience**
