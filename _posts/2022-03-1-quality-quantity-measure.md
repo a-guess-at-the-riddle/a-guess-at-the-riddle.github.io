@@ -103,6 +103,21 @@ published: false
 - E. T. Jaynes, *Probability Theory: The Logic of Science*
 - (law of large numbers? philosophy?)
 
+- **Scientific Method, Induction, Conscilience, Convergence**
+- anthropic principle, ...
+- scientific method
+- John Dewey, *Logic: The Theory of Inquiry* 
+- Tom Beakbane, *How to Understand Everything: Consilience: A New Way to See the World*
+- problem of induction, consilience of inductions, William Whewell, *History of the Inductive Sciences*, *The Philosophy of the Inductive Sciences* 
+- Richard Watson, natural induction, (articles)
+- John D Norton, material induction, *The Material Theory of Induction*, *The Large-Scale Structure of Inductive Inference* ...
+- G. A. Cory Jr, *The Consilient Brain*, *Toward Consilence*, ...
+- Peter Watson, *Convergence the Idea at the Heart of Science*
+- Mario Bunge, *Emergence and Convergence: Qualitative Novelty and the Unity of Knowledge*
+
+- **Causation**
+- Jonas Peters, Dominik Janzing, and Bernhard Scholkopf, *Elements of Causal Inference Foundations and Learning Algorithms*
+
 - **history of trade, debt & money**
 - ...
 
@@ -243,20 +258,6 @@ published: false
 - **Evolutionary Neuroscience**
 - Evolutionary Neuroscience, Paul D. MacLean, triune brain theory, *Principles of Brain Evolution*, ...
 - John Eccles, ...
-
-- **Scientific Method, Induction, Conscilience, Convergence**
-- anthropic principle, ...
-- scientific method
-- John Dewey, *Logic: The Theory of Inquiry* 
-- Tom Beakbane, *How to Understand Everything: Consilience: A New Way to See the World*
-- problem of induction, consilience of inductions, William Whewell, *History of the Inductive Sciences*, *The Philosophy of the Inductive Sciences* 
-- natural induction, material induction, John D Norton, *The Material Theory of Induction*, ...
-- G. A. Cory Jr, *The Consilient Brain*, *Toward Consilence*, ...
-- Peter Watson, *Convergence the Idea at the Heart of Science*
-- Mario Bunge, *Emergence and Convergence: Qualitative Novelty and the Unity of Knowledge*
-
-- **Causation**
-- Jonas Peters, Dominik Janzing, and Bernhard Scholkopf, *Elements of Causal Inference Foundations and Learning Algorithms*
 
 - **Combinatorics, Data Structures**
 - Niven, *Mathematics of Choice*
