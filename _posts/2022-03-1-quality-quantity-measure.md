@@ -59,23 +59,23 @@ published: false
 - Daniel R. Headrick, *Technology: A World History*
 - Ruth Schwartz Cowan, *A Social History of American Technology*
 - Harold James, *The War of Words: A Glossary of Globalization*
-- Jean Jones Pannell, *Man The Builder: An Illustrated History Of Engineering*Jean Jones Pannell
-- Vaclav Smil, Growth: From Microorganisms to Megacities
-- Vaclav Smil, Making the Modern World: Materials and Dematerialization
-- Vaclav Smil, Transforming the Twentieth Century: Technical Innovations and Their Consequences
-- Vaclav Smil, Earth's Biosphere: Evolution, Dynamics, and Change
-- Vaclav Smil, Energy in Nature and Society: General Energetics of Complex Systems
-- Vaclav Smil, Harvesting the Biosphere: What We Have Taken From Nature
+- Jean Jones Pannell, *Man The Builder: An Illustrated History Of Engineering*
+- Vaclav Smil, *Growth: From Microorganisms to Megacities*
+- Vaclav Smil, *Making the Modern World: Materials and Dematerialization*
+- Vaclav Smil, *Transforming the Twentieth Century: Technical Innovations and Their Consequences*
+- Vaclav Smil, *Earth's Biosphere: Evolution, Dynamics, and Change*
+- Vaclav Smil, *Energy in Nature and Society: General Energetics of Complex Systems*
+- Vaclav Smil, *Harvesting the Biosphere: What We Have Taken From Nature*
 
 - **Big History and similar coarse-grained history books:**
-- Walter Alvarez, A Most Improbable Journey: A Big History Of Our Planet And Ourselves
-- Bill Bryson, A Short History Of Nearly Everything
-- Gregory Clark, A Farewell To Alms: A Brief Economic History Of The World
-- David Christian, Origin Story: A Big History Of Everything
-- Jared Diamond, Guns, Germs, And Steel: The Fates Of Human Societies
-- Valerie Hansen, The Year 1000: When Explorers Connected The World—And Globalization Began
-- Yuval Noah Harari, Spapiens A Brief History of Humankind
-- Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow
+- Walter Alvarez, *A Most Improbable Journey: A Big History Of Our Planet And Ourselves*
+- Bill Bryson, *A Short History Of Nearly Everything*
+- Gregory Clark, *A Farewell To Alms: A Brief Economic History Of The World*
+- David Christian, *Origin Story: A Big History Of Everything*
+- Jared Diamond, *Guns, Germs, And Steel: The Fates Of Human Societies*
+- Valerie Hansen, *The Year 1000: When Explorers Connected The World—And Globalization Began*
+- Yuval Noah Harari, *Spapiens A Brief History of Humankind*
+- Yuval Noah Harari, *Homo Deus: A Brief History of Tomorrow*
 
 - **Origins of Mind / Evolution:**
 - Daniel Dennett, *From Bacteria to Bach and Back: The Evolution of Minds*
@@ -254,6 +254,18 @@ published: false
 - Harold L Dorvart, *The Geometry of Incidence*
 - Harold Simmons, *An Introduction to Category Theory*
 - John Stillwell, *Reverse Mathematics, Proofs from the Inside Out*
+- Kenneth Falconer, *Fractal Geometry: Mathematical Foundations and Applications*
+- Michael F. Barnsley, *Fractals Everywhere: New Edition* (Dover)
+- Michael F. Barnsley, *SuperFractals*
+- Heinz-Otto Peitgen (Ed.) et al., *The Science of Fractal Images*
+- David Mumford  (Author), Caroline Series (Author), David Wright (Author), *Indra's Pearls: The Vision of Felix Klein*
+- Steven H. Strogatz, *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering*
+- Heinz-Otto Peitgen, Hartmut Jürgens, Dietmar Saupe, *Chaos and Fractals: New Frontiers of Science*
+- P Cvitanovic, *Universality in Chaos*
+- Garnett P. Williams, *Chaos Theory Tamed*
+- Morris W. Hirsch, Stephen Smale, Robert L. Devaney, *Differential Equations, Dynamical Systems, and an Introduction to Chaos*
+- Robert L. Devaney, *Introduction to Chaotic Dynamical Systems*
+
 
 - **Evolutionary Neuroscience**
 - Evolutionary Neuroscience, Paul D. MacLean, triune brain theory, *Principles of Brain Evolution*, ...
