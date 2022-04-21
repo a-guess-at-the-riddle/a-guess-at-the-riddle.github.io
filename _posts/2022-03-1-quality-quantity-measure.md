@@ -39,6 +39,9 @@ published: false
 - **thermodynamics**
 - Eric D Schneider & Dorion Sagan, *Into the Cool Energy Flow Thermodynamics and Life*
 - Robert T. Hanlon, *Block by Block: The Historical and Theoretical Foundations of Thermodynamics*
+- Adrian Bejan, *Freedom and Evolution: Hierarchy in Nature, Society and Science*
+- Bejan, Adrian; Lorente, Sylvie, *Design with Constructal Theory*
+- "For a finite-size system to persist in time (to live), it must evolve in such a way that it provides easier access to the imposed (global) currents that flow through it." - Adrian Bejan
 
 - **History & Philosophy of Science, Technology, and Ideas:**
 - Arthur O. Lovejoy, *The Great Chain of Being: A Study of the History of an Idea*
