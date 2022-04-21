@@ -224,7 +224,7 @@ published: false
 - John J. McDermott (ed.), *Josiah Royce, Basic Writings (Vol 1 & 2)*
 - John Clendenning (ed.), *The Letters of Josiah Royce*
 
-**Grammer**
+**Grammar**
 - Randolph Quirk , Sidney Greenbaum, Geoffrey Leech, Jan Svartvik, *A Comprehensive Grammar of the English Language**
 
 - **Mathematics**
