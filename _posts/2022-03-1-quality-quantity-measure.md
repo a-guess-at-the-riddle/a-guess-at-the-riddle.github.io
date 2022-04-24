@@ -70,15 +70,22 @@ published: false
 - Vaclav Smil, *Energy in Nature and Society: General Energetics of Complex Systems*
 - Vaclav Smil, *Harvesting the Biosphere: What We Have Taken From Nature*
 
-- **Big History and similar coarse-grained history books:**
-- Walter Alvarez, *A Most Improbable Journey: A Big History Of Our Planet And Ourselves*
-- Bill Bryson, *A Short History Of Nearly Everything*
-- Gregory Clark, *A Farewell To Alms: A Brief Economic History Of The World*
-- David Christian, *Origin Story: A Big History Of Everything*
-- Jared Diamond, *Guns, Germs, And Steel: The Fates Of Human Societies*
-- Valerie Hansen, *The Year 1000: When Explorers Connected The World—And Globalization Began*
-- Yuval Noah Harari, *Spapiens A Brief History of Humankind*
-- Yuval Noah Harari, *Homo Deus: A Brief History of Tomorrow*
+- **Macrohistory, Cliometrics, Big History, Universal History, and similar coarse-grained history books:**
+- Brian Thomas Swimme, Mary Evelyn Tucker, *Journey of the Universe*
+- Tyler Volk, *Quarks to Culture: How We Came to Be*
+- Joseph LeDoux, *The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains*
+- Walter Alvarez, A Most Improbable Journey: A Big History Of Our Planet And Ourselves
+- Bill Bryson, A Short History Of Nearly Everything
+- Gregory Clark, A Farewell To Alms: A Brief Economic History Of The World
+- David Christian, Origin Story: A Big History Of Everything
+- Peter Turchin, Figuring Out the Past: The 3,495 Vital Statistics that Explain World History
+- Peter Turchin, Ultrasociety: How 10,000 Years of War Made Humans the Greatest Cooperators on Earth
+- Peter Turchin, Historical Dynamics: Why States Rise and Fall
+- Jared Diamond, Guns, Germs, And Steel: The Fates Of Human Societies
+- Valerie Hansen, The Year 1000: When Explorers Connected The World—And Globalization Began
+- Yuval Noah Harari, Spapiens A Brief History of Humankind
+- Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow
+- Niall Ferguson, The Square and the Tower: Networks and Power, from the Freemasons to Facebook
 
 - **Origins of Mind / Evolution:**
 - Daniel Dennett, *From Bacteria to Bach and Back: The Evolution of Minds*
@@ -117,6 +124,18 @@ published: false
 - G. A. Cory Jr, *The Consilient Brain*, *Toward Consilence*, ...
 - Peter Watson, *Convergence the Idea at the Heart of Science*
 - Mario Bunge, *Emergence and Convergence: Qualitative Novelty and the Unity of Knowledge*
+
+- **Philosophy and History of Probability & Statistics:**
+- Naseem Taleb, *Incerto*
+- Krzystof Burdzy, *Resonance From Probability to Epistemology and Back*
+- Deborah G. Mayo, *Error and the Growth of Experimental Knowledge*
+- Deborah G. Mayo, *Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars*
+- John Maynard Keynes, *A Treatise on Proability*
+- Arthur W Burks, *Chance, Cause, Reason An Inquiry into the Nature of Scientific Evidence*
+- David Ruelle, *Chance and Chaos*
+- I. J. Good, *Good Thinking The Foundations of Probability and its Applications*
+- I. J. Good, *Probability and the Weighing of Evidence*
+- E. T. Jaynes, *Probability Theory: The Logic of Science*
 
 - **Causation**
 - Jonas Peters, Dominik Janzing, and Bernhard Scholkopf, *Elements of Causal Inference Foundations and Learning Algorithms*
@@ -348,6 +367,15 @@ published: false
 - Claude Shannon, *A Mathematical Theory of Communication*
 - Thomas M. Cover, Joy A. Thomas, *Elements of Information Theory*
 - Richard P. Feynman, *Feynman Lectures On Computation*
+
+- **Earth System Sciences & Planetary Science**
+- Tyler Volk, *Gaia’s Body: Toward a Physiology of Earth*
+- James Lovelock, *Gaia: A New Look at Life on Earth *
+- Brian Skinner, Barbara Murck, *Blue Planet An Introduction to Earth System Science*, 3rd Edition
+
+- **Misc**
+- Tyler Volk, *Metapatterns*
+- Fritjof Capra, *The Tao of Physics*
 
 **Misc**
 - Richard Bellman, dynamic programming, Bellman equation, *Stability Theory of Differential Equations*
