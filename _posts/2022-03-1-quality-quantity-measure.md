@@ -125,17 +125,15 @@ published: false
 - Peter Watson, *Convergence the Idea at the Heart of Science*
 - Mario Bunge, *Emergence and Convergence: Qualitative Novelty and the Unity of Knowledge*
 
-- **Philosophy and History of Probability & Statistics:**
-- Naseem Taleb, *Incerto*
-- Krzystof Burdzy, *Resonance From Probability to Epistemology and Back*
-- Deborah G. Mayo, *Error and the Growth of Experimental Knowledge*
-- Deborah G. Mayo, *Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars*
-- John Maynard Keynes, *A Treatise on Proability*
-- Arthur W Burks, *Chance, Cause, Reason An Inquiry into the Nature of Scientific Evidence*
-- David Ruelle, *Chance and Chaos*
-- I. J. Good, *Good Thinking The Foundations of Probability and its Applications*
-- I. J. Good, *Probability and the Weighing of Evidence*
-- E. T. Jaynes, *Probability Theory: The Logic of Science*
+- **Philosophy of History / Historicism**
+- Hegel
+- F H Bradley
+- R G Collingwood
+- Oswald Spengler
+- Arnold J. Toynbee
+- Isiah Berlin
+- Francis Fukuyama
+- Karl Popper, *The Poverty of Historicism*
 
 - **Causation**
 - Jonas Peters, Dominik Janzing, and Bernhard Scholkopf, *Elements of Causal Inference Foundations and Learning Algorithms*
