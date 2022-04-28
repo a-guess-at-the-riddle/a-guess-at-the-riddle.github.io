@@ -244,15 +244,22 @@ published: false
 - John J. McDermott (ed.), *Josiah Royce, Basic Writings (Vol 1 & 2)*
 - John Clendenning (ed.), *The Letters of Josiah Royce*
 
-**Grammar**
+- **Grammar**
 - Randolph Quirk , Sidney Greenbaum, Geoffrey Leech, Jan Svartvik, *A Comprehensive Grammar of the English Language**
+
+- **Books about Doing Mathematics (and History of Math)**
+- George Polya, *Mathematics and Plausible Reasoning, vol I & II*
+- George Polya, *How to Solve It: A New Aspect of Mathematical Method*
+- David Foster Wallace, *Everything and More: A Compact History of Infinity*
+- Davis, Philip J., and Reuben Hersh, *The Mathematical Experience*
+- George Lakoff and Rafael Núñez, *Where Mathematics Comes From*
+- John Randolph Lucas, *The Conceptual Roots of Mathematics*
+- Saunders Mac Lane, 1986 *Mathematics: Form and Function*
 
 - **Mathematics**
 - history of mathematics, number, quantity, discrete, continuous, measure, ...
-- George Polya, *Mathematics and Plausible Reasoning, vol I & II*
 - history of computation, qualitative computation???, discrete computation, analog/real computation, ...
 - Kinsolving, *Set Theory and the Number Systems*
-- David Foster Wallace, *Everything and More: A Compact History of Infinity*
 - Bill Shillito, Introduction to Higher Mathematics (lecture course) - https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX
 - Bertrand Russell, *Introduction to Mathematical Philosophy* (Dover)
 - Richard Hammock, *Book of Proof*, Third Edition
@@ -280,7 +287,7 @@ published: false
 - James Munkres, *Topology*
 - Donald Knuth, *Surreal Numbers*
 - H.S.M. Coxeter, *Projective Geometry*, Second Edition
-- Abraham Adrian Albert and Reuben Sandler, An Introduction to Finite Projective Planes
+- Abraham Adrian Albert and Reuben Sandler, *An Introduction to Finite Projective Planes*
 - R. F. Jolly, *Synthetic Geometry*
 - Harold L Dorvart, *The Geometry of Incidence*
 - Harold Simmons, *An Introduction to Category Theory*
@@ -296,7 +303,7 @@ published: false
 - Garnett P. Williams, *Chaos Theory Tamed*
 - Morris W. Hirsch, Stephen Smale, Robert L. Devaney, *Differential Equations, Dynamical Systems, and an Introduction to Chaos*
 - Robert L. Devaney, *Introduction to Chaotic Dynamical Systems*
-- James D. Louck, M. L. Stein, *The (1+ 1)-nonlinear Universe Of The Parabolic Map And Combinatorics*
+- James D. Louck, M. L. Stein, *The (1 + 1)-nonlinear Universe Of The Parabolic Map And Combinatorics*
 
 
 - **Evolutionary Neuroscience**
@@ -656,6 +663,9 @@ Willis F. Overton (Editor), David S. Palermo (Editor), *The Nature and Ontogenes
 Jean Piaget, *Logic and Psychology*
 
 James Gibson, *The Ecological Approach to Visual Perception*
+
+- George Lakoff, *Women, Fire and Dangerous Things*
+- George Lakoff and Mark Johnson, *Philosophy in the Flesh*
 
 ??Upcoming Jordan Peterson lecture course on Piaget??
 
