@@ -1,6 +1,15 @@
 ---
 title: "Directory"
 ---
+
+> The undifferentiated differentiates itself. The homogenous puts on heterogeneity.  -- Herbert Spencer
+
+> Spencer also gave an alternative definition of evolution as an integration of matter and concomitant dissipation of motion; during which the matter passes from a relatively indefinite, incoherent homogeneity to a relatively definite, coherent heterogeneity.” (First Principles, 367).
+
+> This was subsequently lampooned by the mathematician Kirkman, who gave the following "translation" into English: 
+
+> 'Evolution is a change from a nohowish, untalkaboutable, all-alikeness, to a somehowish and in-generaltalkabaoutable not-all-alikeness, by continuous somethingelseifications and sticktogetherations' (originally from a letter published in Nature in the 1890s; cf. Spencer (1900)).
+
 **misc**
 - Cat-v.org - Bell Labs, UNIX, Plan 9 OS, Golang, and more ... - https://cat-v.org/
 - Paul G Hewitt, CONCEPTUAL PHYSICS ALIVE Online | (Vimeo On Demand, Arbor Scientfic) - https://vimeo.com/ondemand/cpa/ - ($199)
@@ -20,6 +29,8 @@ title: "Directory"
 8. Donald Knuth
 9. John Maynard Keynes
 10. Jacob Bronowski
+11. Forest Landry
+12. James P. Carse
 
 Favorite Textbook Authors
 Donald Knuth, Michael Spivak, Rob Pike, Brian Kernighan, Leo Brodie...
