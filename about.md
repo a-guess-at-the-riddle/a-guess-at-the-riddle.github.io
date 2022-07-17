@@ -9,11 +9,4 @@ An collection of essays in synthetic philosophy primarily influenced by the work
 
 
 ## Social media:
- - Twitter: `https://twitter.com/arisbe__` 
- - Reddit: `https://reddit.com/user/arisbe__`
- - Hacker News: `https://news.ycombinator.com/user?id=arisbe__`
- - YouTube: `https://www.youtube.com/channel/UCjgQ2pJDjZlhdI4Ym7NQdUw`
- - GitHub: `https://github.com/a-guess-at-the-riddle`
- - GH-pages: `https://a-guess-at-the-riddle.github.io/`
- - Zotero: `https://www.zotero.org/arisbe__`
- - Discord: `arisbe#3899`
+Carrd: https://arisbe.carrd.co/
